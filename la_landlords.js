@@ -32,7 +32,7 @@ var la_landlords = [{
         "Registration Date": 30883,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@bchs.coop",
+        "UCLSEmail": "universal.credit_+_bchs.coop",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -108,8 +108,8 @@ var la_landlords = [{
         "Registration Date": 27618,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@a2dominion.co.uk",
-        "UCFSEmail": "universalcredit@a2dominion.co.uk",
+        "UCLSEmail": "universalcredit_+_a2dominion.co.uk",
+        "UCFSEmail": "universalcredit_+_a2dominion.co.uk",
         "1st Contact email": ""
     },
     {
@@ -127,8 +127,8 @@ var la_landlords = [{
         "Registration Date": 36487,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@a2dominion.co.uk",
-        "UCFSEmail": "universalcredit@a2dominion.co.uk",
+        "UCLSEmail": "universalcredit_+_a2dominion.co.uk",
+        "UCFSEmail": "universalcredit_+_a2dominion.co.uk",
         "1st Contact email": ""
     },
     {
@@ -146,8 +146,8 @@ var la_landlords = [{
         "Registration Date": 36845,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@a2dominion.co.uk",
-        "UCFSEmail": "universalcredit@a2dominion.co.uk",
+        "UCLSEmail": "universalcredit_+_a2dominion.co.uk",
+        "UCFSEmail": "universalcredit_+_a2dominion.co.uk",
         "1st Contact email": ""
     },
     {
@@ -165,8 +165,8 @@ var la_landlords = [{
         "Registration Date": 35761,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@a2dominion.co.uk",
-        "UCFSEmail": "universalcredit@a2dominion.co.uk",
+        "UCLSEmail": "universalcredit_+_a2dominion.co.uk",
+        "UCFSEmail": "universalcredit_+_a2dominion.co.uk",
         "1st Contact email": ""
     },
     {
@@ -488,8 +488,8 @@ var la_landlords = [{
         "Registration Date": 28044,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "Housing@ability-housing.co.uk",
-        "UCFSEmail": "Universalcredit@ability-housing.co.uk",
+        "UCLSEmail": "Housing_+_ability-housing.co.uk",
+        "UCFSEmail": "Universalcredit_+_ability-housing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -507,8 +507,8 @@ var la_landlords = [{
         "Registration Date": 37152,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@accentgroup.org ",
-        "UCFSEmail": "Universal.credit@accentgroup.org",
+        "UCLSEmail": "universal.credit_+_accentgroup.org ",
+        "UCFSEmail": "Universal.credit_+_accentgroup.org",
         "1st Contact email": ""
     },
     {
@@ -526,8 +526,8 @@ var la_landlords = [{
         "Registration Date": 39469,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@accentgroup.org ",
-        "UCFSEmail": "Universal.credit@accentgroup.org",
+        "UCLSEmail": "universal.credit_+_accentgroup.org ",
+        "UCFSEmail": "Universal.credit_+_accentgroup.org",
         "1st Contact email": ""
     },
     {
@@ -545,8 +545,8 @@ var la_landlords = [{
         "Registration Date": 27862,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@accentgroup.org ",
-        "UCFSEmail": "Universal.credit@accentgroup.org",
+        "UCLSEmail": "universal.credit_+_accentgroup.org ",
+        "UCFSEmail": "Universal.credit_+_accentgroup.org",
         "1st Contact email": ""
     },
     {
@@ -603,7 +603,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universal.credit@newlon.org.uk",
+        "UCFSEmail": "universal.credit_+_newlon.org.uk",
         "1st Contact email": ""
     },
     {
@@ -659,7 +659,7 @@ var la_landlords = [{
         "Registration Date": 32951,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@accordha.org.uk",
+        "UCLSEmail": "universal.credit_+_accordha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -678,7 +678,7 @@ var la_landlords = [{
         "Registration Date": 36417,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@acisgroup.co.uk",
+        "UCLSEmail": "Universal.credit_+_acisgroup.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -697,7 +697,7 @@ var la_landlords = [{
         "Registration Date": 40696,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "info@actionorg.uk",
+        "UCLSEmail": "info_+_actionorg.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -716,8 +716,8 @@ var la_landlords = [{
         "Registration Date": 27555,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "RentAccounting@adactushousing.co.uk",
-        "UCFSEmail": "info@adactushousing.co.uk",
+        "UCLSEmail": "RentAccounting_+_adactushousing.co.uk",
+        "UCFSEmail": "info_+_adactushousing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -735,8 +735,8 @@ var la_landlords = [{
         "Registration Date": 37446,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "RentAccounting@adactushousing.co.uk",
-        "UCFSEmail": "info@adactushousing.co.uk",
+        "UCLSEmail": "RentAccounting_+_adactushousing.co.uk",
+        "UCFSEmail": "info_+_adactushousing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -811,7 +811,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universalcreditinfo@midsussex.gcsx.gov.uk",
+        "UCLSEmail": "universalcreditinfo_+_midsussex.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -830,8 +830,8 @@ var la_landlords = [{
         "Registration Date": 27590,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "housing@advanceuk.org",
-        "UCFSEmail": "income@advanceuk.org",
+        "UCLSEmail": "housing_+_advanceuk.org",
+        "UCFSEmail": "income_+_advanceuk.org",
         "1st Contact email": ""
     },
     {
@@ -849,8 +849,8 @@ var la_landlords = [{
         "Registration Date": 40816,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "UCNotices@affinitysutton.com ",
-        "UCFSEmail": "UCNotices@affinitysutton.com",
+        "UCLSEmail": "UCNotices_+_affinitysutton.com ",
+        "UCFSEmail": "UCNotices_+_affinitysutton.com",
         "1st Contact email": ""
     },
     {
@@ -963,7 +963,7 @@ var la_landlords = [{
         "Registration Date": 27862,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@aldwyck.co.uk",
+        "UCLSEmail": "universal.credit_+_aldwyck.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -982,7 +982,7 @@ var la_landlords = [{
         "Registration Date": 27864,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@aldwyck.co.uk",
+        "UCLSEmail": "universal.credit_+_aldwyck.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -1154,7 +1154,7 @@ var la_landlords = [{
         "Legal Entity": "Charity Commission Only",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@stoll.org.uk",
+        "UCFSEmail": "universalcredit_+_stoll.org.uk",
         "1st Contact email": ""
     },
     {
@@ -1229,7 +1229,7 @@ var la_landlords = [{
         "Registration Date": 27736,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@alpha-homes.co.uk",
+        "UCLSEmail": "universal.credit_+_alpha-homes.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -1248,7 +1248,7 @@ var la_landlords = [{
         "Registration Date": 29745,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@bchs.coop",
+        "UCLSEmail": "universal.credit_+_bchs.coop",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -1267,7 +1267,7 @@ var la_landlords = [{
         "Registration Date": 28317,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -1286,8 +1286,8 @@ var la_landlords = [{
         "Registration Date": 36235,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@AmicusHorizon.org.uk",
-        "UCFSEmail": "Universal.Credit@AmicusHorizon.org.uk",
+        "UCLSEmail": "Universal.Credit_+_AmicusHorizon.org.uk",
+        "UCFSEmail": "Universal.Credit_+_AmicusHorizon.org.uk",
         "1st Contact email": ""
     },
     {
@@ -1305,8 +1305,8 @@ var la_landlords = [{
         "Registration Date": 40098,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@AmicusHorizon.org.uk",
-        "UCFSEmail": "universalcredit@amicushorizon.org.uk ",
+        "UCLSEmail": "Universal.Credit_+_AmicusHorizon.org.uk",
+        "UCFSEmail": "universalcredit_+_amicushorizon.org.uk ",
         "1st Contact email": ""
     },
     {
@@ -1324,7 +1324,7 @@ var la_landlords = [{
         "Registration Date": 41094,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@anchor-properties.org",
+        "UCLSEmail": "universal.credit_+_anchor-properties.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -1344,7 +1344,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House & CC",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@anchor.org.uk",
+        "UCFSEmail": "universalcredit_+_anchor.org.uk",
         "1st Contact email": ""
     },
     {
@@ -1381,7 +1381,7 @@ var la_landlords = [{
         "Registration Date": 38496,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@apnaghar.org.uk",
+        "UCLSEmail": "universal.credit_+_apnaghar.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -1400,7 +1400,7 @@ var la_landlords = [{
         "Registration Date": 34597,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@aragon-housing.co.uk",
+        "UCLSEmail": "universal.credit_+_aragon-housing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -1419,7 +1419,7 @@ var la_landlords = [{
         "Registration Date": 31810,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@arawakwalton.com",
+        "UCLSEmail": "universal.credit_+_arawakwalton.com",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -1438,7 +1438,7 @@ var la_landlords = [{
         "Registration Date": 27708,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "jamiet@archeshousing.org.uk",
+        "UCLSEmail": "jamiet_+_archeshousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -1476,8 +1476,8 @@ var la_landlords = [{
         "Registration Date": 27862,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@yourhousinggroup.co.uk",
-        "UCFSEmail": "universal.credit@yourhousinggroup.co.uk",
+        "UCLSEmail": "universal.credit_+_yourhousinggroup.co.uk",
+        "UCFSEmail": "universal.credit_+_yourhousinggroup.co.uk",
         "1st Contact email": ""
     },
     {
@@ -1514,8 +1514,8 @@ var la_landlords = [{
         "Registration Date": 32482,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universalcredit@arhag.co.uk",
-        "UCFSEmail": "universalcredit@arhag.co.uk",
+        "UCLSEmail": "Universalcredit_+_arhag.co.uk",
+        "UCFSEmail": "universalcredit_+_arhag.co.uk",
         "1st Contact email": ""
     },
     {
@@ -1590,7 +1590,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Rent.Arrears@arun.gov.uk",
+        "UCLSEmail": "Rent.Arrears_+_arun.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -1742,7 +1742,7 @@ var la_landlords = [{
         "Registration Date": 34408,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@ashrammoseleyha.org.uk ",
+        "UCLSEmail": "universal.credit_+_ashrammoseleyha.org.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -1780,7 +1780,7 @@ var la_landlords = [{
         "Registration Date": 36188,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@ashtonpioneerhomes.co.uk",
+        "UCLSEmail": "universal.credit_+_ashtonpioneerhomes.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -1818,7 +1818,7 @@ var la_landlords = [{
         "Registration Date": 36487,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@aspirehousing.co.uk",
+        "UCLSEmail": "universal.credit_+_aspirehousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -1837,8 +1837,8 @@ var la_landlords = [{
         "Registration Date": 31019,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@asra.org.uk",
-        "UCFSEmail": "universalcredit@asra.org.uk ",
+        "UCLSEmail": "universalcredit_+_asra.org.uk",
+        "UCFSEmail": "universalcredit_+_asra.org.uk ",
         "1st Contact email": ""
     },
     {
@@ -1856,8 +1856,8 @@ var la_landlords = [{
         "Registration Date": 39525,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@asra.org.uk",
-        "UCFSEmail": "universalcredit@asra.org.uk ",
+        "UCLSEmail": "universalcredit_+_asra.org.uk",
+        "UCFSEmail": "universalcredit_+_asra.org.uk ",
         "1st Contact email": ""
     },
     {
@@ -1875,8 +1875,8 @@ var la_landlords = [{
         "Registration Date": 41157,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universalcredit@asra.org.uk",
-        "UCFSEmail": "universalcredit@asra.org.uk",
+        "UCLSEmail": "universalcredit_+_asra.org.uk",
+        "UCFSEmail": "universalcredit_+_asra.org.uk",
         "1st Contact email": ""
     },
     {
@@ -1894,8 +1894,8 @@ var la_landlords = [{
         "Registration Date": 40942,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@aster.co.uk",
-        "UCFSEmail": "universal.credit@aster.co.uk",
+        "UCLSEmail": "universal.credit_+_aster.co.uk",
+        "UCFSEmail": "universal.credit_+_aster.co.uk",
         "1st Contact email": ""
     },
     {
@@ -1914,7 +1914,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No Match to UCLS Data",
-        "UCFSEmail": "universal.credit@aster.co.uk",
+        "UCFSEmail": "universal.credit_+_aster.co.uk",
         "1st Contact email": ""
     },
     {
@@ -2027,7 +2027,7 @@ var la_landlords = [{
         "Registration Date": 27618,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "benefitsadvisor@axiomha.org.uk",
+        "UCLSEmail": "benefitsadvisor_+_axiomha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -2065,7 +2065,7 @@ var la_landlords = [{
         "Registration Date": 38678,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@b3living.org.uk",
+        "UCLSEmail": "universal.credit_+_b3living.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -2084,7 +2084,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@baberghmidsuffolk.gov.uk ",
+        "UCLSEmail": "Universal.credit_+_baberghmidsuffolk.gov.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -2104,7 +2104,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universal.credit@bahaykubo.org.uk",
+        "UCFSEmail": "universal.credit_+_bahaykubo.org.uk",
         "1st Contact email": ""
     },
     {
@@ -2141,7 +2141,7 @@ var la_landlords = [{
         "Registration Date": 28317,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@bchs.coop",
+        "UCLSEmail": "universal.credit_+_bchs.coop",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -2236,7 +2236,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Universalcredit@barnsley.gov.uk",
+        "UCLSEmail": "Universalcredit_+_barnsley.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -2331,7 +2331,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "income.recovery@bassetlaw.gov.uk",
+        "UCLSEmail": "income.recovery_+_bassetlaw.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -2408,7 +2408,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@coophomes.coop",
+        "UCFSEmail": "universalcredit_+_coophomes.coop",
         "1st Contact email": ""
     },
     {
@@ -2445,7 +2445,7 @@ var la_landlords = [{
         "Registration Date": 30704,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "RentAccounting@adactushousing.co.uk",
+        "UCLSEmail": "RentAccounting_+_adactushousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -2559,8 +2559,8 @@ var la_landlords = [{
         "Registration Date": 39469,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@bernicia.com",
-        "UCFSEmail": "universalcredit@bernicia.com",
+        "UCLSEmail": "universalcredit_+_bernicia.com",
+        "UCFSEmail": "universalcredit_+_bernicia.com",
         "1st Contact email": ""
     },
     {
@@ -2578,8 +2578,8 @@ var la_landlords = [{
         "Registration Date": 39735,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "bbhuc@fourhousing.co.uk",
-        "UCFSEmail": "bbhuc@fourhousing.co.uk",
+        "UCLSEmail": "bbhuc_+_fourhousing.co.uk",
+        "UCFSEmail": "bbhuc_+_fourhousing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -2598,7 +2598,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House & CC",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@bestha.co.uk",
+        "UCFSEmail": "universalcredit_+_bestha.co.uk",
         "1st Contact email": ""
     },
     {
@@ -2654,7 +2654,7 @@ var la_landlords = [{
         "Registration Date": 27736,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "enquiries@becha.org.uk ",
+        "UCLSEmail": "enquiries_+_becha.org.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -2768,7 +2768,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@birmingham.gov.uk",
+        "UCLSEmail": "Universal.Credit_+_birmingham.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -2787,7 +2787,7 @@ var la_landlords = [{
         "Registration Date": 27799,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "bcha@bcivic.co.uk",
+        "UCLSEmail": "bcha_+_bcivic.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -2882,7 +2882,7 @@ var la_landlords = [{
         "Registration Date": 27862,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@bchg.co.uk ",
+        "UCLSEmail": "universal.credit_+_bchg.co.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -2920,7 +2920,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "uc.claims@blackpool.gov.uk",
+        "UCLSEmail": "uc.claims_+_blackpool.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -2977,8 +2977,8 @@ var la_landlords = [{
         "Registration Date": 41158,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@bluesquareresidential.com",
-        "UCFSEmail": "universal.credit@bluesquareresidential.com",
+        "UCLSEmail": "universal.credit_+_bluesquareresidential.com",
+        "UCFSEmail": "universal.credit_+_bluesquareresidential.com",
         "1st Contact email": ""
     },
     {
@@ -3072,7 +3072,7 @@ var la_landlords = [{
         "Registration Date": 40582,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@boltonathome.org.uk",
+        "UCLSEmail": "universal.credit_+_boltonathome.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -3167,7 +3167,7 @@ var la_landlords = [{
         "Registration Date": 30613,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@bchs.coop",
+        "UCLSEmail": "universal.credit_+_bchs.coop",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -3186,7 +3186,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "ben.tomlin@poole.gcsx.gov.uk",
+        "UCLSEmail": "ben.tomlin_+_poole.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -3224,7 +3224,7 @@ var la_landlords = [{
         "Registration Date": 36487,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "DWP@Bostonmayflower.org.uk",
+        "UCLSEmail": "DWP_+_Bostonmayflower.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -3281,7 +3281,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "housing.landlord@bournemouth.gov.uk",
+        "UCLSEmail": "housing.landlord_+_bournemouth.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -3300,7 +3300,7 @@ var la_landlords = [{
         "Registration Date": 27555,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@bcha.org.uk",
+        "UCLSEmail": "universalcredit_+_bcha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -3338,7 +3338,7 @@ var la_landlords = [{
         "Registration Date": 27681,
         "Legal Entity": "Charity Commission Only",
         "Country": "England",
-        "UCLSEmail": "bvt.universal.credit.liaison@bvt.cjsm.net ",
+        "UCLSEmail": "bvt.universal.credit.liaison_+_bvt.cjsm.net ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -3395,8 +3395,8 @@ var la_landlords = [{
         "Registration Date": 32902,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@bpha.org.uk",
-        "UCFSEmail": "HousingAdmin@bpha.org.uk",
+        "UCLSEmail": "universal.credit_+_bpha.org.uk",
+        "UCFSEmail": "HousingAdmin_+_bpha.org.uk",
         "1st Contact email": ""
     },
     {
@@ -3433,7 +3433,7 @@ var la_landlords = [{
         "Registration Date": 39469,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@bracknellforesthomes.org.uk",
+        "UCLSEmail": "universal.credit_+_bracknellforesthomes.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -3491,7 +3491,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@coophomes.coop",
+        "UCFSEmail": "universalcredit_+_coophomes.coop",
         "1st Contact email": ""
     },
     {
@@ -3530,7 +3530,7 @@ var la_landlords = [{
         "Country": "England",
         "UCLSEmail": "No email gathered",
         "UCFSEmail": "No email gathered",
-        "1st Contact email": "universal.credit@accordha.org.uk"
+        "1st Contact email": "universal.credit_+_accordha.org.uk"
     },
     {
         "ID": 187,
@@ -3566,7 +3566,7 @@ var la_landlords = [{
         "Registration Date": 40634,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@bhphousing.co.uk ",
+        "UCLSEmail": "universal.credit_+_bhphousing.co.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -3662,7 +3662,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House & CC",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "UniversalCredit@ymca-sc.org",
+        "UCFSEmail": "UniversalCredit_+_ymca-sc.org",
         "1st Contact email": ""
     },
     {
@@ -3718,7 +3718,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "housing.incomemanagement@brighton-hove.gov.uk ",
+        "UCLSEmail": "housing.incomemanagement_+_brighton-hove.gov.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -3776,7 +3776,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House & CC",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@bht.hyps.org.uk",
+        "UCFSEmail": "universalcredit_+_bht.hyps.org.uk",
         "1st Contact email": ""
     },
     {
@@ -3984,7 +3984,7 @@ var la_landlords = [{
         "Registration Date": 40920,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@foundationuk.org",
+        "UCLSEmail": "universal.credit_+_foundationuk.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -4061,7 +4061,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "enquiries@fvha.org.uk",
+        "UCFSEmail": "enquiries_+_fvha.org.uk",
         "1st Contact email": ""
     },
     {
@@ -4117,8 +4117,8 @@ var la_landlords = [{
         "Registration Date": 34079,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@broadacres.org.uk",
-        "UCFSEmail": "Universal.credit@broadacres.org.uk",
+        "UCLSEmail": "universal.credit_+_broadacres.org.uk",
+        "UCFSEmail": "Universal.credit_+_broadacres.org.uk",
         "1st Contact email": ""
     },
     {
@@ -4155,8 +4155,8 @@ var la_landlords = [{
         "Registration Date": 27478,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@broadlandgroup.org",
-        "UCFSEmail": "universalcredit@broadlandgroup.org",
+        "UCLSEmail": "universalcredit_+_broadlandgroup.org",
+        "UCFSEmail": "universalcredit_+_broadlandgroup.org",
         "1st Contact email": ""
     },
     {
@@ -4193,8 +4193,8 @@ var la_landlords = [{
         "Registration Date": 38629,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@bromford.co.uk",
-        "UCFSEmail": "universal.credit@bromford.co.uk",
+        "UCLSEmail": "universal.credit_+_bromford.co.uk",
+        "UCFSEmail": "universal.credit_+_bromford.co.uk",
         "1st Contact email": ""
     },
     {
@@ -4212,7 +4212,7 @@ var la_landlords = [{
         "Registration Date": 42108,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@bromford.cjsm.net",
+        "UCLSEmail": "Universal.credit_+_bromford.cjsm.net",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -4231,8 +4231,8 @@ var la_landlords = [{
         "Registration Date": 38629,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@bromford.co.uk",
-        "UCFSEmail": "Universal.credit@bromford.co.uk",
+        "UCLSEmail": "Universal.credit_+_bromford.co.uk",
+        "UCFSEmail": "Universal.credit_+_bromford.co.uk",
         "1st Contact email": ""
     },
     {
@@ -4269,7 +4269,7 @@ var la_landlords = [{
         "Registration Date": 38069,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "financial_inclusion@bdht.co.uk",
+        "UCLSEmail": "financial_inclusion_+_bdht.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -4326,7 +4326,7 @@ var la_landlords = [{
         "Registration Date": 31849,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -4364,7 +4364,7 @@ var la_landlords = [{
         "Registration Date": 27590,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "uccustomerservices@brunelcare.org.uk",
+        "UCLSEmail": "uccustomerservices_+_brunelcare.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -4402,7 +4402,7 @@ var la_landlords = [{
         "Registration Date": 27925,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@bucksha.co.uk",
+        "UCLSEmail": "universal.credit_+_bucksha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -4516,8 +4516,8 @@ var la_landlords = [{
         "Registration Date": 41032,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@yhn.org.uk",
-        "UCFSEmail": "universal.credit@bykerct.co.uk",
+        "UCLSEmail": "universal.credit_+_yhn.org.uk",
+        "UCFSEmail": "universal.credit_+_bykerct.co.uk",
         "1st Contact email": ""
     },
     {
@@ -4592,8 +4592,8 @@ var la_landlords = [{
         "Registration Date": 36559,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@calico.org.uk",
-        "UCFSEmail": "contact@calico.org.uk",
+        "UCLSEmail": "universal.credit_+_calico.org.uk",
+        "UCFSEmail": "contact_+_calico.org.uk",
         "1st Contact email": ""
     },
     {
@@ -4706,7 +4706,7 @@ var la_landlords = [{
         "Registration Date": 27925,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -4744,7 +4744,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Lavinia.asquith@dover.gcsx.gov.uk",
+        "UCLSEmail": "Lavinia.asquith_+_dover.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -4783,7 +4783,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House Only",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Validate email - tenantservices@castlehousing.co.uk",
+        "UCFSEmail": "Validate email - tenantservices_+_castlehousing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -4801,7 +4801,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Rentarrearsteam@castlepoint.gov.uk",
+        "UCLSEmail": "Rentarrearsteam_+_castlepoint.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -4820,8 +4820,8 @@ var la_landlords = [{
         "Registration Date": 27681,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@chg.org.uk",
-        "UCFSEmail": "Universal.credit@chg.org.uk",
+        "UCLSEmail": "Universal.Credit_+_chg.org.uk",
+        "UCFSEmail": "Universal.credit_+_chg.org.uk",
         "1st Contact email": ""
     },
     {
@@ -4839,7 +4839,7 @@ var la_landlords = [{
         "Registration Date": 32643,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -4858,7 +4858,7 @@ var la_landlords = [{
         "Registration Date": 35761,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.CreditCbha@peabody.org.uk",
+        "UCLSEmail": "Universal.CreditCbha_+_peabody.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -4897,7 +4897,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Universalcredit@ccht.org.uk",
+        "UCFSEmail": "Universalcredit_+_ccht.org.uk",
         "1st Contact email": ""
     },
     {
@@ -4915,7 +4915,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "incomemanagementteam@centralbedfordshire.gov.uk",
+        "UCLSEmail": "incomemanagementteam_+_centralbedfordshire.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -4935,7 +4935,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House & CC",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "UCCentrepoint@centrepoint.org",
+        "UCFSEmail": "UCCentrepoint_+_centrepoint.org",
         "1st Contact email": ""
     },
     {
@@ -4953,8 +4953,8 @@ var la_landlords = [{
         "Registration Date": 39469,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@cestria.org",
-        "UCFSEmail": "Universal.credit@cestria.org",
+        "UCLSEmail": "universal.credit_+_cestria.org",
+        "UCFSEmail": "Universal.credit_+_cestria.org",
         "1st Contact email": ""
     },
     {
@@ -4973,7 +4973,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House & CC",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@clht.org",
+        "UCFSEmail": "universalcredit_+_clht.org",
         "1st Contact email": ""
     },
     {
@@ -4992,7 +4992,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House & CC",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Universalcredit@chapter1.org.uk",
+        "UCFSEmail": "Universalcredit_+_chapter1.org.uk",
         "1st Contact email": ""
     },
     {
@@ -5202,7 +5202,7 @@ var la_landlords = [{
         "Country": "England",
         "UCLSEmail": "No email gathered",
         "UCFSEmail": "No email gathered",
-        "1st Contact email": "universal.credit@accordha.org.uk"
+        "1st Contact email": "universal.credit_+_accordha.org.uk"
     },
     {
         "ID": 266,
@@ -5276,8 +5276,8 @@ var la_landlords = [{
         "Registration Date": 36235,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@familymosaic.co.uk",
-        "UCFSEmail": "Universal.Credit@familymosaic.co.uk",
+        "UCLSEmail": "Universal.Credit_+_familymosaic.co.uk",
+        "UCFSEmail": "Universal.Credit_+_familymosaic.co.uk",
         "1st Contact email": ""
     },
     {
@@ -5314,7 +5314,7 @@ var la_landlords = [{
         "Registration Date": 42278,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "rentsadmin@hortonhousing.co.uk",
+        "UCLSEmail": "rentsadmin_+_hortonhousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -5352,7 +5352,7 @@ var la_landlords = [{
         "Registration Date": 37300,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@chp.org.uk",
+        "UCLSEmail": "universal.credit_+_chp.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -5371,7 +5371,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@cheltenham.gov.uk",
+        "UCLSEmail": "universal.credit_+_cheltenham.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -5390,7 +5390,7 @@ var la_landlords = [{
         "Registration Date": 40697,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@cheltborohomes.org ",
+        "UCLSEmail": "universal.credit_+_cheltborohomes.org ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -5428,7 +5428,7 @@ var la_landlords = [{
         "Registration Date": 27618,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@cherchefelle.org.uk",
+        "UCLSEmail": "universal.credit_+_cherchefelle.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -5504,7 +5504,7 @@ var la_landlords = [{
         "Registration Date": 31341,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -5542,7 +5542,7 @@ var la_landlords = [{
         "Registration Date": 38909,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@peaksplains.org",
+        "UCLSEmail": "Universal.credit_+_peaksplains.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -5561,7 +5561,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Universal.creditEPN@plusdane.co.uk  ",
+        "UCLSEmail": "Universal.creditEPN_+_plusdane.co.uk  ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -5675,7 +5675,7 @@ var la_landlords = [{
         "Registration Date": 31488,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@chisel.org.uk ",
+        "UCLSEmail": "universal.credit_+_chisel.org.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -5751,7 +5751,7 @@ var la_landlords = [{
         "Registration Date": 39161,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "RentAccounting@adactushousing.co.uk",
+        "UCLSEmail": "RentAccounting_+_adactushousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -5865,7 +5865,7 @@ var la_landlords = [{
         "Registration Date": 34541,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcreditcircle33@circle.org.uk      ",
+        "UCLSEmail": "universalcreditcircle33_+_circle.org.uk      ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -5884,8 +5884,8 @@ var la_landlords = [{
         "Registration Date": 27500,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcreditcircle33@circle.org.uk      ",
-        "UCFSEmail": "Universalcreditcircle33@circle.org.uk",
+        "UCLSEmail": "universalcreditcircle33_+_circle.org.uk      ",
+        "UCFSEmail": "Universalcreditcircle33_+_circle.org.uk",
         "1st Contact email": ""
     },
     {
@@ -5999,7 +5999,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "dccs-Rentsteam@cityoflondon.gov.uk",
+        "UCFSEmail": "dccs-Rentsteam_+_cityoflondon.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -6036,7 +6036,7 @@ var la_landlords = [{
         "Registration Date": 34639,
         "Legal Entity": "Charity Commission Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@wellsalmshouses.org.uk",
+        "UCLSEmail": "universal.credit_+_wellsalmshouses.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -6055,7 +6055,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universalcreditIncomemanagers@cwh.org.uk",
+        "UCLSEmail": "universalcreditIncomemanagers_+_cwh.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -6074,8 +6074,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@york.gov.uk",
-        "UCFSEmail": "universal.credit@york.gov.uk",
+        "UCLSEmail": "universal.credit_+_york.gov.uk",
+        "UCFSEmail": "universal.credit_+_york.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -6093,7 +6093,7 @@ var la_landlords = [{
         "Registration Date": 39588,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universalcredit@citysouthmanchester.co.uk",
+        "UCLSEmail": "universalcredit_+_citysouthmanchester.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -6112,7 +6112,7 @@ var la_landlords = [{
         "Registration Date": 39644,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "UniversalCredit@citywest.org.uk",
+        "UCLSEmail": "UniversalCredit_+_citywest.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -6226,7 +6226,7 @@ var la_landlords = [{
         "Registration Date": 37446,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@cchousing.org.uk",
+        "UCLSEmail": "universalcredit_+_cchousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -6245,7 +6245,7 @@ var la_landlords = [{
         "Registration Date": 35871,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "Rebecca.jinks@coastline.cjsm.net",
+        "UCLSEmail": "Rebecca.jinks_+_coastline.cjsm.net",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -6264,7 +6264,7 @@ var la_landlords = [{
         "Registration Date": 37637,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@cobalthousing.org.uk",
+        "UCLSEmail": "universal.credit_+_cobalthousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -6302,7 +6302,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@colchester.gov.uk ",
+        "UCLSEmail": "universal.credit_+_colchester.gov.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -6340,7 +6340,7 @@ var la_landlords = [{
         "Registration Date": 27862,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": " universal.credit@colnehousing.co.uk",
+        "UCLSEmail": " universal.credit_+_colnehousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -6397,7 +6397,7 @@ var la_landlords = [{
         "Registration Date": 28450,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -6416,7 +6416,7 @@ var la_landlords = [{
         "Registration Date": 38680,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@communitygateway.co.uk",
+        "UCLSEmail": "universal.credit_+_communitygateway.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -6436,7 +6436,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "UC@networkhg.org.uk",
+        "UCFSEmail": "UC_+_networkhg.org.uk",
         "1st Contact email": ""
     },
     {
@@ -6473,7 +6473,7 @@ var la_landlords = [{
         "Registration Date": 28170,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@connecthousing.org.uk ",
+        "UCLSEmail": "Universal.credit_+_connecthousing.org.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -6492,8 +6492,8 @@ var la_landlords = [{
         "Registration Date": 30042,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@contourhomes.co.uk",
-        "UCFSEmail": "mail@contourhomes.co.uk",
+        "UCLSEmail": "universal.credit_+_contourhomes.co.uk",
+        "UCFSEmail": "mail_+_contourhomes.co.uk",
         "1st Contact email": ""
     },
     {
@@ -6569,7 +6569,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@coophomes.coop",
+        "UCFSEmail": "universalcredit_+_coophomes.coop",
         "1st Contact email": ""
     },
     {
@@ -6587,7 +6587,7 @@ var la_landlords = [{
         "Registration Date": 32118,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -6663,8 +6663,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Landlord.services@corby.gov.uk",
-        "UCFSEmail": "universal.credit@corby.gov.uk",
+        "UCLSEmail": "Landlord.services_+_corby.gov.uk",
+        "UCFSEmail": "universal.credit_+_corby.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -6682,7 +6682,7 @@ var la_landlords = [{
         "Registration Date": 28289,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -6701,7 +6701,7 @@ var la_landlords = [{
         "Registration Date": 27555,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@cornerstonehousing.net",
+        "UCLSEmail": "universal.credit_+_cornerstonehousing.net",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -6739,7 +6739,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@cornwall.gov.uk",
+        "UCLSEmail": "Universal.credit_+_cornwall.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -6758,7 +6758,7 @@ var la_landlords = [{
         "Registration Date": 40514,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@cornwallhousing.org.uk",
+        "UCLSEmail": "Universal.credit_+_cornwallhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -6777,7 +6777,7 @@ var la_landlords = [{
         "Registration Date": 31383,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "info@crha.org.uk",
+        "UCLSEmail": "info_+_crha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -6834,8 +6834,8 @@ var la_landlords = [{
         "Registration Date": 27590,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@placesforpeople.co.uk",
-        "UCFSEmail": "universalcredit@placesforpeople.co.uk",
+        "UCLSEmail": "universalcredit_+_placesforpeople.co.uk",
+        "UCFSEmail": "universalcredit_+_placesforpeople.co.uk",
         "1st Contact email": ""
     },
     {
@@ -6853,8 +6853,8 @@ var la_landlords = [{
         "Registration Date": 36972,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Sarah.pratley@cottsway.co.uk",
-        "UCFSEmail": "universalcredit@cottsway.co.uk",
+        "UCLSEmail": "Sarah.pratley_+_cottsway.co.uk",
+        "UCFSEmail": "universalcredit_+_cottsway.co.uk",
         "1st Contact email": ""
     },
     {
@@ -6910,7 +6910,7 @@ var la_landlords = [{
         "Registration Date": 42040,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@countydurhamhousinggroup.co.uk",
+        "UCLSEmail": "universal.credit_+_countydurhamhousinggroup.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -6968,7 +6968,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "England",
         "UCLSEmail": "No Match to UCLS Data",
-        "UCFSEmail": "housing@cravendc.gov.uk",
+        "UCFSEmail": "housing_+_cravendc.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -7100,7 +7100,7 @@ var la_landlords = [{
         "Registration Date": 27862,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "info@crosby-ha.org.uk",
+        "UCLSEmail": "info_+_crosby-ha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -7119,8 +7119,8 @@ var la_landlords = [{
         "Registration Date": 38258,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@crosskeyshomes.co.uk",
-        "UCFSEmail": "universal.credit@crosskeyshomes.co.uk",
+        "UCLSEmail": "universal.credit_+_crosskeyshomes.co.uk",
+        "UCFSEmail": "universal.credit_+_crosskeyshomes.co.uk",
         "1st Contact email": ""
     },
     {
@@ -7139,7 +7139,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@coophomes.coop",
+        "UCFSEmail": "universalcredit_+_coophomes.coop",
         "1st Contact email": ""
     },
     {
@@ -7158,7 +7158,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "income@ccha.biz",
+        "UCFSEmail": "income_+_ccha.biz",
         "1st Contact email": ""
     },
     {
@@ -7195,8 +7195,8 @@ var la_landlords = [{
         "Registration Date": 37335,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@curo-group.co.uk",
-        "UCFSEmail": "universal.credit@curo-group.co.uk",
+        "UCLSEmail": "universal.credit_+_curo-group.co.uk",
+        "UCFSEmail": "universal.credit_+_curo-group.co.uk",
         "1st Contact email": ""
     },
     {
@@ -7214,8 +7214,8 @@ var la_landlords = [{
         "Registration Date": 36235,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@curo-group.co.uk",
-        "UCFSEmail": "universal.credit@curo-group.co.uk",
+        "UCLSEmail": "universal.credit_+_curo-group.co.uk",
+        "UCFSEmail": "universal.credit_+_curo-group.co.uk",
         "1st Contact email": ""
     },
     {
@@ -7271,7 +7271,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "HOUSING@DACORUM.GOV.UK",
+        "UCLSEmail": "HOUSING_+_DACORUM.GOV.UK",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -7290,7 +7290,7 @@ var la_landlords = [{
         "Registration Date": 42040,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@daleandvalleyhomes.co.uk",
+        "UCLSEmail": "universal.credit_+_daleandvalleyhomes.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -7385,7 +7385,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "DWP.Housing@darlington.gcsx.gov.uk ",
+        "UCLSEmail": "DWP.Housing_+_darlington.gcsx.gov.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -7404,8 +7404,8 @@ var la_landlords = [{
         "Registration Date": 28233,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@darlingtonha.co.uk",
-        "UCFSEmail": "Universal.credit@darlingtonha.co.uk",
+        "UCLSEmail": "universal.credit_+_darlingtonha.co.uk",
+        "UCFSEmail": "Universal.credit_+_darlingtonha.co.uk",
         "1st Contact email": ""
     },
     {
@@ -7442,7 +7442,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "rents@dartford.gov.uk",
+        "UCLSEmail": "rents_+_dartford.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -7518,8 +7518,8 @@ var la_landlords = [{
         "Registration Date": 27618,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@waterloo.org.uk",
-        "UCFSEmail": "universal.credit@waterloo.org.uk",
+        "UCLSEmail": "universal.credit_+_waterloo.org.uk",
+        "UCFSEmail": "universal.credit_+_waterloo.org.uk",
         "1st Contact email": ""
     },
     {
@@ -7613,7 +7613,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@derbyhomes.org",
+        "UCLSEmail": "universal.credit_+_derbyhomes.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -7632,7 +7632,7 @@ var la_landlords = [{
         "Registration Date": 40644,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@derbyhomes.org",
+        "UCLSEmail": "universal.credit_+_derbyhomes.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -7689,8 +7689,8 @@ var la_landlords = [{
         "Registration Date": 41773,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@derwentliving.com",
-        "UCFSEmail": "universal.credit@derwentliving.com",
+        "UCLSEmail": "universal.credit_+_derwentliving.com",
+        "UCFSEmail": "universal.credit_+_derwentliving.com",
         "1st Contact email": ""
     },
     {
@@ -7709,7 +7709,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
         "UCLSEmail": "No Match to UCLS Data",
-        "UCFSEmail": "universal.credit@derwentliving.com",
+        "UCFSEmail": "universal.credit_+_derwentliving.com",
         "1st Contact email": ""
     },
     {
@@ -7727,7 +7727,7 @@ var la_landlords = [{
         "Registration Date": 39041,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Welfare.rights@derwentsidehomes.co.uk",
+        "UCLSEmail": "Welfare.rights_+_derwentsidehomes.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -7746,7 +7746,7 @@ var la_landlords = [{
         "Registration Date": 41032,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "mark.spooner@disc-vol.org.uk",
+        "UCLSEmail": "mark.spooner_+_disc-vol.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -7765,8 +7765,8 @@ var la_landlords = [{
         "Registration Date": 42088,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@dchgroup.com",
-        "UCFSEmail": "Universal.Credit@dchgroup.com",
+        "UCLSEmail": "Universal.Credit_+_dchgroup.com",
+        "UCFSEmail": "Universal.Credit_+_dchgroup.com",
         "1st Contact email": ""
     },
     {
@@ -7784,7 +7784,7 @@ var la_landlords = [{
         "Registration Date": 40616,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@dimensions-uk.org",
+        "UCLSEmail": "universal.credit_+_dimensions-uk.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -7803,7 +7803,7 @@ var la_landlords = [{
         "Registration Date": 29885,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -7879,7 +7879,7 @@ var la_landlords = [{
         "Registration Date": 31488,
         "Legal Entity": "Charity Commission Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@doncasterymca.org.uk",
+        "UCLSEmail": "universal.credit_+_doncasterymca.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -7936,7 +7936,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Lavinia.asquith@dover.gcsx.gov.uk",
+        "UCLSEmail": "Lavinia.asquith_+_dover.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -7993,7 +7993,7 @@ var la_landlords = [{
         "Registration Date": 35089,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@drumhsg.co.uk ",
+        "UCLSEmail": "universal.credit_+_drumhsg.co.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -8013,7 +8013,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "enquiriesuniversalcredit@ducaneha.org.uk",
+        "UCFSEmail": "enquiriesuniversalcredit_+_ducaneha.org.uk",
         "1st Contact email": ""
     },
     {
@@ -8031,7 +8031,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "income@dudley.gcsx.gov.uk",
+        "UCLSEmail": "income_+_dudley.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -8069,7 +8069,7 @@ var la_landlords = [{
         "Registration Date": 29843,
         "Legal Entity": "Charity Commission Only",
         "Country": "England",
-        "UCLSEmail": "pyork@damha.org.uk ",
+        "UCLSEmail": "pyork_+_damha.org.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -8088,7 +8088,7 @@ var la_landlords = [{
         "Registration Date": 42040,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@durhamcityhomes.co.uk",
+        "UCLSEmail": "universal.credit_+_durhamcityhomes.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -8202,7 +8202,7 @@ var la_landlords = [{
         "Registration Date": 27649,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@ebht.org.uk",
+        "UCLSEmail": "universal.credit_+_ebht.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -8221,7 +8221,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "housingrental@eastdevon.gov.uk",
+        "UCLSEmail": "housingrental_+_eastdevon.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -8240,7 +8240,7 @@ var la_landlords = [{
         "Registration Date": 42040,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@eastdurhamhomes.co.uk",
+        "UCLSEmail": "universal.credit_+_eastdurhamhomes.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -8260,7 +8260,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House & CC",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Universalcredit@eastendhomes.net",
+        "UCFSEmail": "Universalcredit_+_eastendhomes.net",
         "1st Contact email": ""
     },
     {
@@ -8335,7 +8335,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@eastriding.gcsx.gov.uk ",
+        "UCLSEmail": "universal.credit_+_eastriding.gcsx.gov.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -8354,7 +8354,7 @@ var la_landlords = [{
         "Registration Date": 36935,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "customeraccounts@east-thames.co.uk",
+        "UCLSEmail": "customeraccounts_+_east-thames.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -8392,7 +8392,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "EHLUC@eastbourne.gcsx.gov.uk",
+        "UCLSEmail": "EHLUC_+_eastbourne.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -8450,7 +8450,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Universalcredit@ebonyhousing.org.uk",
+        "UCFSEmail": "Universalcredit_+_ebonyhousing.org.uk",
         "1st Contact email": ""
     },
     {
@@ -8487,8 +8487,8 @@ var la_landlords = [{
         "Registration Date": 35682,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@edenha.org.uk",
-        "UCFSEmail": "Universal.credit@edenha.org.uk",
+        "UCLSEmail": "universal.credit_+_edenha.org.uk",
+        "UCFSEmail": "Universal.credit_+_edenha.org.uk",
         "1st Contact email": ""
     },
     {
@@ -8564,7 +8564,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "info@ekaya.co.uk",
+        "UCFSEmail": "info_+_ekaya.co.uk",
         "1st Contact email": ""
     },
     {
@@ -8583,7 +8583,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@eldonhousing.co.uk",
+        "UCFSEmail": "universalcredit_+_eldonhousing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -8639,8 +8639,8 @@ var la_landlords = [{
         "Registration Date": 27736,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@elimhousing.co.uk",
-        "UCFSEmail": "Universal.Credit@elimhousing.co.uk",
+        "UCLSEmail": "Universal.Credit_+_elimhousing.co.uk",
+        "UCFSEmail": "Universal.Credit_+_elimhousing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -8715,8 +8715,8 @@ var la_landlords = [{
         "Registration Date": 41533,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "homesincomecollection@emhhomes.org.uk",
-        "UCFSEmail": "homesincomecollection@emhhomes.org.uk",
+        "UCLSEmail": "homesincomecollection_+_emhhomes.org.uk",
+        "UCFSEmail": "homesincomecollection_+_emhhomes.org.uk",
         "1st Contact email": ""
     },
     {
@@ -8791,7 +8791,7 @@ var la_landlords = [{
         "Registration Date": 35871,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@epichousing.co.uk",
+        "UCLSEmail": "universal.credit_+_epichousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -8810,8 +8810,8 @@ var la_landlords = [{
         "Registration Date": 27527,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@endeavourha.co.uk",
-        "UCFSEmail": "Universal.credit@endeavourha.co.uk",
+        "UCLSEmail": "universal.credit_+_endeavourha.co.uk",
+        "UCFSEmail": "Universal.credit_+_endeavourha.co.uk",
         "1st Contact email": ""
     },
     {
@@ -8830,7 +8830,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universal.credit@englishrural.org.uk.",
+        "UCFSEmail": "universal.credit_+_englishrural.org.uk.",
         "1st Contact email": ""
     },
     {
@@ -8867,7 +8867,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "UC179notify@eppingforestdc.gov.uk",
+        "UCLSEmail": "UC179notify_+_eppingforestdc.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -8905,7 +8905,7 @@ var la_landlords = [{
         "Registration Date": 27771,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@equityhousing.co.uk",
+        "UCLSEmail": "universal.credit_+_equityhousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -8943,7 +8943,7 @@ var la_landlords = [{
         "Registration Date": 31019,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@estuary.co.uk",
+        "UCLSEmail": "universal.credit_+_estuary.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -9020,7 +9020,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House & CC",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "UC@evolvehousing.org.uk",
+        "UCFSEmail": "UC_+_evolvehousing.org.uk",
         "1st Contact email": ""
     },
     {
@@ -9076,7 +9076,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "paymentsandcollection@exeter.gov.uk",
+        "UCLSEmail": "paymentsandcollection_+_exeter.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -9171,7 +9171,7 @@ var la_landlords = [{
         "Registration Date": 39821,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Finance@fairoakhousing.co.uk",
+        "UCLSEmail": "Finance_+_fairoakhousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -9191,7 +9191,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "UniversalCredit@falconhousing.co.uk",
+        "UCFSEmail": "UniversalCredit_+_falconhousing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -9247,7 +9247,7 @@ var la_landlords = [{
         "Registration Date": 27681,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@wmhousing.co.uk",
+        "UCLSEmail": "Universal.Credit_+_wmhousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -9266,8 +9266,8 @@ var la_landlords = [{
         "Registration Date": 32902,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@familymosaic.co.uk",
-        "UCFSEmail": "Universal.Credit@familymosaic.co.uk",
+        "UCLSEmail": "Universal.Credit_+_familymosaic.co.uk",
+        "UCFSEmail": "Universal.Credit_+_familymosaic.co.uk",
         "1st Contact email": ""
     },
     {
@@ -9285,8 +9285,8 @@ var la_landlords = [{
         "Registration Date": 38797,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@familymosaic.co.uk",
-        "UCFSEmail": "Universal.Credit@familymosaic.co.uk",
+        "UCLSEmail": "Universal.Credit_+_familymosaic.co.uk",
+        "UCFSEmail": "Universal.Credit_+_familymosaic.co.uk",
         "1st Contact email": ""
     },
     {
@@ -9304,7 +9304,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "FBCTenancyCheck@fareham.gcsx.gov.uk",
+        "UCLSEmail": "FBCTenancyCheck_+_fareham.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -9380,8 +9380,8 @@ var la_landlords = [{
         "Registration Date": 41914,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "Benefits@finefair.com",
-        "UCFSEmail": "info@finefair.com",
+        "UCLSEmail": "Benefits_+_finefair.com",
+        "UCFSEmail": "info_+_finefair.com",
         "1st Contact email": ""
     },
     {
@@ -9418,7 +9418,7 @@ var la_landlords = [{
         "Registration Date": 40555,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@fcho.co.uk",
+        "UCLSEmail": "universal.credit_+_fcho.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -9456,8 +9456,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@firstwessex.org",
-        "UCFSEmail": "Universal.Credit@firstwessex.org",
+        "UCLSEmail": "Universal.Credit_+_firstwessex.org",
+        "UCFSEmail": "Universal.Credit_+_firstwessex.org",
         "1st Contact email": ""
     },
     {
@@ -9513,8 +9513,8 @@ var la_landlords = [{
         "Registration Date": 40634,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@flagship-homes.co.uk",
-        "UCFSEmail": "universalcredit@flagship-homes.co.uk",
+        "UCLSEmail": "universalcredit_+_flagship-homes.co.uk",
+        "UCFSEmail": "universalcredit_+_flagship-homes.co.uk",
         "1st Contact email": ""
     },
     {
@@ -9608,8 +9608,8 @@ var la_landlords = [{
         "Registration Date": 41718,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@fortisliving.com",
-        "UCFSEmail": "Universal.credit@fortisliving.com",
+        "UCLSEmail": "Universal.credit_+_fortisliving.com",
+        "UCFSEmail": "Universal.credit_+_fortisliving.com",
         "1st Contact email": ""
     },
     {
@@ -9627,7 +9627,7 @@ var la_landlords = [{
         "Registration Date": 38790,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@freebridge.org.uk",
+        "UCLSEmail": "universal.credit_+_freebridge.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -9703,8 +9703,8 @@ var la_landlords = [{
         "Registration Date": 40661,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "DWPEnquiriesFCH@longhurst-group.org.uk",
-        "UCFSEmail": "universalcreditfch@longhurst-group.org.uk",
+        "UCLSEmail": "DWPEnquiriesFCH_+_longhurst-group.org.uk",
+        "UCFSEmail": "universalcreditfch_+_longhurst-group.org.uk",
         "1st Contact email": ""
     },
     {
@@ -9779,8 +9779,8 @@ var la_landlords = [{
         "Registration Date": 37665,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "DDHincomeenquiries@futureshg.co.uk",
-        "UCFSEmail": "incometeam@futureshg.co.uk",
+        "UCLSEmail": "DDHincomeenquiries_+_futureshg.co.uk",
+        "UCFSEmail": "incometeam_+_futureshg.co.uk",
         "1st Contact email": ""
     },
     {
@@ -9798,9 +9798,9 @@ var la_landlords = [{
         "Registration Date": 39370,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@fivedoorways.co.uk",
-        "UCFSEmail": "incometeam@futureshg.co.uk",
-        "1st Contact email": "Universal.credit@fivedoorways.co.uk"
+        "UCLSEmail": "Universal.credit_+_fivedoorways.co.uk",
+        "UCFSEmail": "incometeam_+_futureshg.co.uk",
+        "1st Contact email": "Universal.credit_+_fivedoorways.co.uk"
     },
     {
         "ID": 517,
@@ -9817,8 +9817,8 @@ var la_landlords = [{
         "Registration Date": 39370,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "DDHincomeenquiries@futureshg.co.uk",
-        "UCFSEmail": "universal.credit@futureshg.co.uk",
+        "UCLSEmail": "DDHincomeenquiries_+_futureshg.co.uk",
+        "UCFSEmail": "universal.credit_+_futureshg.co.uk",
         "1st Contact email": ""
     },
     {
@@ -9836,7 +9836,7 @@ var la_landlords = [{
         "Registration Date": 36685,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.CreditGallions@peabody.org.uk",
+        "UCLSEmail": "Universal.CreditGallions_+_peabody.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -9855,8 +9855,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universalcredit@gatesheadhousing.co.uk     ",
-        "UCFSEmail": "universalcredit@gatesheadhousing.co.uk.cgsm.net",
+        "UCLSEmail": "universalcredit_+_gatesheadhousing.co.uk     ",
+        "UCFSEmail": "universalcredit_+_gatesheadhousing.co.uk.cgsm.net",
         "1st Contact email": ""
     },
     {
@@ -9875,7 +9875,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "UniversalCredit@gatewayhousing.org.uk",
+        "UCFSEmail": "UniversalCredit_+_gatewayhousing.org.uk",
         "1st Contact email": ""
     },
     {
@@ -9893,7 +9893,7 @@ var la_landlords = [{
         "Registration Date": 39735,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@gedlinghomes.co.uk",
+        "UCLSEmail": "universal.credit_+_gedlinghomes.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -9931,8 +9931,8 @@ var la_landlords = [{
         "Registration Date": 40653,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@genesisha.org.uk ",
-        "UCFSEmail": "universalcredit@genesisha.org.uk",
+        "UCLSEmail": "Universal.Credit_+_genesisha.org.uk ",
+        "UCFSEmail": "universalcredit_+_genesisha.org.uk",
         "1st Contact email": ""
     },
     {
@@ -9950,7 +9950,7 @@ var la_landlords = [{
         "Registration Date": 36972,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@gentoosunderland.com",
+        "UCLSEmail": "universal.credit_+_gentoosunderland.com",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -9969,7 +9969,7 @@ var la_landlords = [{
         "Registration Date": 37089,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@gentoosunderland.com",
+        "UCLSEmail": "universal.credit_+_gentoosunderland.com",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -10026,8 +10026,8 @@ var la_landlords = [{
         "Registration Date": 27478,
         "Legal Entity": "Charity Commission Only",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@peabody.org.uk",
-        "UCFSEmail": "Universal.Credit@peabody.org.uk",
+        "UCLSEmail": "Universal.Credit_+_peabody.org.uk",
+        "UCFSEmail": "Universal.Credit_+_peabody.org.uk",
         "1st Contact email": ""
     },
     {
@@ -10140,7 +10140,7 @@ var la_landlords = [{
         "Registration Date": 42040,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@gch.co.uk",
+        "UCLSEmail": "universal.credit_+_gch.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -10216,8 +10216,8 @@ var la_landlords = [{
         "Registration Date": 40469.3917013889,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@gght.org.uk",
-        "UCFSEmail": "Universal.credit@gght.org.uk",
+        "UCLSEmail": "Universal.credit_+_gght.org.uk",
+        "UCFSEmail": "Universal.credit_+_gght.org.uk",
         "1st Contact email": ""
     },
     {
@@ -10273,7 +10273,7 @@ var la_landlords = [{
         "Registration Date": 37938,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@goldinghomes.org.uk",
+        "UCLSEmail": "Universal.Credit_+_goldinghomes.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -10330,7 +10330,7 @@ var la_landlords = [{
         "Registration Date": 29885,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -10482,7 +10482,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "HousingIncome@gravesham.gov.uk",
+        "UCLSEmail": "HousingIncome_+_gravesham.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -10520,8 +10520,8 @@ var la_landlords = [{
         "Registration Date": 27771,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@greatplaces.org.uk ",
-        "UCFSEmail": "cat@greatplaces.org.uk",
+        "UCLSEmail": "universal.credit_+_greatplaces.org.uk ",
+        "UCFSEmail": "cat_+_greatplaces.org.uk",
         "1st Contact email": ""
     },
     {
@@ -10539,8 +10539,8 @@ var la_landlords = [{
         "Registration Date": 38797,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@greatplaces.org.uk ",
-        "UCFSEmail": "cat@greatplaces.org.uk",
+        "UCLSEmail": "universal.credit_+_greatplaces.org.uk ",
+        "UCFSEmail": "cat_+_greatplaces.org.uk",
         "1st Contact email": ""
     },
     {
@@ -10577,8 +10577,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "UniversalCredit@great-yarmouth.gcsx.gov.uk",
-        "UCFSEmail": "ucrentincome@great-yarmouth.gov.uk",
+        "UCLSEmail": "UniversalCredit_+_great-yarmouth.gcsx.gov.uk",
+        "UCFSEmail": "ucrentincome_+_great-yarmouth.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -10615,8 +10615,8 @@ var la_landlords = [{
         "Registration Date": 41018,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@greenparkhousing.org",
-        "UCFSEmail": "universal.credit@greenparkhousing.org",
+        "UCLSEmail": "universal.credit_+_greenparkhousing.org",
+        "UCFSEmail": "universal.credit_+_greenparkhousing.org",
         "1st Contact email": ""
     },
     {
@@ -10634,7 +10634,7 @@ var la_landlords = [{
         "Registration Date": 39370,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@greenfieldsch.cjsm.net",
+        "UCLSEmail": "universal.credit_+_greenfieldsch.cjsm.net",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -10653,7 +10653,7 @@ var la_landlords = [{
         "Registration Date": 27799,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "housing@greenoakha.org ",
+        "UCLSEmail": "housing_+_greenoakha.org ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -10673,7 +10673,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No Match to UCLS Data",
-        "UCFSEmail": "Universal.credit@greensquaregroup.com",
+        "UCFSEmail": "Universal.credit_+_greensquaregroup.com",
         "1st Contact email": ""
     },
     {
@@ -10692,7 +10692,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No Match to UCLS Data",
-        "UCFSEmail": "Universal.credit@greensquaregroup.com",
+        "UCFSEmail": "Universal.credit_+_greensquaregroup.com",
         "1st Contact email": ""
     },
     {
@@ -10710,8 +10710,8 @@ var la_landlords = [{
         "Registration Date": 42650,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@greensquaregroup.com",
-        "UCFSEmail": "Universal.credit@greensquaregroup.com",
+        "UCLSEmail": "Universal.Credit_+_greensquaregroup.com",
+        "UCFSEmail": "Universal.credit_+_greensquaregroup.com",
         "1st Contact email": ""
     },
     {
@@ -10786,7 +10786,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@guildford.gov.uk",
+        "UCLSEmail": "universal.credit_+_guildford.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -10824,8 +10824,8 @@ var la_landlords = [{
         "Registration Date": 39356,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@guinness.org.uk",
-        "UCFSEmail": "universal.credit@guinness.org.uk",
+        "UCLSEmail": "universal.credit_+_guinness.org.uk",
+        "UCFSEmail": "universal.credit_+_guinness.org.uk",
         "1st Contact email": ""
     },
     {
@@ -10843,8 +10843,8 @@ var la_landlords = [{
         "Registration Date": 28317,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@guinness.org.uk",
-        "UCFSEmail": "universal.credit@guinness.org.uk",
+        "UCLSEmail": "universal.credit_+_guinness.org.uk",
+        "UCFSEmail": "universal.credit_+_guinness.org.uk",
         "1st Contact email": ""
     },
     {
@@ -10862,8 +10862,8 @@ var la_landlords = [{
         "Registration Date": 27634,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "ucnotifications@habinteg.org.uk",
-        "UCFSEmail": "ucnotifications@habinteg.org.uk",
+        "UCLSEmail": "ucnotifications_+_habinteg.org.uk",
+        "UCFSEmail": "ucnotifications_+_habinteg.org.uk",
         "1st Contact email": ""
     },
     {
@@ -10919,8 +10919,8 @@ var la_landlords = [{
         "Registration Date": 38678,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@haltonhousing.org",
-        "UCFSEmail": "universal.credit@haltonhousing.org",
+        "UCLSEmail": "Universal.credit_+_haltonhousing.org",
+        "UCFSEmail": "universal.credit_+_haltonhousing.org",
         "1st Contact email": ""
     },
     {
@@ -10957,7 +10957,7 @@ var la_landlords = [{
         "Registration Date": 31908,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -11014,8 +11014,8 @@ var la_landlords = [{
         "Registration Date": 27527,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@hanover.org.uk",
-        "UCFSEmail": "UniversalCredit@hanover.org.uk",
+        "UCLSEmail": "universalcredit_+_hanover.org.uk",
+        "UCFSEmail": "UniversalCredit_+_hanover.org.uk",
         "1st Contact email": ""
     },
     {
@@ -11092,7 +11092,7 @@ var la_landlords = [{
         "Country": "England",
         "UCLSEmail": "No email gathered",
         "UCFSEmail": "No email gathered",
-        "1st Contact email": "universal.credit@togetherhousing.co.uk"
+        "1st Contact email": "universal.credit_+_togetherhousing.co.uk"
     },
     {
         "ID": 585,
@@ -11109,8 +11109,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@Homesforharingey.org",
-        "UCFSEmail": "incomecollectionteam@homesforharingey.org",
+        "UCLSEmail": "Universal.Credit_+_Homesforharingey.org",
+        "UCFSEmail": "incomecollectionteam_+_homesforharingey.org",
         "1st Contact email": ""
     },
     {
@@ -11128,7 +11128,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@harlow.gcsx.gov.uk",
+        "UCLSEmail": "Universal.credit_+_harlow.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -11185,7 +11185,7 @@ var la_landlords = [{
         "Registration Date": 27634,
         "Legal Entity": "Charity Commission Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@accordha.org.uk",
+        "UCLSEmail": "universal.credit_+_accordha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -11224,7 +11224,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House & CC",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Universalcredit@harrisonhousing.org.uk",
+        "UCFSEmail": "Universalcredit_+_harrisonhousing.org.uk",
         "1st Contact email": ""
     },
     {
@@ -11243,7 +11243,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Universal.CreditRents@harrogate.gov.uk",
+        "UCFSEmail": "Universal.CreditRents_+_harrogate.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -11280,8 +11280,8 @@ var la_landlords = [{
         "Registration Date": 28044,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@hhal.org.uk",
-        "UCFSEmail": "universalcredit@hhal.org.uk",
+        "UCLSEmail": "universalcredit_+_hhal.org.uk",
+        "UCFSEmail": "universalcredit_+_hhal.org.uk",
         "1st Contact email": ""
     },
     {
@@ -11319,7 +11319,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "finance@hcha.org.uk",
+        "UCFSEmail": "finance_+_hcha.org.uk",
         "1st Contact email": ""
     },
     {
@@ -11338,7 +11338,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "HousingServices@hartlepool.gcsx.gov.uk",
+        "UCFSEmail": "HousingServices_+_hartlepool.gcsx.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -11394,8 +11394,8 @@ var la_landlords = [{
         "Registration Date": 27478,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@hastoe.com ",
-        "UCFSEmail": "universalcredit@hastoe.com",
+        "UCLSEmail": "universalcredit_+_hastoe.com ",
+        "UCFSEmail": "universalcredit_+_hastoe.com",
         "1st Contact email": ""
     },
     {
@@ -11413,8 +11413,8 @@ var la_landlords = [{
         "Registration Date": 32391,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@hastoe.com ",
-        "UCFSEmail": "universalcredit@hastoe.com",
+        "UCLSEmail": "universalcredit_+_hastoe.com ",
+        "UCFSEmail": "universalcredit_+_hastoe.com",
         "1st Contact email": ""
     },
     {
@@ -11527,8 +11527,8 @@ var la_landlords = [{
         "Registration Date": 27527,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@yourhousinggroup.co.uk",
-        "UCFSEmail": "universal.credit@yourhousinggroup.co.uk",
+        "UCLSEmail": "universal.credit_+_yourhousinggroup.co.uk",
+        "UCFSEmail": "universal.credit_+_yourhousinggroup.co.uk",
         "1st Contact email": ""
     },
     {
@@ -11546,7 +11546,7 @@ var la_landlords = [{
         "Registration Date": 27862,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@heantun.co.uk",
+        "UCLSEmail": "universal.credit_+_heantun.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -11566,7 +11566,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Universalcredit@orbit.org.uk",
+        "UCFSEmail": "Universalcredit_+_orbit.org.uk",
         "1st Contact email": ""
     },
     {
@@ -11584,7 +11584,7 @@ var la_landlords = [{
         "Registration Date": 40514,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit.HOM@mhs.org.uk",
+        "UCLSEmail": "Universal.Credit.HOM_+_mhs.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -11660,8 +11660,8 @@ var la_landlords = [{
         "Registration Date": 37433,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@helenapartnerships.co.uk ",
-        "UCFSEmail": "universal.credit@helenapartnerships.co.uk",
+        "UCLSEmail": "universal.credit_+_helenapartnerships.co.uk ",
+        "UCFSEmail": "universal.credit_+_helenapartnerships.co.uk",
         "1st Contact email": ""
     },
     {
@@ -11698,7 +11698,7 @@ var la_landlords = [{
         "Registration Date": 27827,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Alison.mace@fifieldglyn.com",
+        "UCLSEmail": "Alison.mace_+_fifieldglyn.com",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -11736,7 +11736,7 @@ var la_landlords = [{
         "Registration Date": 34731,
         "Legal Entity": "Charity Commission Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@accordha.org.uk",
+        "UCLSEmail": "universal.credit_+_accordha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -11793,8 +11793,8 @@ var la_landlords = [{
         "Registration Date": 37574,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "TenancySustainmentTeam@hhl.org.uk",
-        "UCFSEmail": "tenancysustainmentteam@hhi.org.uk",
+        "UCLSEmail": "TenancySustainmentTeam_+_hhl.org.uk",
+        "UCFSEmail": "tenancysustainmentteam_+_hhi.org.uk",
         "1st Contact email": ""
     },
     {
@@ -11812,8 +11812,8 @@ var la_landlords = [{
         "Registration Date": 36606,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universalcredit@herringhousetrust.org.uk",
-        "UCFSEmail": "universalcredit@herringhousingtrust.org.uk",
+        "UCLSEmail": "universalcredit_+_herringhousetrust.org.uk",
+        "UCFSEmail": "universalcredit_+_herringhousingtrust.org.uk",
         "1st Contact email": ""
     },
     {
@@ -11831,7 +11831,7 @@ var la_landlords = [{
         "Registration Date": 29290,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -11869,8 +11869,8 @@ var la_landlords = [{
         "Registration Date": 27827,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@hexagon.org.uk",
-        "UCFSEmail": "universalcredit@hexagon.org.uk",
+        "UCLSEmail": "universalcredit_+_hexagon.org.uk",
+        "UCFSEmail": "universalcredit_+_hexagon.org.uk",
         "1st Contact email": ""
     },
     {
@@ -12002,7 +12002,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "GC_Recovery@highpeak.gcsx.gov.uk",
+        "UCLSEmail": "GC_Recovery_+_highpeak.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -12040,7 +12040,7 @@ var la_landlords = [{
         "Registration Date": 28044,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "incomerecovery@hightownha.org.uk",
+        "UCLSEmail": "incomerecovery_+_hightownha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -12079,7 +12079,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House Only",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universal.credit@hillheadhousing.org",
+        "UCFSEmail": "universal.credit_+_hillheadhousing.org",
         "1st Contact email": ""
     },
     {
@@ -12116,8 +12116,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "UniversalCredit@hinckley-bosworth.gcsx.gov.uk",
-        "UCFSEmail": "UniversalCredit@hinckley-bosworth.gcsx.gov.uk",
+        "UCLSEmail": "UniversalCredit_+_hinckley-bosworth.gcsx.gov.uk",
+        "UCFSEmail": "UniversalCredit_+_hinckley-bosworth.gcsx.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -12173,7 +12173,7 @@ var la_landlords = [{
         "Registration Date": 28107,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "jackie.sutton@holmwoodtenants.org",
+        "UCLSEmail": "jackie.sutton_+_holmwoodtenants.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -12192,7 +12192,7 @@ var la_landlords = [{
         "Registration Date": 30144,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -12249,7 +12249,7 @@ var la_landlords = [{
         "Registration Date": 28503,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -12287,8 +12287,8 @@ var la_landlords = [{
         "Registration Date": 29495,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@homegroup.org.uk",
-        "UCFSEmail": "Universalcredit@homegroup.org.uk",
+        "UCLSEmail": "universalcredit_+_homegroup.org.uk",
+        "UCFSEmail": "Universalcredit_+_homegroup.org.uk",
         "1st Contact email": ""
     },
     {
@@ -12516,7 +12516,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "lettings@housingandcare21.co.uk",
+        "UCFSEmail": "lettings_+_housingandcare21.co.uk",
         "1st Contact email": ""
     },
     {
@@ -12535,7 +12535,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House & CC",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "hmteam@h4w.co.uk",
+        "UCFSEmail": "hmteam_+_h4w.co.uk",
         "1st Contact email": ""
     },
     {
@@ -12610,7 +12610,7 @@ var la_landlords = [{
         "Registration Date": 34816,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@housingsolutions.co.uk",
+        "UCLSEmail": "Universal.credit_+_housingsolutions.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -12629,7 +12629,7 @@ var la_landlords = [{
         "Registration Date": 27785,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@howard-cottage.co.uk",
+        "UCLSEmail": "universalcredit_+_howard-cottage.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -12667,7 +12667,7 @@ var la_landlords = [{
         "Registration Date": 30144,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "bonnie@hullchurcheshousing.org.uk",
+        "UCLSEmail": "bonnie_+_hullchurcheshousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -12781,7 +12781,7 @@ var la_landlords = [{
         "Registration Date": 27681,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@hhs.org.uk",
+        "UCLSEmail": "universal.credit_+_hhs.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -12838,8 +12838,8 @@ var la_landlords = [{
         "Registration Date": 27500,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "UCHyde@hyde-housing.co.uk",
-        "UCFSEmail": "UCHyde@hyde-housing.co.uk",
+        "UCLSEmail": "UCHyde_+_hyde-housing.co.uk",
+        "UCFSEmail": "UCHyde_+_hyde-housing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -12857,8 +12857,8 @@ var la_landlords = [{
         "Registration Date": 36319,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "UCHyde@hyde-housing.co.uk",
-        "UCFSEmail": "UCHyde@hyde-housing.co.uk",
+        "UCLSEmail": "UCHyde_+_hyde-housing.co.uk",
+        "UCFSEmail": "UCHyde_+_hyde-housing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -12895,7 +12895,7 @@ var la_landlords = [{
         "Registration Date": 38790,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@hyndburnhomes.co.uk",
+        "UCLSEmail": "universal.credit_+_hyndburnhomes.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -12952,8 +12952,8 @@ var la_landlords = [{
         "Registration Date": 27708,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@impacthousing.org.uk",
-        "UCFSEmail": "universal.credit@impacthousing.org.uk",
+        "UCLSEmail": "universal.credit_+_impacthousing.org.uk",
+        "UCFSEmail": "universal.credit_+_impacthousing.org.uk",
         "1st Contact email": ""
     },
     {
@@ -12990,7 +12990,7 @@ var la_landlords = [{
         "Registration Date": 37665,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "incometeam@incommunities.co.uk",
+        "UCLSEmail": "incometeam_+_incommunities.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -13009,7 +13009,7 @@ var la_landlords = [{
         "Registration Date": 39108,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "incometeam@incommunities.co.uk",
+        "UCLSEmail": "incometeam_+_incommunities.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -13028,8 +13028,8 @@ var la_landlords = [{
         "Registration Date": 32538,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@innisfree.org.uk",
-        "UCFSEmail": "universalcredit@innisfree.org.uk",
+        "UCLSEmail": "universalcredit_+_innisfree.org.uk",
+        "UCFSEmail": "universalcredit_+_innisfree.org.uk",
         "1st Contact email": ""
     },
     {
@@ -13047,8 +13047,8 @@ var la_landlords = [{
         "Registration Date": 31980,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@inquilabha.org",
-        "UCFSEmail": "thomaso@inquilabha.org",
+        "UCLSEmail": "universal.credit_+_inquilabha.org",
+        "UCFSEmail": "thomaso_+_inquilabha.org",
         "1st Contact email": ""
     },
     {
@@ -13066,7 +13066,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@ipswich.gov.uk",
+        "UCLSEmail": "universal.credit_+_ipswich.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -13086,7 +13086,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@coinstreet.org ",
+        "UCFSEmail": "universalcredit_+_coinstreet.org ",
         "1st Contact email": ""
     },
     {
@@ -13104,7 +13104,7 @@ var la_landlords = [{
         "Registration Date": 27527,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@irwellvalleyha.co.uk",
+        "UCLSEmail": "universal.credit_+_irwellvalleyha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -13162,7 +13162,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House & CC",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universal.credit@iahcharity.org.uk",
+        "UCFSEmail": "universal.credit_+_iahcharity.org.uk",
         "1st Contact email": ""
     },
     {
@@ -13180,8 +13180,8 @@ var la_landlords = [{
         "Registration Date": 27634,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universalcredit@isha.co.uk",
-        "UCFSEmail": "Universalcredit@isha.co.uk",
+        "UCLSEmail": "Universalcredit_+_isha.co.uk",
+        "UCFSEmail": "Universalcredit_+_isha.co.uk",
         "1st Contact email": ""
     },
     {
@@ -13218,8 +13218,8 @@ var la_landlords = [{
         "Registration Date": 40630,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@isoshousing.co.uk ",
-        "UCFSEmail": "universal.credit@isoshousing.co.uk",
+        "UCLSEmail": "universal.credit_+_isoshousing.co.uk ",
+        "UCFSEmail": "universal.credit_+_isoshousing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -13277,7 +13277,7 @@ var la_landlords = [{
         "Country": "England",
         "UCLSEmail": "No email gathered",
         "UCFSEmail": "No email gathered",
-        "1st Contact email": "universalcreditinfo@midsussex.gcsx.gov.uk"
+        "1st Contact email": "universalcreditinfo_+_midsussex.gcsx.gov.uk"
     },
     {
         "ID": 700,
@@ -13446,7 +13446,7 @@ var la_landlords = [{
         "Registration Date": 27771,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@jjhousing.co.uk",
+        "UCLSEmail": "universal.credit_+_jjhousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -13523,7 +13523,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@julianhouse.org.uk",
+        "UCFSEmail": "universalcredit_+_julianhouse.org.uk",
         "1st Contact email": ""
     },
     {
@@ -13561,7 +13561,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@karin-ha.org.uk",
+        "UCFSEmail": "universalcredit_+_karin-ha.org.uk",
         "1st Contact email": ""
     },
     {
@@ -13579,7 +13579,7 @@ var la_landlords = [{
         "Registration Date": 40609,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universalcredit@keelmanhomes.org",
+        "UCLSEmail": "universalcredit_+_keelmanhomes.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -13617,8 +13617,8 @@ var la_landlords = [{
         "Registration Date": 27982,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "ucnotifications@kenistonha.co.uk",
-        "UCFSEmail": "ucnotifications@kenistonha.co.uk",
+        "UCLSEmail": "ucnotifications_+_kenistonha.co.uk",
+        "UCFSEmail": "ucnotifications_+_kenistonha.co.uk",
         "1st Contact email": ""
     },
     {
@@ -13674,8 +13674,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universalcredit@kettering.gov.uk",
-        "UCFSEmail": "universalcredit@kettering.gov.uk",
+        "UCLSEmail": "universalcredit_+_kettering.gov.uk",
+        "UCFSEmail": "universalcredit_+_kettering.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -13921,7 +13921,7 @@ var la_landlords = [{
         "Registration Date": 41165,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@kirklees.gov.uk",
+        "UCLSEmail": "universal.credit_+_kirklees.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -13959,8 +13959,8 @@ var la_landlords = [{
         "Registration Date": 27590,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@knightstone.co.uk",
-        "UCFSEmail": "universalcredit@knightstone.co.uk",
+        "UCLSEmail": "Universal.credit_+_knightstone.co.uk",
+        "UCFSEmail": "universalcredit_+_knightstone.co.uk",
         "1st Contact email": ""
     },
     {
@@ -13978,7 +13978,7 @@ var la_landlords = [{
         "Registration Date": 38419,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@knightstone.co.uk",
+        "UCLSEmail": "Universal.credit_+_knightstone.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -14016,7 +14016,7 @@ var la_landlords = [{
         "Registration Date": 31215,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -14131,7 +14131,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcreditinfo@lsha.org.uk",
+        "UCFSEmail": "universalcreditinfo_+_lsha.org.uk",
         "1st Contact email": ""
     },
     {
@@ -14187,8 +14187,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universalcredit@lancaster.gov.uk ",
-        "UCFSEmail": "universalcredit@lancaster.gov.uk",
+        "UCLSEmail": "universalcredit_+_lancaster.gov.uk ",
+        "UCFSEmail": "universalcredit_+_lancaster.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -14206,7 +14206,7 @@ var la_landlords = [{
         "Registration Date": 40969,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "murraylodge@langleyhousetrust.org ",
+        "UCLSEmail": "murraylodge_+_langleyhousetrust.org ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -14225,7 +14225,7 @@ var la_landlords = [{
         "Registration Date": 32216,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -14282,7 +14282,7 @@ var la_landlords = [{
         "Registration Date": 28289,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -14320,8 +14320,8 @@ var la_landlords = [{
         "Registration Date": 36123,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@yourhousinggroup.co.uk",
-        "UCFSEmail": "universal.credit@yourhousinggroup.co.uk",
+        "UCLSEmail": "universal.credit_+_yourhousinggroup.co.uk",
+        "UCFSEmail": "universal.credit_+_yourhousinggroup.co.uk",
         "1st Contact email": ""
     },
     {
@@ -14358,8 +14358,8 @@ var la_landlords = [{
         "Registration Date": 40514,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@leazeshomes.org.uk",
-        "UCFSEmail": "universal.credit@leazeshomes.org.uk",
+        "UCLSEmail": "universal.credit_+_leazeshomes.org.uk",
+        "UCFSEmail": "universal.credit_+_leazeshomes.org.uk",
         "1st Contact email": ""
     },
     {
@@ -14377,8 +14377,8 @@ var la_landlords = [{
         "Registration Date": 27681,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@lyha.co.uk",
-        "UCFSEmail": "Universal.credit@lyha.co.uk",
+        "UCLSEmail": "Universal.credit_+_lyha.co.uk",
+        "UCFSEmail": "Universal.credit_+_lyha.co.uk",
         "1st Contact email": ""
     },
     {
@@ -14396,7 +14396,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@leeds.gov.uk",
+        "UCLSEmail": "universal.credit_+_leeds.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -14415,8 +14415,8 @@ var la_landlords = [{
         "Registration Date": 27736,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@leedsfed.com",
-        "UCFSEmail": "universal.credit@lfha.co.uk",
+        "UCLSEmail": "universal.credit_+_leedsfed.com",
+        "UCFSEmail": "universal.credit_+_lfha.co.uk",
         "1st Contact email": ""
     },
     {
@@ -14434,7 +14434,7 @@ var la_landlords = [{
         "Registration Date": 27618,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@ljha.co.uk",
+        "UCLSEmail": "universal.credit_+_ljha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -14453,7 +14453,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@leicester.gov.uk",
+        "UCLSEmail": "Universal.credit_+_leicester.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -14472,8 +14472,8 @@ var la_landlords = [{
         "Registration Date": 27618,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@asra.org.uk",
-        "UCFSEmail": "universalcredit@asra.org.uk",
+        "UCLSEmail": "universalcredit_+_asra.org.uk",
+        "UCFSEmail": "universalcredit_+_asra.org.uk",
         "1st Contact email": ""
     },
     {
@@ -14700,7 +14700,7 @@ var la_landlords = [{
         "Registration Date": 31705,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Finance@lrha.co.uk",
+        "UCLSEmail": "Finance_+_lrha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -14776,7 +14776,7 @@ var la_landlords = [{
         "Registration Date": 27771,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "EstateOffice@rustingtonhall.co.uk",
+        "UCLSEmail": "EstateOffice_+_rustingtonhall.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -14795,8 +14795,8 @@ var la_landlords = [{
         "Registration Date": 29052,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
-        "UCFSEmail": "Validate email - UniversalCredit@cds.coop",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
+        "UCFSEmail": "Validate email - UniversalCredit_+_cds.coop",
         "1st Contact email": ""
     },
     {
@@ -14814,8 +14814,8 @@ var la_landlords = [{
         "Registration Date": 27590,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@lht.co.uk",
-        "UCFSEmail": "universal.credit@lht.co.uk",
+        "UCLSEmail": "universal.credit_+_lht.co.uk",
+        "UCFSEmail": "universal.credit_+_lht.co.uk",
         "1st Contact email": ""
     },
     {
@@ -14852,7 +14852,7 @@ var la_landlords = [{
         "Registration Date": 39525,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "UCNotifications@liverpoolmh.co.uk",
+        "UCLSEmail": "UCNotifications_+_liverpoolmh.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -14871,7 +14871,7 @@ var la_landlords = [{
         "Registration Date": 39877,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "FinancialWellbeingAdvisors@livin.co.uk",
+        "UCLSEmail": "FinancialWellbeingAdvisors_+_livin.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -14890,7 +14890,7 @@ var la_landlords = [{
         "Registration Date": 38663,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@localspace.co.uk",
+        "UCLSEmail": "Universal.credit_+_localspace.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -14928,7 +14928,7 @@ var la_landlords = [{
         "Registration Date": 42531,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@wokingham.gov.uk",
+        "UCLSEmail": "universal.credit_+_wokingham.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -14947,7 +14947,7 @@ var la_landlords = [{
         "Registration Date": 27634,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -14966,8 +14966,8 @@ var la_landlords = [{
         "Registration Date": 39538,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "ucnotifications@lqgroup.org.uk",
-        "UCFSEmail": "ucnotifications@lqgroup.org.uk",
+        "UCLSEmail": "ucnotifications_+_lqgroup.org.uk",
+        "UCFSEmail": "ucnotifications_+_lqgroup.org.uk",
         "1st Contact email": ""
     },
     {
@@ -15004,7 +15004,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@Barnet.gov.uk",
+        "UCLSEmail": "Universal.Credit_+_Barnet.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -15043,7 +15043,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universal.credit@bhphousing.co.uk",
+        "UCFSEmail": "universal.credit_+_bhphousing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -15061,8 +15061,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "UCrentservice@camden.gcsx.gov.uk",
-        "UCFSEmail": "universalcredit@camden.gov.uk",
+        "UCLSEmail": "UCrentservice_+_camden.gcsx.gov.uk",
+        "UCFSEmail": "universalcredit_+_camden.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -15081,7 +15081,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "gcUC@croydon.gcsx.gov.uk",
+        "UCFSEmail": "gcUC_+_croydon.gcsx.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -15100,7 +15100,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Housingrents@ealing.gov.uk",
+        "UCFSEmail": "Housingrents_+_ealing.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -15137,7 +15137,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "rent-account-enquiries@royal.greenwich.gov.uk",
+        "UCLSEmail": "rent-account-enquiries_+_royal.greenwich.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -15156,7 +15156,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "neighbourhood@hackney.gov.uk",
+        "UCLSEmail": "neighbourhood_+_hackney.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -15175,8 +15175,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@lbhf.gcsx.gov.uk",
-        "UCFSEmail": "universal.credit@lbhf.gcsx.gov.uk",
+        "UCLSEmail": "universal.credit_+_lbhf.gcsx.gov.uk",
+        "UCFSEmail": "universal.credit_+_lbhf.gcsx.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -15195,7 +15195,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@harrow.gcsx.gov.uk",
+        "UCFSEmail": "universalcredit_+_harrow.gcsx.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -15213,7 +15213,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@havering.gov.uk",
+        "UCLSEmail": "universal.credit_+_havering.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -15232,8 +15232,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "UNIVERSALCREDIT@hillingdon.gcsx.gov.uk",
-        "UCFSEmail": "universal.credit@hillingdon.gcsx.gov.uk",
+        "UCLSEmail": "UNIVERSALCREDIT_+_hillingdon.gcsx.gov.uk",
+        "UCFSEmail": "universal.credit_+_hillingdon.gcsx.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -15252,7 +15252,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universal.credit@lbhounslow.cjsm.net",
+        "UCFSEmail": "universal.credit_+_lbhounslow.cjsm.net",
         "1st Contact email": ""
     },
     {
@@ -15270,8 +15270,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@islington.gov.uk",
-        "UCFSEmail": "universal.credit@islington.gov.uk",
+        "UCLSEmail": "universal.credit_+_islington.gov.uk",
+        "UCFSEmail": "universal.credit_+_islington.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -15289,8 +15289,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "gcsx-universalcredit@lambeth.gcsx.gov.uk",
-        "UCFSEmail": "universalcredit@lambeth.gcsx.gov.uk",
+        "UCLSEmail": "gcsx-universalcredit_+_lambeth.gcsx.gov.uk",
+        "UCFSEmail": "universalcredit_+_lambeth.gcsx.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -15308,8 +15308,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@lewishamhomes.org.uk",
-        "UCFSEmail": "DWPUniversalCreditAccessGCSX@lewisham.gcsx.gov.uk",
+        "UCLSEmail": "universal.credit_+_lewishamhomes.org.uk",
+        "UCFSEmail": "DWPUniversalCreditAccessGCSX_+_lewisham.gcsx.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -15328,7 +15328,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "contactmph@circle.org.uk",
+        "UCFSEmail": "contactmph_+_circle.org.uk",
         "1st Contact email": ""
     },
     {
@@ -15347,7 +15347,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "newham.uc@newham.gcsx.gov.uk",
+        "UCFSEmail": "newham.uc_+_newham.gcsx.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -15366,7 +15366,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "housing.enquiries@redbridge.gov.uk",
+        "UCFSEmail": "housing.enquiries_+_redbridge.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -15384,8 +15384,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "temporaryaccommodation@sutton.gov.uk",
-        "UCFSEmail": "incomeUC@suttonhousingpartnership.org.uk",
+        "UCLSEmail": "temporaryaccommodation_+_sutton.gov.uk",
+        "UCFSEmail": "incomeUC_+_suttonhousingpartnership.org.uk",
         "1st Contact email": ""
     },
     {
@@ -15403,7 +15403,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "LBTowerHamletsHousingOptions@towerhamlets.gcsx.gov.uk",
+        "UCLSEmail": "LBTowerHamletsHousingOptions_+_towerhamlets.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -15422,8 +15422,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@walthamforest.gov.uk",
-        "UCFSEmail": "rents@walthamforest.gov.uk",
+        "UCLSEmail": "Universal.Credit_+_walthamforest.gov.uk",
+        "UCFSEmail": "rents_+_walthamforest.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -15442,7 +15442,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "housingpufinance@wandsworth.gov.uk",
+        "UCFSEmail": "housingpufinance_+_wandsworth.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -15461,7 +15461,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House & CC",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Universalcredit@cyrenians.org",
+        "UCFSEmail": "Universalcredit_+_cyrenians.org",
         "1st Contact email": ""
     },
     {
@@ -15498,8 +15498,8 @@ var la_landlords = [{
         "Registration Date": 40738,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universalcredit@londonhousingtrust.org",
-        "UCFSEmail": "universalcredit@londonhousingtrust.org",
+        "UCLSEmail": "universalcredit_+_londonhousingtrust.org",
+        "UCFSEmail": "universalcredit_+_londonhousingtrust.org",
         "1st Contact email": ""
     },
     {
@@ -15518,7 +15518,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "uc@networkhomes.org.uk",
+        "UCFSEmail": "uc_+_networkhomes.org.uk",
         "1st Contact email": ""
     },
     {
@@ -15555,7 +15555,7 @@ var la_landlords = [{
         "Registration Date": 40087,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "DWPEnquiriesLandH@longhurst-group.org.uk",
+        "UCLSEmail": "DWPEnquiriesLandH_+_longhurst-group.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -15574,7 +15574,7 @@ var la_landlords = [{
         "Registration Date": 36685,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "DWPEnquiriesLandH@longhurst-group.org.uk",
+        "UCLSEmail": "DWPEnquiriesLandH_+_longhurst-group.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -15688,7 +15688,7 @@ var la_landlords = [{
         "Registration Date": 37875,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@luminus.org.uk",
+        "UCLSEmail": "universal.credit_+_luminus.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -15707,7 +15707,7 @@ var la_landlords = [{
         "Registration Date": 36559,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@luminus.org.uk",
+        "UCLSEmail": "universal.credit_+_luminus.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -15745,7 +15745,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Housing.Income@luton.gov.uk",
+        "UCLSEmail": "Housing.Income_+_luton.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -15859,8 +15859,8 @@ var la_landlords = [{
         "Registration Date": 33491,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@magna.org.uk",
-        "UCFSEmail": "universalcredit@magna.org.uk",
+        "UCLSEmail": "universalcredit_+_magna.org.uk",
+        "UCFSEmail": "universalcredit_+_magna.org.uk",
         "1st Contact email": ""
     },
     {
@@ -15878,8 +15878,8 @@ var la_landlords = [{
         "Registration Date": 36319,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@magna.org.uk",
-        "UCFSEmail": "universalcredit@magna.org.uk",
+        "UCLSEmail": "universalcredit_+_magna.org.uk",
+        "UCFSEmail": "universalcredit_+_magna.org.uk",
         "1st Contact email": ""
     },
     {
@@ -15897,8 +15897,8 @@ var la_landlords = [{
         "Registration Date": 35871,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@magna.org.uk",
-        "UCFSEmail": "universalcredit@magna.org.uk",
+        "UCLSEmail": "universalcredit_+_magna.org.uk",
+        "UCFSEmail": "universalcredit_+_magna.org.uk",
         "1st Contact email": ""
     },
     {
@@ -15936,7 +15936,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House Only",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "info@majorha.com",
+        "UCFSEmail": "info_+_majorha.com",
         "1st Contact email": ""
     },
     {
@@ -15992,8 +15992,8 @@ var la_landlords = [{
         "Registration Date": 27785,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@yourhousinggroup.co.uk",
-        "UCFSEmail": "universal.credit@yourhousinggroup.co.uk",
+        "UCLSEmail": "universal.credit_+_yourhousinggroup.co.uk",
+        "UCFSEmail": "universal.credit_+_yourhousinggroup.co.uk",
         "1st Contact email": ""
     },
     {
@@ -16068,7 +16068,7 @@ var la_landlords = [{
         "Registration Date": 31950,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@manninghamha.co.uk",
+        "UCLSEmail": "universalcredit_+_manninghamha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -16106,7 +16106,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@Mansfield.gcsx.gov.uk",
+        "UCLSEmail": "universal.credit_+_Mansfield.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -16144,7 +16144,7 @@ var la_landlords = [{
         "Registration Date": 31663,
         "Legal Entity": "Charity Commission Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@accordha.org.uk",
+        "UCLSEmail": "universal.credit_+_accordha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -16182,8 +16182,8 @@ var la_landlords = [{
         "Registration Date": 32587,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@regenda.org.uk",
-        "UCFSEmail": "universalcredit@regenda.org.uk",
+        "UCLSEmail": "universalcredit_+_regenda.org.uk",
+        "UCFSEmail": "universalcredit_+_regenda.org.uk",
         "1st Contact email": ""
     },
     {
@@ -16392,7 +16392,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "UCRents@melton.gov.uk",
+        "UCFSEmail": "UCRents_+_melton.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -16410,7 +16410,7 @@ var la_landlords = [{
         "Registration Date": 27802,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "MercianIncomeTeam_UC@Circle.org.uk",
+        "UCLSEmail": "MercianIncomeTeam_UC_+_Circle.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -16448,7 +16448,7 @@ var la_landlords = [{
         "Registration Date": 39287,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@shropshirehousing.org.uk",
+        "UCLSEmail": "universal.credit_+_shropshirehousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -16467,8 +16467,8 @@ var la_landlords = [{
         "Registration Date": 39112,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "UniversalCredit@merlinhs.co.uk",
-        "UCFSEmail": "UniversalCredit@merlinhs.co.uk",
+        "UCLSEmail": "UniversalCredit_+_merlinhs.co.uk",
+        "UCFSEmail": "UniversalCredit_+_merlinhs.co.uk",
         "1st Contact email": ""
     },
     {
@@ -16506,7 +16506,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Merton_IncomeTeam@circle.org.uk",
+        "UCFSEmail": "Merton_IncomeTeam_+_circle.org.uk",
         "1st Contact email": ""
     },
     {
@@ -16545,7 +16545,7 @@ var la_landlords = [{
         "Country": "England",
         "UCLSEmail": "No email gathered",
         "UCFSEmail": "No email gathered",
-        "1st Contact email": "income_team@metropolitan.org.uk"
+        "1st Contact email": "income_team_+_metropolitan.org.uk"
     },
     {
         "ID": 872,
@@ -16563,8 +16563,8 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Income_Team@metropolitan.org.uk",
-        "1st Contact email": "income_team@metropolitan.org.uk"
+        "UCFSEmail": "Income_Team_+_metropolitan.org.uk",
+        "1st Contact email": "income_team_+_metropolitan.org.uk"
     },
     {
         "ID": 873,
@@ -16582,7 +16582,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "UCinfo@middevon.gov.uk",
+        "UCFSEmail": "UCinfo_+_middevon.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -16600,7 +16600,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@baberghmidsuffolk.gov.uk ",
+        "UCLSEmail": "Universal.credit_+_baberghmidsuffolk.gov.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -16619,8 +16619,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Universalcredit@midlandheart.org.uk",
-        "UCFSEmail": "Universalcredit@midlandheart.org.uk",
+        "UCLSEmail": "Universalcredit_+_midlandheart.org.uk",
+        "UCFSEmail": "Universalcredit_+_midlandheart.org.uk",
         "1st Contact email": ""
     },
     {
@@ -16638,8 +16638,8 @@ var la_landlords = [{
         "Registration Date": 38808,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@midlothian.gov.uk",
-        "UCFSEmail": "universalcredit@midlandheart.org.uk ",
+        "UCLSEmail": "Universal.Credit_+_midlothian.gov.uk",
+        "UCFSEmail": "universalcredit_+_midlandheart.org.uk ",
         "1st Contact email": ""
     },
     {
@@ -16657,7 +16657,7 @@ var la_landlords = [{
         "Registration Date": 30445,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -16733,7 +16733,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "rents@milton-keynes.gov.uk",
+        "UCLSEmail": "rents_+_milton-keynes.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -16809,7 +16809,7 @@ var la_landlords = [{
         "Registration Date": 27862,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@eil.org.uk",
+        "UCLSEmail": "universal.credit_+_eil.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -16847,8 +16847,8 @@ var la_landlords = [{
         "Registration Date": 27618,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "uc@moat.co.uk",
-        "UCFSEmail": "uc@moat.co.uk",
+        "UCLSEmail": "uc_+_moat.co.uk",
+        "UCFSEmail": "uc_+_moat.co.uk",
         "1st Contact email": ""
     },
     {
@@ -16866,8 +16866,8 @@ var la_landlords = [{
         "Registration Date": 34597,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "uc@moat.co.uk",
-        "UCFSEmail": "UC@moat.co.uk",
+        "UCLSEmail": "uc_+_moat.co.uk",
+        "UCFSEmail": "UC_+_moat.co.uk",
         "1st Contact email": ""
     },
     {
@@ -16942,8 +16942,8 @@ var la_landlords = [{
         "Registration Date": 36935,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@yourhousinggroup.co.uk",
-        "UCFSEmail": "universal.credit@yourhousinggroup.co.uk",
+        "UCLSEmail": "universal.credit_+_yourhousinggroup.co.uk",
+        "UCFSEmail": "universal.credit_+_yourhousinggroup.co.uk",
         "1st Contact email": ""
     },
     {
@@ -16980,7 +16980,7 @@ var la_landlords = [{
         "Registration Date": 30613,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@mosscare.org.uk",
+        "UCLSEmail": "universal.credit_+_mosscare.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -16999,7 +16999,7 @@ var la_landlords = [{
         "Registration Date": 27736,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@mosscare.org.uk",
+        "UCLSEmail": "universal.credit_+_mosscare.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -17018,7 +17018,7 @@ var la_landlords = [{
         "Registration Date": 27500,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@mountgreen.org.uk ",
+        "UCLSEmail": "universalcredit_+_mountgreen.org.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -17056,8 +17056,8 @@ var la_landlords = [{
         "Registration Date": 28074,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@muir.org.uk",
-        "UCFSEmail": "universal.credit@muir.org.uk",
+        "UCLSEmail": "universal.credit_+_muir.org.uk",
+        "UCFSEmail": "universal.credit_+_muir.org.uk",
         "1st Contact email": ""
     },
     {
@@ -17075,7 +17075,7 @@ var la_landlords = [{
         "Registration Date": 27771,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@muircroft.co.uk",
+        "UCLSEmail": "universal.credit_+_muircroft.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -17227,7 +17227,7 @@ var la_landlords = [{
         "Registration Date": 32538,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nehemiah-ucha.co.uk",
+        "UCLSEmail": "universal.credit_+_nehemiah-ucha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -17246,8 +17246,8 @@ var la_landlords = [{
         "Registration Date": 42489,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "uc@networkhomes.org.uk",
-        "UCFSEmail": "uc@networkhomes.org.uk",
+        "UCLSEmail": "uc_+_networkhomes.org.uk",
+        "UCFSEmail": "uc_+_networkhomes.org.uk",
         "1st Contact email": ""
     },
     {
@@ -17265,8 +17265,8 @@ var la_landlords = [{
         "Registration Date": 37686,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "uc@networkhomes.org.uk",
-        "UCFSEmail": "uc@networkhomes.org.uk",
+        "UCLSEmail": "uc_+_networkhomes.org.uk",
+        "UCFSEmail": "uc_+_networkhomes.org.uk",
         "1st Contact email": ""
     },
     {
@@ -17284,8 +17284,8 @@ var la_landlords = [{
         "Registration Date": 27649,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "uc@networkhomes.org.uk",
-        "UCFSEmail": "uc@networkhomes.org.uk",
+        "UCLSEmail": "uc_+_networkhomes.org.uk",
+        "UCFSEmail": "uc_+_networkhomes.org.uk",
         "1st Contact email": ""
     },
     {
@@ -17322,7 +17322,7 @@ var la_landlords = [{
         "Registration Date": 36606,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universalcredit@newcharter.co.uk",
+        "UCLSEmail": "universalcredit_+_newcharter.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -17341,7 +17341,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "rents@nfdc.gov.uk",
+        "UCLSEmail": "rents_+_nfdc.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -17398,7 +17398,7 @@ var la_landlords = [{
         "Registration Date": 36776,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@progressgroup.org.uk",
+        "UCLSEmail": "universalcredit_+_progressgroup.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -17417,8 +17417,8 @@ var la_landlords = [{
         "Registration Date": 36216,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@waterloo.org.uk",
-        "UCFSEmail": "universal.credit@waterloo.org.uk",
+        "UCLSEmail": "universal.credit_+_waterloo.org.uk",
+        "UCFSEmail": "universal.credit_+_waterloo.org.uk",
         "1st Contact email": ""
     },
     {
@@ -17493,7 +17493,7 @@ var la_landlords = [{
         "Registration Date": 34393,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@progressgroup.org.uk",
+        "UCLSEmail": "universalcredit_+_progressgroup.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -17589,7 +17589,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Universalcredit@newha.co.uk",
+        "UCFSEmail": "Universalcredit_+_newha.co.uk",
         "1st Contact email": ""
     },
     {
@@ -17607,7 +17607,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@newark-sherwooddc.gov.uk",
+        "UCLSEmail": "universal.credit_+_newark-sherwooddc.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -17664,8 +17664,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@newcastle.gov.uk",
-        "UCFSEmail": "universal.credit@newcastle.gov.uk",
+        "UCLSEmail": "universal.credit_+_newcastle.gov.uk",
+        "UCFSEmail": "universal.credit_+_newcastle.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -17702,8 +17702,8 @@ var la_landlords = [{
         "Registration Date": 27473,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@newlon.org.uk",
-        "UCFSEmail": "universal.credit@newlon.org.uk",
+        "UCLSEmail": "universal.credit_+_newlon.org.uk",
+        "UCFSEmail": "universal.credit_+_newlon.org.uk",
         "1st Contact email": ""
     },
     {
@@ -17740,7 +17740,7 @@ var la_landlords = [{
         "Registration Date": 29381,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "office@nchc.org.uk   ",
+        "UCLSEmail": "office_+_nchc.org.uk   ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -17759,7 +17759,7 @@ var la_landlords = [{
         "Registration Date": 36559,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@ndh-ltd.co.uk",
+        "UCLSEmail": "Universal.Credit_+_ndh-ltd.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -17778,7 +17778,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@rykneldhomes.org.uk",
+        "UCLSEmail": "universal.credit_+_rykneldhomes.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -17798,7 +17798,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House & CC",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "staff@neywca.co.uk",
+        "UCFSEmail": "staff_+_neywca.co.uk",
         "1st Contact email": ""
     },
     {
@@ -17816,7 +17816,7 @@ var la_landlords = [{
         "Registration Date": 37665,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@nhh.org.uk",
+        "UCLSEmail": "universalcredit_+_nhh.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -17854,8 +17854,8 @@ var la_landlords = [{
         "Registration Date": 32643,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nlmha.com",
-        "UCFSEmail": "universal.credit@nlmha.com",
+        "UCLSEmail": "universal.credit_+_nlmha.com",
+        "UCFSEmail": "universal.credit_+_nlmha.com",
         "1st Contact email": ""
     },
     {
@@ -17911,8 +17911,8 @@ var la_landlords = [{
         "Registration Date": 38860,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@northstarhg.cjsm.net",
-        "UCFSEmail": "universal.credit@northstarhg.co.uk",
+        "UCLSEmail": "Universal.credit_+_northstarhg.cjsm.net",
+        "UCFSEmail": "universal.credit_+_northstarhg.co.uk",
         "1st Contact email": ""
     },
     {
@@ -17930,7 +17930,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Housing.IncomeTeam@northtyneside.gcsx.gov.uk",
+        "UCLSEmail": "Housing.IncomeTeam_+_northtyneside.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -17987,7 +17987,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Rentincome@northamptonpartnershiphomes.org.uk",
+        "UCLSEmail": "Rentincome_+_northamptonpartnershiphomes.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -18006,8 +18006,8 @@ var la_landlords = [{
         "Registration Date": 33722,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcreditlrha@midlandsrural.org.uk",
-        "UCFSEmail": "universalcreditNRHA@midlandsrural.org.uk",
+        "UCLSEmail": "universalcreditlrha_+_midlandsrural.org.uk",
+        "UCFSEmail": "universalcreditNRHA_+_midlandsrural.org.uk",
         "1st Contact email": ""
     },
     {
@@ -18101,8 +18101,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@norwich.gov.uk",
-        "UCFSEmail": "universalcredit@norwich.gov.uk",
+        "UCLSEmail": "universal.credit_+_norwich.gov.uk",
+        "UCFSEmail": "universalcredit_+_norwich.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -18177,7 +18177,7 @@ var la_landlords = [{
         "Registration Date": 29612,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@nhhg.org.uk ",
+        "UCLSEmail": "universalcredit_+_nhhg.org.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -18196,8 +18196,8 @@ var la_landlords = [{
         "Registration Date": 27500,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@nhhg.org.uk ",
-        "UCFSEmail": "universalcredit@nhhg.org.uk",
+        "UCLSEmail": "universalcredit_+_nhhg.org.uk ",
+        "UCFSEmail": "universalcredit_+_nhhg.org.uk",
         "1st Contact email": ""
     },
     {
@@ -18253,8 +18253,8 @@ var la_landlords = [{
         "Registration Date": 42102,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@ncha.org.uk",
-        "UCFSEmail": "finance-rents@ncha.org.uk",
+        "UCLSEmail": "universal.credit_+_ncha.org.uk",
+        "UCFSEmail": "finance-rents_+_ncha.org.uk",
         "1st Contact email": ""
     },
     {
@@ -18291,8 +18291,8 @@ var la_landlords = [{
         "Registration Date": 38741,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@alliancehomes.org.uk.cjsm.net",
-        "UCFSEmail": "universal.credit@alliancehomes.org.uk.cjsm.net",
+        "UCLSEmail": "universal.credit_+_alliancehomes.org.uk.cjsm.net",
+        "UCFSEmail": "universal.credit_+_alliancehomes.org.uk.cjsm.net",
         "1st Contact email": ""
     },
     {
@@ -18368,7 +18368,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House Only",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Universalcredit@oakhousing.org",
+        "UCFSEmail": "Universalcredit_+_oakhousing.org",
         "1st Contact email": ""
     },
     {
@@ -18424,7 +18424,7 @@ var la_landlords = [{
         "Registration Date": 38118,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@oceanhousing.com",
+        "UCLSEmail": "universal.credit_+_oceanhousing.com",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -18443,7 +18443,7 @@ var la_landlords = [{
         "Registration Date": 36559,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@oceanhousing.com",
+        "UCLSEmail": "universal.credit_+_oceanhousing.com",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -18482,7 +18482,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@octavia.org.uk",
+        "UCFSEmail": "universalcredit_+_octavia.org.uk",
         "1st Contact email": ""
     },
     {
@@ -18500,7 +18500,7 @@ var la_landlords = [{
         "Registration Date": 32118,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@odu-dua.org",
+        "UCLSEmail": "universal.credit_+_odu-dua.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -18557,7 +18557,7 @@ var la_landlords = [{
         "Registration Date": 36272,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcreditcircle33@circle.org.uk      ",
+        "UCLSEmail": "universalcreditcircle33_+_circle.org.uk      ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -18577,7 +18577,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@coophomes.coop",
+        "UCFSEmail": "universalcredit_+_coophomes.coop",
         "1st Contact email": ""
     },
     {
@@ -18595,8 +18595,8 @@ var la_landlords = [{
         "Registration Date": 36914,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@familymosaic.co.uk",
-        "UCFSEmail": "Universal.Credit@familymosaic.co.uk",
+        "UCLSEmail": "Universal.Credit_+_familymosaic.co.uk",
+        "UCFSEmail": "Universal.Credit_+_familymosaic.co.uk",
         "1st Contact email": ""
     },
     {
@@ -18634,7 +18634,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House Only",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "omega@omegalettings.com",
+        "UCFSEmail": "omega_+_omegalettings.com",
         "1st Contact email": ""
     },
     {
@@ -18653,7 +18653,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "ohuniversalcredit@onehousinggroup.co.uk",
+        "UCFSEmail": "ohuniversalcredit_+_onehousinggroup.co.uk",
         "1st Contact email": ""
     },
     {
@@ -18709,7 +18709,7 @@ var la_landlords = [{
         "Registration Date": 38069,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "uc@oneymca.org",
+        "UCLSEmail": "uc_+_oneymca.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -18728,7 +18728,7 @@ var la_landlords = [{
         "Registration Date": 39112,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "gareth.roebuck@ongo.co.uk",
+        "UCLSEmail": "gareth.roebuck_+_ongo.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -18747,7 +18747,7 @@ var la_landlords = [{
         "Registration Date": 36327,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@wmhousing.co.uk",
+        "UCLSEmail": "Universal.Credit_+_wmhousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -18766,8 +18766,8 @@ var la_landlords = [{
         "Registration Date": 35508,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universalcredit@orbit.org.uk",
-        "UCFSEmail": "Universalcredit@orbit.org.uk",
+        "UCLSEmail": "Universalcredit_+_orbit.org.uk",
+        "UCFSEmail": "Universalcredit_+_orbit.org.uk",
         "1st Contact email": ""
     },
     {
@@ -18785,8 +18785,8 @@ var la_landlords = [{
         "Registration Date": 34681,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universalcredit@orbit.org.uk",
-        "UCFSEmail": "Universalcredit@orbit.org.uk",
+        "UCLSEmail": "Universalcredit_+_orbit.org.uk",
+        "UCFSEmail": "Universalcredit_+_orbit.org.uk",
         "1st Contact email": ""
     },
     {
@@ -18880,7 +18880,7 @@ var la_landlords = [{
         "Registration Date": 41396,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@originhousing.org.uk ",
+        "UCLSEmail": "universal.credit_+_originhousing.org.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -18899,7 +18899,7 @@ var la_landlords = [{
         "Registration Date": 27708,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@originhousing.org.uk ",
+        "UCLSEmail": "universal.credit_+_originhousing.org.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -18937,8 +18937,8 @@ var la_landlords = [{
         "Registration Date": 27478,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@orwell-housing.co.uk",
-        "UCFSEmail": "universalcredit@orwell-housing.co.uk",
+        "UCLSEmail": "Universal.credit_+_orwell-housing.co.uk",
+        "UCFSEmail": "universalcredit_+_orwell-housing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -18975,8 +18975,8 @@ var la_landlords = [{
         "Registration Date": 33764,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@greensquaregroup.com",
-        "UCFSEmail": "universal.credit@greensquaregroup.com",
+        "UCLSEmail": "Universal.Credit_+_greensquaregroup.com",
+        "UCFSEmail": "universal.credit_+_greensquaregroup.com",
         "1st Contact email": ""
     },
     {
@@ -19013,8 +19013,8 @@ var la_landlords = [{
         "Registration Date": 27708,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@greensquaregroup.com",
-        "UCFSEmail": "universal.credit@greensquaregroup.com",
+        "UCLSEmail": "Universal.Credit_+_greensquaregroup.com",
+        "UCFSEmail": "universal.credit_+_greensquaregroup.com",
         "1st Contact email": ""
     },
     {
@@ -19070,7 +19070,7 @@ var la_landlords = [{
         "Registration Date": 31419,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@bchs.coop",
+        "UCLSEmail": "universal.credit_+_bchs.coop",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -19146,7 +19146,7 @@ var la_landlords = [{
         "Registration Date": 35682,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "rent.recovery@paradigmhousing.co.uk ",
+        "UCLSEmail": "rent.recovery_+_paradigmhousing.co.uk ",
         "UCFSEmail": "Same address as Paradigm Housing Group- use same email??",
         "1st Contact email": ""
     },
@@ -19165,8 +19165,8 @@ var la_landlords = [{
         "Registration Date": 36235,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "IncomeRecovery@paradigmhousing.co.uk ",
-        "UCFSEmail": "rents@paradigmhousing.co.uk",
+        "UCLSEmail": "IncomeRecovery_+_paradigmhousing.co.uk ",
+        "UCFSEmail": "rents_+_paradigmhousing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -19203,8 +19203,8 @@ var la_landlords = [{
         "Registration Date": 36606,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@paragonchg.co.uk",
-        "UCFSEmail": "IncomeTeam@paragonchg.co.uk",
+        "UCLSEmail": "Universal.credit_+_paragonchg.co.uk",
+        "UCFSEmail": "IncomeTeam_+_paragonchg.co.uk",
         "1st Contact email": ""
     },
     {
@@ -19260,7 +19260,7 @@ var la_landlords = [{
         "Registration Date": 39000,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@wchg.org.uk",
+        "UCLSEmail": "universal.credit_+_wchg.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -19336,8 +19336,8 @@ var la_landlords = [{
         "Registration Date": 41026,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@peabody.org.uk",
-        "UCFSEmail": "Universal.Credit@peabody.org.uk",
+        "UCLSEmail": "Universal.Credit_+_peabody.org.uk",
+        "UCFSEmail": "Universal.Credit_+_peabody.org.uk",
         "1st Contact email": ""
     },
     {
@@ -19355,8 +19355,8 @@ var la_landlords = [{
         "Registration Date": 42657,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@peabody.org.uk",
-        "UCFSEmail": "Universal.Credit@peabody.org.uk",
+        "UCLSEmail": "Universal.Credit_+_peabody.org.uk",
+        "UCFSEmail": "Universal.Credit_+_peabody.org.uk",
         "1st Contact email": ""
     },
     {
@@ -19431,7 +19431,7 @@ var la_landlords = [{
         "Registration Date": 38909,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "amy.hermiston@pvha.co.uk",
+        "UCLSEmail": "amy.hermiston_+_pvha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -19526,7 +19526,7 @@ var la_landlords = [{
         "Registration Date": 27771,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@pengechurchesha.org.uk",
+        "UCLSEmail": "universal.credit_+_pengechurchesha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -19697,7 +19697,7 @@ var la_landlords = [{
         "Registration Date": 31117,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "mail@phoenixhousing.co.uk",
+        "UCLSEmail": "mail_+_phoenixhousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -19754,7 +19754,7 @@ var la_landlords = [{
         "Registration Date": 27736,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@pierheadhousing.com",
+        "UCLSEmail": "universal.credit_+_pierheadhousing.com",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -19811,7 +19811,7 @@ var la_landlords = [{
         "Registration Date": 27925,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@pineridge.org.uk",
+        "UCLSEmail": "universalcredit_+_pineridge.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -19887,7 +19887,7 @@ var la_landlords = [{
         "Registration Date": 37700,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@rch.coop",
+        "UCLSEmail": "universal.credit_+_rch.coop",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -19906,8 +19906,8 @@ var la_landlords = [{
         "Registration Date": 36424,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universalcredit@placesforpeople.co.uk",
-        "UCFSEmail": "universalcredit@placesforpeople.co.uk",
+        "UCLSEmail": "universalcredit_+_placesforpeople.co.uk",
+        "UCFSEmail": "universalcredit_+_placesforpeople.co.uk",
         "1st Contact email": ""
     },
     {
@@ -19925,8 +19925,8 @@ var la_landlords = [{
         "Registration Date": 27681,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@placesforpeople.co.uk",
-        "UCFSEmail": "universalcredit@placesforpeople.co.uk",
+        "UCLSEmail": "universalcredit_+_placesforpeople.co.uk",
+        "UCFSEmail": "universalcredit_+_placesforpeople.co.uk",
         "1st Contact email": ""
     },
     {
@@ -19944,8 +19944,8 @@ var la_landlords = [{
         "Registration Date": 33126,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@placesforpeople.co.uk",
-        "UCFSEmail": "universalcredit@placesforpeople.co.uk",
+        "UCLSEmail": "universalcredit_+_placesforpeople.co.uk",
+        "UCFSEmail": "universalcredit_+_placesforpeople.co.uk",
         "1st Contact email": ""
     },
     {
@@ -19983,7 +19983,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House Only",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Universal.credit@mearsgroup.co.UK",
+        "UCFSEmail": "Universal.credit_+_mearsgroup.co.UK",
         "1st Contact email": ""
     },
     {
@@ -20020,8 +20020,8 @@ var la_landlords = [{
         "Registration Date": 35843,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@plusdane.co.uk",
-        "UCFSEmail": "universal.credit@plusdane.co.uk",
+        "UCLSEmail": "universal.credit_+_plusdane.co.uk",
+        "UCFSEmail": "universal.credit_+_plusdane.co.uk",
         "1st Contact email": ""
     },
     {
@@ -20039,8 +20039,8 @@ var la_landlords = [{
         "Registration Date": 40385,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@plusdane.co.uk",
-        "UCFSEmail": "universal.credit@plusdane.co.uk",
+        "UCLSEmail": "universal.credit_+_plusdane.co.uk",
+        "UCFSEmail": "universal.credit_+_plusdane.co.uk",
         "1st Contact email": ""
     },
     {
@@ -20059,8 +20059,8 @@ var la_landlords = [{
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
         "UCLSEmail": "No Match to UCLS Data",
-        "UCFSEmail": "universal.credit@plusdane.co.uk",
-        "1st Contact email": "UniversalCredit.EPN@plusdane.co.uk"
+        "UCFSEmail": "universal.credit_+_plusdane.co.uk",
+        "1st Contact email": "UniversalCredit.EPN_+_plusdane.co.uk"
     },
     {
         "ID": 1057,
@@ -20096,7 +20096,7 @@ var la_landlords = [{
         "Registration Date": 40059,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@plymouthcommunityhomes.co.uk",
+        "UCLSEmail": "Universal.credit_+_plymouthcommunityhomes.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -20172,8 +20172,8 @@ var la_landlords = [{
         "Registration Date": 35871,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@poplarharca.co.uk",
-        "UCFSEmail": "universal.credit@poplarharca.co.uk",
+        "UCLSEmail": "universal.credit_+_poplarharca.co.uk",
+        "UCFSEmail": "universal.credit_+_poplarharca.co.uk",
         "1st Contact email": ""
     },
     {
@@ -20191,7 +20191,7 @@ var la_landlords = [{
         "Registration Date": 35843,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@radian.co.uk",
+        "UCLSEmail": "universal.credit_+_radian.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -20286,7 +20286,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@portsmouthcc.gov.uk",
+        "UCLSEmail": "universal.credit_+_portsmouthcc.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -20324,7 +20324,7 @@ var la_landlords = [{
         "Registration Date": 27953,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@prestwichnwha.co.uk",
+        "UCLSEmail": "universal.credit_+_prestwichnwha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -20362,7 +20362,7 @@ var la_landlords = [{
         "Registration Date": 29745,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -20400,7 +20400,7 @@ var la_landlords = [{
         "Registration Date": 36048,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@progressgroup.org.uk",
+        "UCLSEmail": "universalcredit_+_progressgroup.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -20419,8 +20419,8 @@ var la_landlords = [{
         "Registration Date": 36048,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@progressgroup.org.uk",
-        "UCFSEmail": "UniversalcreditSL@progressgroup.org.uk",
+        "UCLSEmail": "universalcredit_+_progressgroup.org.uk",
+        "UCFSEmail": "UniversalcreditSL_+_progressgroup.org.uk",
         "1st Contact email": ""
     },
     {
@@ -20457,7 +20457,7 @@ var la_landlords = [{
         "Registration Date": 41312,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@prospectch.org.uk",
+        "UCLSEmail": "universal.credit_+_prospectch.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -20477,7 +20477,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "housingteam@prha.net",
+        "UCFSEmail": "housingteam_+_prha.net",
         "1st Contact email": ""
     },
     {
@@ -20572,7 +20572,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "dan@radcliffehs.org",
+        "UCFSEmail": "dan_+_radcliffehs.org",
         "1st Contact email": ""
     },
     {
@@ -20590,8 +20590,8 @@ var la_landlords = [{
         "Registration Date": 35906,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@radian.co.uk",
-        "UCFSEmail": "universalcredit@radian.co.uk",
+        "UCLSEmail": "universal.credit_+_radian.co.uk",
+        "UCFSEmail": "universalcredit_+_radian.co.uk",
         "1st Contact email": ""
     },
     {
@@ -20610,7 +20610,7 @@ var la_landlords = [{
         "Legal Entity": "Charity Commission Only",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@railwayha.co.uk",
+        "UCFSEmail": "universalcredit_+_railwayha.co.uk",
         "1st Contact email": ""
     },
     {
@@ -20648,7 +20648,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Universal.credit@ravenht.org.uk",
+        "UCFSEmail": "Universal.credit_+_ravenht.org.uk",
         "1st Contact email": ""
     },
     {
@@ -20780,7 +20780,7 @@ var la_landlords = [{
         "Registration Date": 40850,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Relationship.Specialist@redkitehousing.org.uk ",
+        "UCLSEmail": "Relationship.Specialist_+_redkitehousing.org.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -20818,9 +20818,9 @@ var la_landlords = [{
         "Registration Date": 37335,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@accordha.org.uk",
+        "UCLSEmail": "universal.credit_+_accordha.org.uk",
         "UCFSEmail": "UCLS email gathered",
-        "1st Contact email": "universal.credit@accordha.org.uk"
+        "1st Contact email": "universal.credit_+_accordha.org.uk"
     },
     {
         "ID": 1097,
@@ -20837,7 +20837,7 @@ var la_landlords = [{
         "Registration Date": 37700,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@rch.coop",
+        "UCLSEmail": "universal.credit_+_rch.coop",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -20895,7 +20895,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@coophomes.coop",
+        "UCFSEmail": "universalcredit_+_coophomes.coop",
         "1st Contact email": ""
     },
     {
@@ -20933,8 +20933,8 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No Match to UCLS Data",
-        "UCFSEmail": "universalcredit@regenda.org.uk",
-        "1st Contact email": "universalcredit@regenda.org.uk"
+        "UCFSEmail": "universalcredit_+_regenda.org.uk",
+        "1st Contact email": "universalcredit_+_regenda.org.uk"
     },
     {
         "ID": 1103,
@@ -21084,7 +21084,7 @@ var la_landlords = [{
         "Registration Date": 39525,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "info@ribblevalleyhomes.org.uk",
+        "UCLSEmail": "info_+_ribblevalleyhomes.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -21160,8 +21160,8 @@ var la_landlords = [{
         "Registration Date": 36685,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@rhp.org.uk ",
-        "UCFSEmail": "Universal.credit@rhp.org.uk",
+        "UCLSEmail": "universal.credit_+_rhp.org.uk ",
+        "UCFSEmail": "Universal.credit_+_rhp.org.uk",
         "1st Contact email": ""
     },
     {
@@ -21180,7 +21180,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Universal.credit@richmondshire.gcsx.gov.uk",
+        "UCFSEmail": "Universal.credit_+_richmondshire.gcsx.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -21255,9 +21255,9 @@ var la_landlords = [{
         "Registration Date": 37700,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@accordha.org.uk",
-        "UCFSEmail": "universalcredit@riverside.org.uk",
-        "1st Contact email": "universal.credit@accordha.org.uk"
+        "UCLSEmail": "universal.credit_+_accordha.org.uk",
+        "UCFSEmail": "universalcredit_+_riverside.org.uk",
+        "1st Contact email": "universal.credit_+_accordha.org.uk"
     },
     {
         "ID": 1120,
@@ -21312,7 +21312,7 @@ var la_landlords = [{
         "Registration Date": 40980,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@rochdalehousing.cjsm.net",
+        "UCLSEmail": "universal.credit_+_rochdalehousing.cjsm.net",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -21388,8 +21388,8 @@ var la_landlords = [{
         "Registration Date": 34037,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@rfha.org.uk",
-        "UCFSEmail": "universal.credit@rfha.org.uk",
+        "UCLSEmail": "Universal.Credit_+_rfha.org.uk",
+        "UCFSEmail": "universal.credit_+_rfha.org.uk",
         "1st Contact email": ""
     },
     {
@@ -21464,7 +21464,7 @@ var la_landlords = [{
         "Registration Date": 37938,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@rooftopgroup.org",
+        "UCLSEmail": "universal.credit_+_rooftopgroup.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -21483,7 +21483,7 @@ var la_landlords = [{
         "Registration Date": 34597,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@rooftopgroup.org",
+        "UCLSEmail": "universal.credit_+_rooftopgroup.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -21502,7 +21502,7 @@ var la_landlords = [{
         "Registration Date": 37938,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@rooftopgroup.org",
+        "UCLSEmail": "universal.credit_+_rooftopgroup.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -21521,8 +21521,8 @@ var la_landlords = [{
         "Registration Date": 34317,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "rents@rosebery.org.uk",
-        "UCFSEmail": "rent@rosebery.org.uk",
+        "UCLSEmail": "rents_+_rosebery.org.uk",
+        "UCFSEmail": "rent_+_rosebery.org.uk",
         "1st Contact email": ""
     },
     {
@@ -21541,7 +21541,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "enquiries@crownsimmons.org.uk",
+        "UCFSEmail": "enquiries_+_crownsimmons.org.uk",
         "1st Contact email": ""
     },
     {
@@ -21635,7 +21635,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@rotherham.gcsx.gov.uk",
+        "UCLSEmail": "universal.credit_+_rotherham.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -21692,8 +21692,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universalcredit@kctmo.org.uk ",
-        "UCFSEmail": "universalcredit@kctmo.org.uk ",
+        "UCLSEmail": "universalcredit_+_kctmo.org.uk ",
+        "UCFSEmail": "universalcredit_+_kctmo.org.uk ",
         "1st Contact email": ""
     },
     {
@@ -21712,7 +21712,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "rents@rbk.kingston.gcsx.gov.uk",
+        "UCFSEmail": "rents_+_rbk.kingston.gcsx.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -21730,8 +21730,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@rugby.gov.uk ",
-        "UCFSEmail": "Universal.creditGSI@rugby.gcsx.gov.uk",
+        "UCLSEmail": "universal.credit_+_rugby.gov.uk ",
+        "UCFSEmail": "Universal.creditGSI_+_rugby.gcsx.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -21749,7 +21749,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@runnymede.gov.uk",
+        "UCLSEmail": "universal.credit_+_runnymede.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -21768,8 +21768,8 @@ var la_landlords = [{
         "Registration Date": 31663,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
-        "UCFSEmail": "incometeam.tempaccommodation@ xxx",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
+        "UCFSEmail": "incometeam.tempaccommodation_+_ xxx",
         "1st Contact email": ""
     },
     {
@@ -21826,7 +21826,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Universal.Credit@yorkshirehousing.co.uk ",
+        "UCFSEmail": "Universal.Credit_+_yorkshirehousing.co.uk ",
         "1st Contact email": ""
     },
     {
@@ -21844,7 +21844,7 @@ var la_landlords = [{
         "Registration Date": 41431,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@rykneldhomes.org.uk",
+        "UCLSEmail": "universal.credit_+_rykneldhomes.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -21882,7 +21882,7 @@ var la_landlords = [{
         "Registration Date": 32527,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "housingteam@sadehlok.co.uk",
+        "UCLSEmail": "housingteam_+_sadehlok.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -21920,8 +21920,8 @@ var la_landlords = [{
         "Registration Date": 38041,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@saffronhousing.co.uk",
-        "UCFSEmail": "Universalcredit@saffronhousing.co.uk",
+        "UCLSEmail": "universal.credit_+_saffronhousing.co.uk",
+        "UCFSEmail": "Universalcredit_+_saffronhousing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -21977,7 +21977,7 @@ var la_landlords = [{
         "Registration Date": 42040,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "income.management@salixhomes.org",
+        "UCLSEmail": "income.management_+_salixhomes.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -21997,7 +21997,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@saha.org.uk",
+        "UCFSEmail": "universalcredit_+_saha.org.uk",
         "1st Contact email": ""
     },
     {
@@ -22053,8 +22053,8 @@ var la_landlords = [{
         "Registration Date": 37700,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@sanctuary-housing.co.uk",
-        "UCFSEmail": "Universal.Credit@sanctuary-housing.co.uk",
+        "UCLSEmail": "Universal.Credit_+_sanctuary-housing.co.uk",
+        "UCFSEmail": "Universal.Credit_+_sanctuary-housing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -22072,8 +22072,8 @@ var la_landlords = [{
         "Registration Date": 27785,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@sanctuary-housing.co.uk",
-        "UCFSEmail": "Universal.Credit@sanctuary-housing.co.uk",
+        "UCLSEmail": "Universal.Credit_+_sanctuary-housing.co.uk",
+        "UCFSEmail": "Universal.Credit_+_sanctuary-housing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -22091,8 +22091,8 @@ var la_landlords = [{
         "Registration Date": 40878,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@sanctuary-housing.co.uk",
-        "UCFSEmail": "Universal.Credit@sanctuary-housing.co.uk",
+        "UCLSEmail": "Universal.Credit_+_sanctuary-housing.co.uk",
+        "UCFSEmail": "Universal.Credit_+_sanctuary-housing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -22110,8 +22110,8 @@ var la_landlords = [{
         "Registration Date": 27590,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@sanctuary-housing.co.uk",
-        "UCFSEmail": "universal.credit@sanctuary-housing.co.uk",
+        "UCLSEmail": "Universal.Credit_+_sanctuary-housing.co.uk",
+        "UCFSEmail": "universal.credit_+_sanctuary-housing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -22148,7 +22148,7 @@ var la_landlords = [{
         "Registration Date": 27618,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "rent.php@poole.gov.uk",
+        "UCLSEmail": "rent.php_+_poole.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -22167,7 +22167,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universalcredit_rent@sandwell.gov.uk",
+        "UCLSEmail": "universalcredit_rent_+_sandwell.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -22205,7 +22205,7 @@ var la_landlords = [{
         "Registration Date": 36847,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@saxonweald.com",
+        "UCLSEmail": "Universal.credit_+_saxonweald.com",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -22262,8 +22262,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universalcredit@homesinsedgemoor.org",
-        "UCFSEmail": "universal.credit@sedgemoor.gov.uk",
+        "UCLSEmail": "universalcredit_+_homesinsedgemoor.org",
+        "UCFSEmail": "universal.credit_+_sedgemoor.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -22281,8 +22281,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "debtcontrol@selby.gcsx.gov.uk",
-        "UCFSEmail": "Universalcredit@homesinsedgemoor.org",
+        "UCLSEmail": "debtcontrol_+_selby.gcsx.gov.uk",
+        "UCFSEmail": "Universalcredit_+_homesinsedgemoor.org",
         "1st Contact email": ""
     },
     {
@@ -22300,8 +22300,8 @@ var la_landlords = [{
         "Registration Date": 35348,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@selwoodhousing.com",
-        "UCFSEmail": "universal.credit@selwoodhousing.com",
+        "UCLSEmail": "universal.credit_+_selwoodhousing.com",
+        "UCFSEmail": "universal.credit_+_selwoodhousing.com",
         "1st Contact email": ""
     },
     {
@@ -22357,8 +22357,8 @@ var la_landlords = [{
         "Registration Date": 34772,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "NeighbourhoodIncome@Sentinelha.org.uk",
-        "UCFSEmail": "Universalcredit@sentinelha.org.uk",
+        "UCLSEmail": "NeighbourhoodIncome_+_Sentinelha.org.uk",
+        "UCFSEmail": "Universalcredit_+_sentinelha.org.uk",
         "1st Contact email": ""
     },
     {
@@ -22395,8 +22395,8 @@ var la_landlords = [{
         "Registration Date": 39399,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@sevenlockshousing.co.uk",
-        "UCFSEmail": "Universal.Credit@sevenlockshousing.co.uk",
+        "UCLSEmail": "Universal.Credit_+_sevenlockshousing.co.uk",
+        "UCFSEmail": "Universal.Credit_+_sevenlockshousing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -22433,8 +22433,8 @@ var la_landlords = [{
         "Registration Date": 35906,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@svhs.org.uk",
-        "UCFSEmail": "universal.credit@svhs.org.uk",
+        "UCLSEmail": "universal.credit_+_svhs.org.uk",
+        "UCFSEmail": "universal.credit_+_svhs.org.uk",
         "1st Contact email": ""
     },
     {
@@ -22452,7 +22452,7 @@ var la_landlords = [{
         "Registration Date": 37152,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@severnsidehousing.co.uk",
+        "UCLSEmail": "universal.credit_+_severnsidehousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -22471,7 +22471,7 @@ var la_landlords = [{
         "Registration Date": 28198,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "office@seymourhc.org",
+        "UCLSEmail": "office_+_seymourhc.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -22509,7 +22509,7 @@ var la_landlords = [{
         "Registration Date": 29010,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@bchs.coop",
+        "UCLSEmail": "universal.credit_+_bchs.coop",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -22528,8 +22528,8 @@ var la_landlords = [{
         "Registration Date": 34408,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "UniversalCredit@shal.org",
-        "UCFSEmail": "universalcredit@shal.org",
+        "UCLSEmail": "UniversalCredit_+_shal.org",
+        "UCFSEmail": "universalcredit_+_shal.org",
         "1st Contact email": ""
     },
     {
@@ -22585,7 +22585,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Sheffieldhousingrents@sheffield.GCSX.gov.uk",
+        "UCLSEmail": "Sheffieldhousingrents_+_sheffield.GCSX.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -22624,7 +22624,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Income.team@sbhg.co.uk",
+        "UCFSEmail": "Income.team_+_sbhg.co.uk",
         "1st Contact email": ""
     },
     {
@@ -22661,7 +22661,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Lavinia.asquith@shepway.gcsx.gov.uk",
+        "UCLSEmail": "Lavinia.asquith_+_shepway.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -22718,7 +22718,7 @@ var la_landlords = [{
         "Registration Date": 32846,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@shian.org.uk",
+        "UCLSEmail": "universal.credit_+_shian.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -22737,7 +22737,7 @@ var la_landlords = [{
         "Registration Date": 30451,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -22756,8 +22756,8 @@ var la_landlords = [{
         "Registration Date": 38432,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "uc179@shorelinehp.com",
-        "UCFSEmail": "uc179@shorelinehp.com",
+        "UCLSEmail": "uc179_+_shorelinehp.com",
+        "UCFSEmail": "uc179_+_shorelinehp.com",
         "1st Contact email": ""
     },
     {
@@ -22832,7 +22832,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Universal.credit.starhousing@shropshire.gov.uk",
+        "UCLSEmail": "Universal.credit.starhousing_+_shropshire.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -22870,7 +22870,7 @@ var la_landlords = [{
         "Registration Date": 27827,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@shropshirerural.co.uk",
+        "UCLSEmail": "universalcredit_+_shropshirerural.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -23041,7 +23041,7 @@ var la_landlords = [{
         "Registration Date": 40997,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "UC6T@bury.gcsx.gov.uk",
+        "UCLSEmail": "UC6T_+_bury.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -23155,7 +23155,7 @@ var la_landlords = [{
         "Registration Date": 35571,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@soha.co.uk   ",
+        "UCLSEmail": "universal.credit_+_soha.co.uk   ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -23175,7 +23175,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universal.credit@soha.co.uk",
+        "UCFSEmail": "universal.credit_+_soha.co.uk",
         "1st Contact email": ""
     },
     {
@@ -23231,7 +23231,7 @@ var la_landlords = [{
         "Registration Date": 40973,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "Nicola.barnett@solohousing.org",
+        "UCLSEmail": "Nicola.barnett_+_solohousing.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -23251,7 +23251,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@solonswha.co.uk",
+        "UCFSEmail": "universalcredit_+_solonswha.co.uk",
         "1st Contact email": ""
     },
     {
@@ -23440,7 +23440,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universalcreditrents@southkesteven.gcsx.gov.uk ",
+        "UCLSEmail": "universalcreditrents_+_southkesteven.gcsx.gov.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -23478,8 +23478,8 @@ var la_landlords = [{
         "Registration Date": 40920,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@southlakeshousing.co.uk",
-        "UCFSEmail": "universal.credit@southlakeshousing.co.uk",
+        "UCLSEmail": "universal.credit_+_southlakeshousing.co.uk",
+        "UCFSEmail": "universal.credit_+_southlakeshousing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -23497,7 +23497,7 @@ var la_landlords = [{
         "Registration Date": 36417,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Jackie.Bishop@slhgroup.co.uk",
+        "UCLSEmail": "Jackie.Bishop_+_slhgroup.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -23536,7 +23536,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universal.credit@grandunionhousing.co.uk",
+        "UCFSEmail": "universal.credit_+_grandunionhousing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -23554,7 +23554,7 @@ var la_landlords = [{
         "Registration Date": 29790,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@bchs.coop",
+        "UCLSEmail": "universal.credit_+_bchs.coop",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -23573,7 +23573,7 @@ var la_landlords = [{
         "Registration Date": 33309,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@shropshirehousing.org.uk",
+        "UCLSEmail": "universal.credit_+_shropshirehousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -23592,7 +23592,7 @@ var la_landlords = [{
         "Registration Date": 35495,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@ssha.cjsm.net",
+        "UCLSEmail": "universal.credit_+_ssha.cjsm.net",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -23611,7 +23611,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "welfaresupport@southtynesidehomes.org.uk",
+        "UCLSEmail": "welfaresupport_+_southtynesidehomes.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -23630,9 +23630,9 @@ var la_landlords = [{
         "Registration Date": 41697,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "info@sthv.org.uk",
+        "UCLSEmail": "info_+_sthv.org.uk",
         "UCFSEmail": "UCLS email gathered",
-        "1st Contact email": "welfaresupport@southtynesidehomes.org.uk"
+        "1st Contact email": "welfaresupport_+_southtynesidehomes.org.uk"
     },
     {
         "ID": 1245,
@@ -23650,7 +23650,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@swhs.org.uk",
+        "UCFSEmail": "universalcredit_+_swhs.org.uk",
         "1st Contact email": ""
     },
     {
@@ -23668,7 +23668,7 @@ var la_landlords = [{
         "Registration Date": 27527,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Enquiries@syha.co.uk",
+        "UCLSEmail": "Enquiries_+_syha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -23687,8 +23687,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@southampton.gov.uk",
-        "UCFSEmail": "universal.credit@southampton.gov.uk",
+        "UCLSEmail": "universal.credit_+_southampton.gov.uk",
+        "UCFSEmail": "universal.credit_+_southampton.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -23706,7 +23706,7 @@ var la_landlords = [{
         "Registration Date": 31215,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -23725,7 +23725,7 @@ var la_landlords = [{
         "Registration Date": 27890,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "j.membrey@southdownhousing.org",
+        "UCLSEmail": "j.membrey_+_southdownhousing.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -23744,7 +23744,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@seh.southend.gov.uk",
+        "UCLSEmail": "universal.credit_+_seh.southend.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -23763,7 +23763,7 @@ var la_landlords = [{
         "Registration Date": 30144,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -23801,8 +23801,8 @@ var la_landlords = [{
         "Registration Date": 40452,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@shgroup.org.uk",
-        "UCFSEmail": "Universal.Credit@shgroup.org.uk",
+        "UCLSEmail": "universal.credit_+_shgroup.org.uk",
+        "UCFSEmail": "Universal.Credit_+_shgroup.org.uk",
         "1st Contact email": ""
     },
     {
@@ -23878,7 +23878,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universal.credit@amicushorizon.org.uk",
+        "UCFSEmail": "universal.credit_+_amicushorizon.org.uk",
         "1st Contact email": ""
     },
     {
@@ -23897,7 +23897,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "UCSouthwark@southwark.gcsx.gov.uk",
+        "UCFSEmail": "UCSouthwark_+_southwark.gcsx.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -23915,7 +23915,7 @@ var la_landlords = [{
         "Registration Date": 39399,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@southwayhousing.co.uk",
+        "UCLSEmail": "universal.credit_+_southwayhousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -23934,8 +23934,8 @@ var la_landlords = [{
         "Registration Date": 42685,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@sovereign.org.uk",
-        "UCFSEmail": "universalcredit@sovereign.org.uk",
+        "UCLSEmail": "universalcredit_+_sovereign.org.uk",
+        "UCFSEmail": "universalcredit_+_sovereign.org.uk",
         "1st Contact email": ""
     },
     {
@@ -23953,8 +23953,8 @@ var la_landlords = [{
         "Registration Date": 33210,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@sovereign.org.uk",
-        "UCFSEmail": "universalcredit@sovereign.org.uk",
+        "UCLSEmail": "universalcredit_+_sovereign.org.uk",
+        "UCFSEmail": "universalcredit_+_sovereign.org.uk",
         "1st Contact email": ""
     },
     {
@@ -23972,8 +23972,8 @@ var la_landlords = [{
         "Registration Date": 41366,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@sovereign.org.uk",
-        "UCFSEmail": "universalcredit@sovereign.org.uk",
+        "UCLSEmail": "universalcredit_+_sovereign.org.uk",
+        "UCFSEmail": "universalcredit_+_sovereign.org.uk",
         "1st Contact email": ""
     },
     {
@@ -23991,8 +23991,8 @@ var la_landlords = [{
         "Registration Date": 36935,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "DWPEnquiriesSpire@longhurst-group.org.uk",
-        "UCFSEmail": "Universalcreditspire@longhurst-group.org.uk",
+        "UCLSEmail": "DWPEnquiriesSpire_+_longhurst-group.org.uk",
+        "UCFSEmail": "Universalcreditspire_+_longhurst-group.org.uk",
         "1st Contact email": ""
     },
     {
@@ -24010,8 +24010,8 @@ var la_landlords = [{
         "Registration Date": 29381,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@spitalfieldsha.co.uk",
-        "UCFSEmail": "universal.credit@spitalfieldsha.co.uk",
+        "UCLSEmail": "universal.credit_+_spitalfieldsha.co.uk",
+        "UCFSEmail": "universal.credit_+_spitalfieldsha.co.uk",
         "1st Contact email": ""
     },
     {
@@ -24067,7 +24067,7 @@ var la_landlords = [{
         "Registration Date": 31663,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -24124,7 +24124,7 @@ var la_landlords = [{
         "Registration Date": 28604,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "sahc@standrewhousing.karoo.co.uk",
+        "UCLSEmail": "sahc_+_standrewhousing.karoo.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -24239,7 +24239,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House & CC",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "UniversalCredit@stchris.org.uk",
+        "UCFSEmail": "UniversalCredit_+_stchris.org.uk",
         "1st Contact email": ""
     },
     {
@@ -24391,7 +24391,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House & CC",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "ucnotifications@mungos.org",
+        "UCFSEmail": "ucnotifications_+_mungos.org",
         "1st Contact email": ""
     },
     {
@@ -24409,7 +24409,7 @@ var la_landlords = [{
         "Registration Date": 30984,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "office@stpetershousing.org.uk",
+        "UCLSEmail": "office_+_stpetershousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -24447,7 +24447,7 @@ var la_landlords = [{
         "Registration Date": 27708,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@svha.co.uk ",
+        "UCLSEmail": "universal.credit_+_svha.co.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -24504,7 +24504,7 @@ var la_landlords = [{
         "Registration Date": 38741,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@sarh.co.uk",
+        "UCLSEmail": "universal.credit_+_sarh.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -24523,7 +24523,7 @@ var la_landlords = [{
         "Registration Date": 28044,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "incometeammailbox@Staffshousing.org.uk",
+        "UCLSEmail": "incometeammailbox_+_Staffshousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -24580,7 +24580,7 @@ var la_landlords = [{
         "Registration Date": 28762,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@starleyhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_starleyhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -24637,7 +24637,7 @@ var la_landlords = [{
         "Registration Date": 31810,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@stevebikoha.org",
+        "UCLSEmail": "universalcredit_+_stevebikoha.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -24732,7 +24732,7 @@ var la_landlords = [{
         "Registration Date": 40582,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@stockporthomes.org",
+        "UCLSEmail": "universal.credit_+_stockporthomes.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -24751,7 +24751,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@stockport.gov.uk ",
+        "UCLSEmail": "universal.credit_+_stockport.gov.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -24808,7 +24808,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "HousingUCStoke@stoke.gcsx.gov.uk",
+        "UCLSEmail": "HousingUCStoke_+_stoke.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -24846,8 +24846,8 @@ var la_landlords = [{
         "Registration Date": 27568,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@stonewater.org",
-        "UCFSEmail": "universal.credit@stonewater.org",
+        "UCLSEmail": "universal.credit_+_stonewater.org",
+        "UCFSEmail": "universal.credit_+_stonewater.org",
         "1st Contact email": ""
     },
     {
@@ -24865,8 +24865,8 @@ var la_landlords = [{
         "Registration Date": 27590,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@stonewater.org",
-        "UCFSEmail": "universal.credit@stonewater.org",
+        "UCLSEmail": "universal.credit_+_stonewater.org",
+        "UCFSEmail": "universal.credit_+_stonewater.org",
         "1st Contact email": ""
     },
     {
@@ -24884,8 +24884,8 @@ var la_landlords = [{
         "Registration Date": 34359,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@stonewater.org",
-        "UCFSEmail": "universal.credit@stonewater.org",
+        "UCLSEmail": "universal.credit_+_stonewater.org",
+        "UCFSEmail": "universal.credit_+_stonewater.org",
         "1st Contact email": ""
     },
     {
@@ -24903,8 +24903,8 @@ var la_landlords = [{
         "Registration Date": 41067,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@stonewater.org",
-        "UCFSEmail": "universal.credit@stonewater.org",
+        "UCLSEmail": "universal.credit_+_stonewater.org",
+        "UCFSEmail": "universal.credit_+_stonewater.org",
         "1st Contact email": ""
     },
     {
@@ -24922,8 +24922,8 @@ var la_landlords = [{
         "Registration Date": 27831,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@stonewater.org",
-        "UCFSEmail": "Universal.credit@stonewater.org",
+        "UCLSEmail": "universal.credit_+_stonewater.org",
+        "UCFSEmail": "Universal.credit_+_stonewater.org",
         "1st Contact email": ""
     },
     {
@@ -24998,8 +24998,8 @@ var la_landlords = [{
         "Registration Date": 27862,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@suffolkhousing.org.uk",
-        "UCFSEmail": "universalcredit@suffolkhousing.org",
+        "UCLSEmail": "universalcredit_+_suffolkhousing.org.uk",
+        "UCFSEmail": "universalcredit_+_suffolkhousing.org",
         "1st Contact email": ""
     },
     {
@@ -25094,8 +25094,8 @@ var la_landlords = [{
         "Legal Entity": "Companies House & CC",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Universalcredit@transformhousing.org.uk",
-        "1st Contact email": "universal.credit@transformhousing.org.uk"
+        "UCFSEmail": "Universalcredit_+_transformhousing.org.uk",
+        "1st Contact email": "universal.credit_+_transformhousing.org.uk"
     },
     {
         "ID": 1322,
@@ -25113,7 +25113,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Universalcredit@sussexhousing.org.uk",
+        "UCFSEmail": "Universalcredit_+_sussexhousing.org.uk",
         "1st Contact email": ""
     },
     {
@@ -25150,7 +25150,7 @@ var la_landlords = [{
         "Registration Date": 40920,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universalcredit@sustainuk.org",
+        "UCLSEmail": "universalcredit_+_sustainuk.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -25189,7 +25189,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Universal_credit@shsoc.org.uk",
+        "UCFSEmail": "Universal_credit_+_shsoc.org.uk",
         "1st Contact email": ""
     },
     {
@@ -25226,8 +25226,8 @@ var la_landlords = [{
         "Registration Date": 35761,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@swan.org.uk",
-        "UCFSEmail": "universal.credit@swan.org.uk",
+        "UCLSEmail": "universal.credit_+_swan.org.uk",
+        "UCFSEmail": "universal.credit_+_swan.org.uk",
         "1st Contact email": ""
     },
     {
@@ -25265,7 +25265,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@swindon.gcsx.gov.uk",
+        "UCFSEmail": "universalcredit_+_swindon.gcsx.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -25340,8 +25340,8 @@ var la_landlords = [{
         "Registration Date": 40854,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@aster.co.uk",
-        "UCFSEmail": "universal.credit@aster.co.uk",
+        "UCLSEmail": "universal.credit_+_aster.co.uk",
+        "UCFSEmail": "universal.credit_+_aster.co.uk",
         "1st Contact email": ""
     },
     {
@@ -25359,7 +25359,7 @@ var la_landlords = [{
         "Registration Date": 28044,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "admin@tallyhocoop.org.uk",
+        "UCLSEmail": "admin_+_tallyhocoop.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -25378,7 +25378,7 @@ var la_landlords = [{
         "Registration Date": 28107,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@tamarhs.org ",
+        "UCLSEmail": "Universal.credit_+_tamarhs.org ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -25397,7 +25397,7 @@ var la_landlords = [{
         "Registration Date": 37700,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@tamilhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_tamilhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -25416,7 +25416,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "TenancySustainmentIncome@tamworth.gcsx.gov.uk",
+        "UCLSEmail": "TenancySustainmentIncome_+_tamworth.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -25455,7 +25455,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "RentsEnquiries@tandridge.gcsx.gov.uk",
+        "UCFSEmail": "RentsEnquiries_+_tandridge.gcsx.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -25511,7 +25511,7 @@ var la_landlords = [{
         "Registration Date": 39399,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@tarkahousing.org.uk ",
+        "UCLSEmail": "universal.credit_+_tarkahousing.org.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -25530,8 +25530,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Email-universalcredit@tauntondeane.gov.uk",
-        "UCFSEmail": "UniversalCredit@tauntondeane.gov.uk",
+        "UCLSEmail": "Email-universalcredit_+_tauntondeane.gov.uk",
+        "UCFSEmail": "UniversalCredit_+_tauntondeane.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -25587,8 +25587,8 @@ var la_landlords = [{
         "Registration Date": 27618,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "enquiries@teachershousing.org.uk",
-        "UCFSEmail": "enquiries@teachershousing.org.uk",
+        "UCLSEmail": "enquiries_+_teachershousing.org.uk",
+        "UCFSEmail": "enquiries_+_teachershousing.org.uk",
         "1st Contact email": ""
     },
     {
@@ -25625,8 +25625,8 @@ var la_landlords = [{
         "Registration Date": 38860,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@teesdaleha.co.uk",
-        "UCFSEmail": "Universal.credit@teesdaleha.co.uk",
+        "UCLSEmail": "Universal.credit_+_teesdaleha.co.uk",
+        "UCFSEmail": "Universal.credit_+_teesdaleha.co.uk",
         "1st Contact email": ""
     },
     {
@@ -25644,7 +25644,7 @@ var la_landlords = [{
         "Registration Date": 37938,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@teignhousing.co.uk.cjsm.net",
+        "UCLSEmail": "universal.credit_+_teignhousing.co.uk.cjsm.net",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -25682,7 +25682,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "RentsTeam@tendringdc.gov.uk",
+        "UCLSEmail": "RentsTeam_+_tendringdc.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -25758,8 +25758,8 @@ var la_landlords = [{
         "Registration Date": 31747,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@tvha.co.uk",
-        "UCFSEmail": "universalcredit@tvha.co.uk",
+        "UCLSEmail": "universalcredit_+_tvha.co.uk",
+        "UCFSEmail": "universalcredit_+_tvha.co.uk",
         "1st Contact email": ""
     },
     {
@@ -25777,8 +25777,8 @@ var la_landlords = [{
         "Registration Date": 27634,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@tvha.co.uk",
-        "UCFSEmail": "universalcredit@tvha.co.uk",
+        "UCLSEmail": "universalcredit_+_tvha.co.uk",
+        "UCFSEmail": "universalcredit_+_tvha.co.uk",
         "1st Contact email": ""
     },
     {
@@ -25796,7 +25796,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Lavinia.asquith@dover.gcsx.gov.uk",
+        "UCLSEmail": "Lavinia.asquith_+_dover.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -25835,7 +25835,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House & CC",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@abbeyfieldcf.org",
+        "UCFSEmail": "universalcredit_+_abbeyfieldcf.org",
         "1st Contact email": ""
     },
     {
@@ -27317,7 +27317,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House & CC",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@abbeyfieldcf.org",
+        "UCFSEmail": "universalcredit_+_abbeyfieldcf.org",
         "1st Contact email": ""
     },
     {
@@ -27867,7 +27867,7 @@ var la_landlords = [{
         "Registration Date": 27736,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@chsgroup.org.uk",
+        "UCLSEmail": "Universal.credit_+_chsgroup.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -28000,7 +28000,7 @@ var la_landlords = [{
         "Registration Date": 27681,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "info@christianaction.org.uk",
+        "UCLSEmail": "info_+_christianaction.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -28076,7 +28076,7 @@ var la_landlords = [{
         "Registration Date": 38419,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@communityhg.com ",
+        "UCLSEmail": "universal.credit_+_communityhg.com ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -28095,7 +28095,7 @@ var la_landlords = [{
         "Registration Date": 30886,
         "Legal Entity": "Charity Commission Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@homes4let.org.uk",
+        "UCLSEmail": "universal.credit_+_homes4let.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -28437,8 +28437,8 @@ var la_landlords = [{
         "Registration Date": 41120,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@guinness.org.uk",
-        "UCFSEmail": "universal.credit@guinness.org.uk",
+        "UCLSEmail": "universal.credit_+_guinness.org.uk",
+        "UCFSEmail": "universal.credit_+_guinness.org.uk",
         "1st Contact email": ""
     },
     {
@@ -28475,7 +28475,7 @@ var la_landlords = [{
         "Registration Date": 29339,
         "Legal Entity": "Charity Commission Only",
         "Country": "England",
-        "UCLSEmail": "Carolyn.arnold@hplc.org.uk",
+        "UCLSEmail": "Carolyn.arnold_+_hplc.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -28532,8 +28532,8 @@ var la_landlords = [{
         "Registration Date": 37413,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@havebury.com",
-        "UCFSEmail": "universal.credit@havebury.com",
+        "UCLSEmail": "universal.credit_+_havebury.com",
+        "UCFSEmail": "universal.credit_+_havebury.com",
         "1st Contact email": ""
     },
     {
@@ -28572,7 +28572,7 @@ var la_landlords = [{
         "Country": "England",
         "UCLSEmail": "No email gathered",
         "UCFSEmail": "No email gathered",
-        "1st Contact email": "universal.creditstokeontrenthousingsociety@aspirehousing.co.uk"
+        "1st Contact email": "universal.creditstokeontrenthousingsociety_+_aspirehousing.co.uk"
     },
     {
         "ID": 1505,
@@ -28741,7 +28741,7 @@ var la_landlords = [{
         "Registration Date": 31384,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -28760,7 +28760,7 @@ var la_landlords = [{
         "Registration Date": 27590,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "housing@ids.org.uk",
+        "UCLSEmail": "housing_+_ids.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -28837,7 +28837,7 @@ var la_landlords = [{
         "Legal Entity": "Charity Commission Only",
         "Country": "England",
         "UCLSEmail": "No Match to UCLS Data",
-        "UCFSEmail": "universal.credit@jrht.org.uk",
+        "UCFSEmail": "universal.credit_+_jrht.org.uk",
         "1st Contact email": ""
     },
     {
@@ -28855,7 +28855,7 @@ var la_landlords = [{
         "Registration Date": 27736,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@kingstreeths.org.uk",
+        "UCLSEmail": "Universal.credit_+_kingstreeths.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -29102,7 +29102,7 @@ var la_landlords = [{
         "Registration Date": 27925,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "enquiries@teachershousing.org.uk",
+        "UCLSEmail": "enquiries_+_teachershousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -29140,7 +29140,7 @@ var la_landlords = [{
         "Registration Date": 27862,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@papworthtrust.org.uk",
+        "UCLSEmail": "Universal.Credit_+_papworthtrust.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -29178,7 +29178,7 @@ var la_landlords = [{
         "Registration Date": 35452,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Incometeam@pioneergroup.org.uk ",
+        "UCLSEmail": "Incometeam_+_pioneergroup.org.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -29235,7 +29235,7 @@ var la_landlords = [{
         "Registration Date": 28313,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -29292,8 +29292,8 @@ var la_landlords = [{
         "Registration Date": 40268,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@riverside.org.uk",
-        "UCFSEmail": "universalcredit@riverside.org.uk",
+        "UCLSEmail": "universalcredit_+_riverside.org.uk",
+        "UCFSEmail": "universalcredit_+_riverside.org.uk",
         "1st Contact email": ""
     },
     {
@@ -29369,7 +29369,7 @@ var la_landlords = [{
         "Legal Entity": "Companies House & CC",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@stoll.org.uk",
+        "UCFSEmail": "universalcredit_+_stoll.org.uk",
         "1st Contact email": ""
     },
     {
@@ -29387,7 +29387,7 @@ var la_landlords = [{
         "Registration Date": 29248,
         "Legal Entity": "Charity Commission Only",
         "Country": "England",
-        "UCLSEmail": "UniversalCredit@hanover.org.uk ",
+        "UCLSEmail": "UniversalCredit_+_hanover.org.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -29425,8 +29425,8 @@ var la_landlords = [{
         "Registration Date": 37335,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universalcredit@ssj.org.uk",
-        "UCFSEmail": "universalcredit@ssj.org.uk",
+        "UCLSEmail": "universalcredit_+_ssj.org.uk",
+        "UCFSEmail": "universalcredit_+_ssj.org.uk",
         "1st Contact email": ""
     },
     {
@@ -29444,7 +29444,7 @@ var la_landlords = [{
         "Registration Date": 37335,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "housing@orionecare.org",
+        "UCLSEmail": "housing_+_orionecare.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -29463,8 +29463,8 @@ var la_landlords = [{
         "Registration Date": 27799,
         "Legal Entity": "Charity Commission Only",
         "Country": "England",
-        "UCLSEmail": "universalcredit@riverside.org.uk",
-        "UCFSEmail": "universalcredit@riverside.org.uk",
+        "UCLSEmail": "universalcredit_+_riverside.org.uk",
+        "UCFSEmail": "universalcredit_+_riverside.org.uk",
         "1st Contact email": ""
     },
     {
@@ -29501,7 +29501,7 @@ var la_landlords = [{
         "Registration Date": 27681,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@drumhsg.co.uk ",
+        "UCLSEmail": "universal.credit_+_drumhsg.co.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -29520,7 +29520,7 @@ var la_landlords = [{
         "Registration Date": 31579,
         "Legal Entity": "Charity Commission Only",
         "Country": "England",
-        "UCLSEmail": "DWPEnquiriesLandH@longhurst-group.org.uk",
+        "UCLSEmail": "DWPEnquiriesLandH_+_longhurst-group.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -29596,9 +29596,9 @@ var la_landlords = [{
         "Registration Date": 37700,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@accordha.org.uk",
+        "UCLSEmail": "universal.credit_+_accordha.org.uk",
         "UCFSEmail": "UCLS email gathered",
-        "1st Contact email": "universal.credit@accordha.org.uk"
+        "1st Contact email": "universal.credit_+_accordha.org.uk"
     },
     {
         "ID": 1559,
@@ -29691,8 +29691,8 @@ var la_landlords = [{
         "Registration Date": 39525,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "ucnotifications@thirteengroup.co.uk ",
-        "UCFSEmail": "Universalcredit@thirteengroup.co.uk",
+        "UCLSEmail": "ucnotifications_+_thirteengroup.co.uk ",
+        "UCFSEmail": "Universalcredit_+_thirteengroup.co.uk",
         "1st Contact email": ""
     },
     {
@@ -29824,8 +29824,8 @@ var la_landlords = [{
         "Registration Date": 27708,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "trhuc@fourhousing.co.uk",
-        "UCFSEmail": "trhuc@fourhousing.co.uk",
+        "UCLSEmail": "trhuc_+_fourhousing.co.uk",
+        "UCFSEmail": "trhuc_+_fourhousing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -29843,7 +29843,7 @@ var la_landlords = [{
         "Registration Date": 39504,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@thrivehomes.org.uk",
+        "UCLSEmail": "universal.credit_+_thrivehomes.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -29862,7 +29862,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Rents@thurrock.gov.uk",
+        "UCLSEmail": "Rents_+_thurrock.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -29919,8 +29919,8 @@ var la_landlords = [{
         "Registration Date": 35843,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@togetherhousing.co.uk",
-        "UCFSEmail": "Universal.credit@togetherhousing.co.uk",
+        "UCLSEmail": "universal.credit_+_togetherhousing.co.uk",
+        "UCFSEmail": "Universal.credit_+_togetherhousing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -29938,8 +29938,8 @@ var la_landlords = [{
         "Registration Date": 38797,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@togetherhousing.co.uk",
-        "UCFSEmail": "Universal.credit@togetherhousing.co.uk",
+        "UCLSEmail": "universal.credit_+_togetherhousing.co.uk",
+        "UCFSEmail": "Universal.credit_+_togetherhousing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -30033,8 +30033,8 @@ var la_landlords = [{
         "Registration Date": 36606,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "income.recovery.team@thch.org.uk",
-        "UCFSEmail": "universalcredit@thch.org.uk",
+        "UCLSEmail": "income.recovery.team_+_thch.org.uk",
+        "UCFSEmail": "universalcredit_+_thch.org.uk",
         "1st Contact email": ""
     },
     {
@@ -30052,8 +30052,8 @@ var la_landlords = [{
         "Registration Date": 36559,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@tchg.org.uk",
-        "UCFSEmail": "universal.credit@tchg.org.uk",
+        "UCLSEmail": "universal.credit_+_tchg.org.uk",
+        "UCFSEmail": "universal.credit_+_tchg.org.uk",
         "1st Contact email": ""
     },
     {
@@ -30109,7 +30109,7 @@ var la_landlords = [{
         "Registration Date": 38419,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@traffordhousingtrust.co.uk ",
+        "UCLSEmail": "universal.credit_+_traffordhousingtrust.co.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -30147,7 +30147,7 @@ var la_landlords = [{
         "Registration Date": 36972,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@trentanddove.org",
+        "UCLSEmail": "universal.credit_+_trentanddove.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -30168,7 +30168,7 @@ var la_landlords = [{
         "Country": "England",
         "UCLSEmail": "No email gathered",
         "UCFSEmail": "No email gathered",
-        "1st Contact email": "universal.credit@bchs.coop"
+        "1st Contact email": "universal.credit_+_bchs.coop"
     },
     {
         "ID": 1589,
@@ -30185,7 +30185,7 @@ var la_landlords = [{
         "Registration Date": 27785,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "income.management@trident.cjsm.net",
+        "UCLSEmail": "income.management_+_trident.cjsm.net",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -30204,7 +30204,7 @@ var la_landlords = [{
         "Registration Date": 27736,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "income.management@trident.cjsm.net",
+        "UCLSEmail": "income.management_+_trident.cjsm.net",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -30299,8 +30299,8 @@ var la_landlords = [{
         "Registration Date": 31019,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@yourhousinggroup.co.uk",
-        "UCFSEmail": "universal.credit@yourhousinggroup.co.uk",
+        "UCLSEmail": "universal.credit_+_yourhousinggroup.co.uk",
+        "UCFSEmail": "universal.credit_+_yourhousinggroup.co.uk",
         "1st Contact email": ""
     },
     {
@@ -30318,8 +30318,8 @@ var la_landlords = [{
         "Registration Date": 32482,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcredit@tuntum.co.uk",
-        "UCFSEmail": "universalcredit@tuntum.co.uk",
+        "UCLSEmail": "universalcredit_+_tuntum.co.uk",
+        "UCFSEmail": "universalcredit_+_tuntum.co.uk",
         "1st Contact email": ""
     },
     {
@@ -30375,8 +30375,8 @@ var la_landlords = [{
         "Registration Date": 27827,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@twocastles.org.uk ",
-        "UCFSEmail": "universal.credit@twocastles.org.uk",
+        "UCLSEmail": "universal.credit_+_twocastles.org.uk ",
+        "UCFSEmail": "universal.credit_+_twocastles.org.uk",
         "1st Contact email": ""
     },
     {
@@ -30413,8 +30413,8 @@ var la_landlords = [{
         "Registration Date": 37700,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@tworivershousing.org.uk",
-        "UCFSEmail": "IncomeCollectionsTeam@2rh.org.uk",
+        "UCLSEmail": "universal.credit_+_tworivershousing.org.uk",
+        "UCFSEmail": "IncomeCollectionsTeam_+_2rh.org.uk",
         "1st Contact email": ""
     },
     {
@@ -30432,8 +30432,8 @@ var la_landlords = [{
         "Registration Date": 32951,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "finance@twosaints.org.uk",
-        "UCFSEmail": "finance@twosaints.org.uk",
+        "UCLSEmail": "finance_+_twosaints.org.uk",
+        "UCFSEmail": "finance_+_twosaints.org.uk",
         "1st Contact email": ""
     },
     {
@@ -30452,7 +30452,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Universal.credit@tynegroup.org.uk",
+        "UCFSEmail": "Universal.credit_+_tynegroup.org.uk",
         "1st Contact email": ""
     },
     {
@@ -30509,7 +30509,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Universalcredit@unitedcommunities.org.UK",
+        "UCFSEmail": "Universalcredit_+_unitedcommunities.org.UK",
         "1st Contact email": ""
     },
     {
@@ -30527,7 +30527,7 @@ var la_landlords = [{
         "Registration Date": 31950,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "rents@unityha.co.uk ",
+        "UCLSEmail": "rents_+_unityha.co.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -30584,8 +30584,8 @@ var la_landlords = [{
         "Registration Date": 38909,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universalcredit@vaht.co.uk",
-        "UCFSEmail": "universalcredit@vaht.co.uk",
+        "UCLSEmail": "universalcredit_+_vaht.co.uk",
+        "UCFSEmail": "universalcredit_+_vaht.co.uk",
         "1st Contact email": ""
     },
     {
@@ -30622,7 +30622,7 @@ var la_landlords = [{
         "Registration Date": 27736,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "isabelle@vectishousing.co.uk",
+        "UCLSEmail": "isabelle_+_vectishousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -30679,7 +30679,7 @@ var la_landlords = [{
         "Registration Date": 28443,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@bchs.coop",
+        "UCLSEmail": "universal.credit_+_bchs.coop",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -30698,8 +30698,8 @@ var la_landlords = [{
         "Registration Date": 38741,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "UniversalCredit@victoryhousing.co.uk",
-        "UCFSEmail": "UniversalCredit@victoryhousing.co.uk",
+        "UCLSEmail": "UniversalCredit_+_victoryhousing.co.uk",
+        "UCFSEmail": "UniversalCredit_+_victoryhousing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -30717,7 +30717,7 @@ var la_landlords = [{
         "Registration Date": 36417,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "UniversalCredit@villages.org.uk ",
+        "UCLSEmail": "UniversalCredit_+_villages.org.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -30755,8 +30755,8 @@ var la_landlords = [{
         "Registration Date": 27568,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "UC.Enquiries@viridianhousing.org.uk",
-        "UCFSEmail": "UC.Enquiries@viridianhousing.org.uk",
+        "UCLSEmail": "UC.Enquiries_+_viridianhousing.org.uk",
+        "UCFSEmail": "UC.Enquiries_+_viridianhousing.org.uk",
         "1st Contact email": ""
     },
     {
@@ -30775,7 +30775,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@coophomes.coop",
+        "UCFSEmail": "universalcredit_+_coophomes.coop",
         "1st Contact email": ""
     },
     {
@@ -30812,7 +30812,7 @@ var la_landlords = [{
         "Registration Date": 38419,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@wdh.co.uk ",
+        "UCLSEmail": "universal.credit_+_wdh.co.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -30850,7 +30850,7 @@ var la_landlords = [{
         "Registration Date": 37701,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@whgrp.co.uk",
+        "UCLSEmail": "universal.credit_+_whgrp.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -30926,8 +30926,8 @@ var la_landlords = [{
         "Registration Date": 27590,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universalcredit@wandle.com",
-        "UCFSEmail": "universalcredit@wandle.com",
+        "UCLSEmail": "Universalcredit_+_wandle.com",
+        "UCFSEmail": "universalcredit_+_wandle.com",
         "1st Contact email": ""
     },
     {
@@ -31002,8 +31002,8 @@ var la_landlords = [{
         "Registration Date": 27649,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@wha.org.uk",
-        "UCFSEmail": "universal.credit@wha.org.uk",
+        "UCLSEmail": "universal.credit_+_wha.org.uk",
+        "UCFSEmail": "universal.credit_+_wha.org.uk",
         "1st Contact email": ""
     },
     {
@@ -31021,7 +31021,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@warwickdc.gcsx.gov.uk",
+        "UCLSEmail": "universal.credit_+_warwickdc.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -31059,8 +31059,8 @@ var la_landlords = [{
         "Registration Date": 32846,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcreditlrha@midlandsrural.org.uk",
-        "UCFSEmail": "universalcreditwrha@midlandsrural.org.uk",
+        "UCLSEmail": "universalcreditlrha_+_midlandsrural.org.uk",
+        "UCFSEmail": "universalcreditwrha_+_midlandsrural.org.uk",
         "1st Contact email": ""
     },
     {
@@ -31097,8 +31097,8 @@ var la_landlords = [{
         "Registration Date": 27862,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@waterloo.org.uk",
-        "UCFSEmail": "rents@waterloo.org.uk",
+        "UCLSEmail": "universal.credit_+_waterloo.org.uk",
+        "UCFSEmail": "rents_+_waterloo.org.uk",
         "1st Contact email": ""
     },
     {
@@ -31116,8 +31116,8 @@ var la_landlords = [{
         "Registration Date": 35318,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@waterloo.org.uk",
-        "UCFSEmail": "waterloo.rent@newlinx.cjsm.net",
+        "UCLSEmail": "universal.credit_+_waterloo.org.uk",
+        "UCFSEmail": "waterloo.rent_+_newlinx.cjsm.net",
         "1st Contact email": ""
     },
     {
@@ -31136,7 +31136,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universal.credit@watermanscoop.org.uk",
+        "UCFSEmail": "universal.credit_+_watermanscoop.org.uk",
         "1st Contact email": ""
     },
     {
@@ -31154,7 +31154,7 @@ var la_landlords = [{
         "Registration Date": 27590,
         "Legal Entity": "Charity Commission Only",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@chsgroup.org.uk",
+        "UCLSEmail": "Universal.credit_+_chsgroup.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -31192,7 +31192,7 @@ var la_landlords = [{
         "Registration Date": 39287,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "rentteam@wcht.org.uk",
+        "UCLSEmail": "rentteam_+_wcht.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -31211,7 +31211,7 @@ var la_landlords = [{
         "Registration Date": 37700,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "universal.credit@watmos.org.uk",
+        "UCLSEmail": "universal.credit_+_watmos.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -31230,8 +31230,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@eastsuffolk.gov.uk",
-        "UCFSEmail": "Universal.Credit@eastsuffolk.gov.uk",
+        "UCLSEmail": "Universal.Credit_+_eastsuffolk.gov.uk",
+        "UCFSEmail": "Universal.Credit_+_eastsuffolk.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -31287,7 +31287,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@wealden.gov.uk",
+        "UCLSEmail": "Universal.credit_+_wealden.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -31325,7 +31325,7 @@ var la_landlords = [{
         "Registration Date": 37433,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "rentfirst@wvht.co.uk",
+        "UCLSEmail": "rentfirst_+_wvht.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -31401,7 +31401,7 @@ var la_landlords = [{
         "Registration Date": 39399,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@whomes.org",
+        "UCLSEmail": "Universal.credit_+_whomes.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -31421,7 +31421,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@coophomes.coop",
+        "UCFSEmail": "universalcredit_+_coophomes.coop",
         "1st Contact email": ""
     },
     {
@@ -31477,7 +31477,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "wgc.housing@welhat-cht.org.uk",
+        "UCLSEmail": "wgc.housing_+_welhat-cht.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -31515,7 +31515,7 @@ var la_landlords = [{
         "Registration Date": 29291,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -31572,7 +31572,7 @@ var la_landlords = [{
         "Registration Date": 32538,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@wkha.org.uk",
+        "UCLSEmail": "universal.credit_+_wkha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -31591,7 +31591,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universalcredit@westlancs.gov.uk",
+        "UCLSEmail": "universalcredit_+_westlancs.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -31648,7 +31648,7 @@ var la_landlords = [{
         "Registration Date": 41283,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@wmhousing.co.uk",
+        "UCLSEmail": "Universal.Credit_+_wmhousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -31686,7 +31686,7 @@ var la_landlords = [{
         "Registration Date": 27736,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@westcountryhousing.org.uk ",
+        "UCLSEmail": "universal.credit_+_westcountryhousing.org.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -31705,8 +31705,8 @@ var la_landlords = [{
         "Registration Date": 27590,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@westfieldha.org.uk",
-        "UCFSEmail": "universal.credit@westfieldha.org.uk",
+        "UCLSEmail": "universal.credit_+_westfieldha.org.uk",
+        "UCFSEmail": "universal.credit_+_westfieldha.org.uk",
         "1st Contact email": ""
     },
     {
@@ -31724,8 +31724,8 @@ var la_landlords = [{
         "Registration Date": 35010,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@greensquaregroup.com",
-        "UCFSEmail": "universal.credit@greensquaregroup.com",
+        "UCLSEmail": "Universal.Credit_+_greensquaregroup.com",
+        "UCFSEmail": "universal.credit_+_greensquaregroup.com",
         "1st Contact email": ""
     },
     {
@@ -31819,7 +31819,7 @@ var la_landlords = [{
         "Registration Date": 31908,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@nwhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_nwhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -31838,7 +31838,7 @@ var la_landlords = [{
         "Registration Date": 42522,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "info@westwardhousing.org.uk ",
+        "UCLSEmail": "info_+_westwardhousing.org.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -31858,7 +31858,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "UniversalCredit@westwayha.org.uk",
+        "UCFSEmail": "UniversalCredit_+_westwayha.org.uk",
         "1st Contact email": ""
     },
     {
@@ -31933,8 +31933,8 @@ var la_landlords = [{
         "Registration Date": 32762,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universalcreditwherry@circle.org.uk",
-        "UCFSEmail": "universalcreditwherry@circle.org.uk",
+        "UCLSEmail": "universalcreditwherry_+_circle.org.uk",
+        "UCFSEmail": "universalcreditwherry_+_circle.org.uk",
         "1st Contact email": ""
     },
     {
@@ -31952,7 +31952,7 @@ var la_landlords = [{
         "Registration Date": 39399,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@tarkahousing.org.uk ",
+        "UCLSEmail": "universal.credit_+_tarkahousing.org.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -32010,7 +32010,7 @@ var la_landlords = [{
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Universalcredit@wrha.co.uk",
+        "UCFSEmail": "Universalcredit_+_wrha.co.uk",
         "1st Contact email": ""
     },
     {
@@ -32028,7 +32028,7 @@ var la_landlords = [{
         "Registration Date": 38797,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@wmhousing.co.uk",
+        "UCLSEmail": "Universal.Credit_+_wmhousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -32104,7 +32104,7 @@ var la_landlords = [{
         "Registration Date": 40514,
         "Legal Entity": "Companies House Only",
         "Country": "England",
-        "UCLSEmail": "UniversalCreditWALHNotifications@walh.co.uk",
+        "UCLSEmail": "UniversalCreditWALHNotifications_+_walh.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -32123,7 +32123,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "UniversalCreditWALH@wigan.gov.uk",
+        "UCLSEmail": "UniversalCreditWALH_+_wigan.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -32275,7 +32275,7 @@ var la_landlords = [{
         "Registration Date": 36238,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@wchg.org.uk",
+        "UCLSEmail": "universal.credit_+_wchg.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -32294,8 +32294,8 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "housingincome@wiltshire.gov.uk    ",
-        "UCFSEmail": "HousingIncome@wiltshire.gov.uk",
+        "UCLSEmail": "housingincome_+_wiltshire.gov.uk    ",
+        "UCFSEmail": "HousingIncome_+_wiltshire.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -32332,7 +32332,7 @@ var la_landlords = [{
         "Registration Date": 28788,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@wwmhs.org",
+        "UCLSEmail": "universal.credit_+_wwmhs.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -32370,7 +32370,7 @@ var la_landlords = [{
         "Registration Date": 34816,
         "Legal Entity": "FCA - Non-charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@windsorhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_windsorhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -32465,7 +32465,7 @@ var la_landlords = [{
         "Registration Date": 27708,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@wmhaltd.org.uk",
+        "UCLSEmail": "universal.credit_+_wmhaltd.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -32505,7 +32505,7 @@ var la_landlords = [{
         "Country": "England",
         "UCLSEmail": "No email gathered",
         "UCFSEmail": "No email gathered",
-        "1st Contact email": "universalcredit@magentaliving.org.uk"
+        "1st Contact email": "universalcredit_+_magentaliving.org.uk"
     },
     {
         "ID": 1712,
@@ -32598,7 +32598,7 @@ var la_landlords = [{
         "Registration Date": 36048,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@wmhousing.co.uk",
+        "UCLSEmail": "Universal.Credit_+_wmhousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -32636,7 +32636,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@woking.gov.uk",
+        "UCLSEmail": "Universal.credit_+_woking.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -32674,7 +32674,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@wokingham.gov.uk",
+        "UCLSEmail": "universal.credit_+_wokingham.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -32712,7 +32712,7 @@ var la_landlords = [{
         "Registration Date": 40269,
         "Legal Entity": "",
         "Country": "England",
-        "UCLSEmail": "universal.credit@wolverhampton.gov.uk",
+        "UCLSEmail": "universal.credit_+_wolverhampton.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -32731,8 +32731,8 @@ var la_landlords = [{
         "Registration Date": 27935,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "Universalcredit@womenspioneer.co.uk",
-        "UCFSEmail": "UniversalCredit@womenspioneer.co.uk",
+        "UCLSEmail": "Universalcredit_+_womenspioneer.co.uk",
+        "UCFSEmail": "UniversalCredit_+_womenspioneer.co.uk",
         "1st Contact email": ""
     },
     {
@@ -32864,7 +32864,7 @@ var la_landlords = [{
         "Registration Date": 36230,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "Universal.credit@worthing-homes.org.uk",
+        "UCLSEmail": "Universal.credit_+_worthing-homes.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -32921,7 +32921,7 @@ var la_landlords = [{
         "Registration Date": 37665,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "IncomesOfficers@Wulvern.org.uk",
+        "UCLSEmail": "IncomesOfficers_+_Wulvern.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -32959,7 +32959,7 @@ var la_landlords = [{
         "Registration Date": 27890,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "jamesn@wyedean.org",
+        "UCLSEmail": "jamesn_+_wyedean.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -32978,7 +32978,7 @@ var la_landlords = [{
         "Registration Date": 36606,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@communityhg.com",
+        "UCLSEmail": "universal.credit_+_communityhg.com",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -32997,7 +32997,7 @@ var la_landlords = [{
         "Registration Date": 41340,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@wchg.org.uk",
+        "UCLSEmail": "universal.credit_+_wchg.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -33035,8 +33035,8 @@ var la_landlords = [{
         "Registration Date": 36216,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "U.C@yhg.cjsm.net",
-        "UCFSEmail": "u.c@yhg.cjsm.net",
+        "UCLSEmail": "U.C_+_yhg.cjsm.net",
+        "UCFSEmail": "u.c_+_yhg.cjsm.net",
         "1st Contact email": ""
     },
     {
@@ -33130,8 +33130,8 @@ var la_landlords = [{
         "Registration Date": 40602,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universal.credit@ymcadlg.org",
-        "UCFSEmail": "universal.credit@ymcadig.org",
+        "UCLSEmail": "universal.credit_+_ymcadlg.org",
+        "UCFSEmail": "universal.credit_+_ymcadig.org",
         "1st Contact email": ""
     },
     {
@@ -33149,7 +33149,7 @@ var la_landlords = [{
         "Registration Date": 34967,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "karenhayhurst@ymcalsw.org",
+        "UCLSEmail": "karenhayhurst_+_ymcalsw.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -33168,8 +33168,8 @@ var la_landlords = [{
         "Registration Date": 32762,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "universalcredit@ymcanorfolk.org",
-        "UCFSEmail": "universalcredit@ymcanorfolk.org",
+        "UCLSEmail": "universalcredit_+_ymcanorfolk.org",
+        "UCFSEmail": "universalcredit_+_ymcanorfolk.org",
         "1st Contact email": ""
     },
     {
@@ -33225,8 +33225,8 @@ var la_landlords = [{
         "Registration Date": 36487,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "Universalcredit@ymcasuffolk.org.uk",
-        "UCFSEmail": "Universalcredit@ymcasuffolk.org.uk",
+        "UCLSEmail": "Universalcredit_+_ymcasuffolk.org.uk",
+        "UCFSEmail": "Universalcredit_+_ymcasuffolk.org.uk",
         "1st Contact email": ""
     },
     {
@@ -33282,7 +33282,7 @@ var la_landlords = [{
         "Registration Date": 37938,
         "Legal Entity": "Companies House & CC",
         "Country": "England",
-        "UCLSEmail": "Universal.Credit@ych.org.uk",
+        "UCLSEmail": "Universal.Credit_+_ych.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -33301,8 +33301,8 @@ var la_landlords = [{
         "Registration Date": 39539,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "SMBUniversalCredit@ Yorkshirehousing.co.uk",
-        "UCFSEmail": "Universal.Credit@yorkshirehousing.co.uk",
+        "UCLSEmail": "SMBUniversalCredit_+_ Yorkshirehousing.co.uk",
+        "UCFSEmail": "Universal.Credit_+_yorkshirehousing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -33339,8 +33339,8 @@ var la_landlords = [{
         "Registration Date": 36216,
         "Legal Entity": "FCA - Charitable",
         "Country": "England",
-        "UCLSEmail": "universal.credit@yourhousinggroup.co.uk",
-        "UCFSEmail": "Universal.Credit@yourhousinggroup.co.uk",
+        "UCLSEmail": "universal.credit_+_yourhousinggroup.co.uk",
+        "UCFSEmail": "Universal.Credit_+_yourhousinggroup.co.uk",
         "1st Contact email": ""
     },
     {
@@ -33415,7 +33415,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "UCSpecialistTeam@aberdeencity.gcsx.gov.uk",
+        "UCLSEmail": "UCSpecialistTeam_+_aberdeencity.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -33453,7 +33453,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@aberdeenshire.gov.uk",
+        "UCLSEmail": "universal.credit_+_aberdeenshire.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -33472,7 +33472,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "DWPUCOH@ospreyhousing.org.uk",
+        "UCLSEmail": "DWPUCOH_+_ospreyhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -33491,7 +33491,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "uc.team@abertayha.cjsm.net",
+        "UCLSEmail": "uc.team_+_abertayha.cjsm.net",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -33510,7 +33510,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.credit@abronhillha.org.uk",
+        "UCLSEmail": "Universal.credit_+_abronhillha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -33529,8 +33529,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@albynhousing.org.uk",
-        "UCFSEmail": "universal.credit@albynhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_albynhousing.org.uk",
+        "UCFSEmail": "universal.credit_+_albynhousing.org.uk",
         "1st Contact email": ""
     },
     {
@@ -33548,7 +33548,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@almondha.org.uk",
+        "UCLSEmail": "universal.credit_+_almondha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -33567,8 +33567,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "UniversalCredit@ancho.co.uk ",
-        "UCFSEmail": "UniversalCredit@ancho.co.uk",
+        "UCLSEmail": "UniversalCredit_+_ancho.co.uk ",
+        "UCFSEmail": "UniversalCredit_+_ancho.co.uk",
         "1st Contact email": ""
     },
     {
@@ -33586,7 +33586,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Ucenquiy@angus.gcsx.gov.uk",
+        "UCLSEmail": "Ucenquiy_+_angus.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -33605,7 +33605,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@aha.org.uk",
+        "UCLSEmail": "universal.credit_+_aha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -33625,7 +33625,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "Scotland",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universal.credit@antonine.org.uk",
+        "UCFSEmail": "universal.credit_+_antonine.org.uk",
         "1st Contact email": ""
     },
     {
@@ -33643,7 +33643,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Univesal.Credit@ardenglen.org.uk",
+        "UCLSEmail": "Univesal.Credit_+_ardenglen.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -33663,7 +33663,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "Scotland",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcredit@argyll-bute.gov.uk",
+        "UCFSEmail": "universalcredit_+_argyll-bute.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -33681,7 +33681,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Housing.Lomond@acha.co.uk",
+        "UCLSEmail": "Housing.Lomond_+_acha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -33700,8 +33700,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@arkha.org.uk",
-        "UCFSEmail": "Universal.Credit@arkha.org.uk",
+        "UCLSEmail": "universal.credit_+_arkha.org.uk",
+        "UCFSEmail": "Universal.Credit_+_arkha.org.uk",
         "1st Contact email": ""
     },
     {
@@ -33738,7 +33738,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@atrium-homes.co.uk",
+        "UCLSEmail": "universal.credit_+_atrium-homes.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -33757,7 +33757,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@ayrshirehousing.org.uk",
+        "UCLSEmail": "universal.credit_+_ayrshirehousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -33776,7 +33776,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@baronyha.org.uk",
+        "UCLSEmail": "universal.credit_+_baronyha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -33795,7 +33795,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.credit@barrheadha.org",
+        "UCLSEmail": "Universal.credit_+_barrheadha.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -33814,7 +33814,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.credit@Bellsmyre-ha.org",
+        "UCLSEmail": "Universal.credit_+_Bellsmyre-ha.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -33833,8 +33833,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.credit@bhagroup.org.uk",
-        "UCFSEmail": "universal.credit@bhagroup.org.uk",
+        "UCLSEmail": "Universal.credit_+_bhagroup.org.uk",
+        "UCFSEmail": "universal.credit_+_bhagroup.org.uk",
         "1st Contact email": ""
     },
     {
@@ -33852,8 +33852,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@bield.co.uk",
-        "UCFSEmail": "universal.credit@bield.co.uk",
+        "UCLSEmail": "universal.credit_+_bield.co.uk",
+        "UCFSEmail": "universal.credit_+_bield.co.uk",
         "1st Contact email": ""
     },
     {
@@ -33871,8 +33871,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "UniversalCredit@blackwoodgroup.org.uk",
-        "UCFSEmail": "UniversalCredit@blackwoodgroup.org.uk",
+        "UCLSEmail": "UniversalCredit_+_blackwoodgroup.org.uk",
+        "UCFSEmail": "UniversalCredit_+_blackwoodgroup.org.uk",
         "1st Contact email": ""
     },
     {
@@ -33890,7 +33890,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@blairtummock.org.uk",
+        "UCLSEmail": "universal.credit_+_blairtummock.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -33909,7 +33909,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@blochairn.org",
+        "UCLSEmail": "universal.credit_+_blochairn.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -33928,7 +33928,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "ADMINISTRATION@BTHA.ORG.UK   ",
+        "UCLSEmail": "ADMINISTRATION_+_BTHA.ORG.UK   ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -33947,8 +33947,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@bridgewaterha.org.uk ",
-        "UCFSEmail": "universal.credit@bridgewaterha.org.uk",
+        "UCLSEmail": "universal.credit_+_bridgewaterha.org.uk ",
+        "UCFSEmail": "universal.credit_+_bridgewaterha.org.uk",
         "1st Contact email": ""
     },
     {
@@ -33985,7 +33985,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@lsha.co.uk",
+        "UCLSEmail": "universal.credit_+_lsha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34004,7 +34004,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.credit@cadderhousing.co.uk",
+        "UCLSEmail": "Universal.credit_+_cadderhousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34023,8 +34023,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@cairnha.com",
-        "UCFSEmail": "universal.credit@cairnha.com",
+        "UCLSEmail": "universal.credit_+_cairnha.com",
+        "UCFSEmail": "universal.credit_+_cairnha.com",
         "1st Contact email": ""
     },
     {
@@ -34042,7 +34042,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Sustainment.team@caledoniaha.cjsm.net",
+        "UCLSEmail": "Sustainment.team_+_caledoniaha.cjsm.net",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34061,7 +34061,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "enquiries@calvay.org.uk",
+        "UCLSEmail": "enquiries_+_calvay.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34080,7 +34080,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@cassiltoun.org.uk",
+        "UCLSEmail": "universal.credit_+_cassiltoun.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34099,8 +34099,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "uc@castlerockedinvar.co.uk",
-        "UCFSEmail": "uc@castlerockedinvar.co.uk",
+        "UCLSEmail": "uc_+_castlerockedinvar.co.uk",
+        "UCFSEmail": "uc_+_castlerockedinvar.co.uk",
         "1st Contact email": ""
     },
     {
@@ -34118,7 +34118,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@castlehillha.co.uk",
+        "UCLSEmail": "universal.credit_+_castlehillha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34137,7 +34137,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@cathcartha.co.uk",
+        "UCLSEmail": "universal.credit_+_cathcartha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34194,8 +34194,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "UniversalCredit.Sociallandlord@edinburgh.gov.uk",
-        "UCFSEmail": "UniversalCredit.Sociallandlord@edinburgh.gov.uk",
+        "UCLSEmail": "UniversalCredit.Sociallandlord_+_edinburgh.gov.uk",
+        "UCFSEmail": "UniversalCredit.Sociallandlord_+_edinburgh.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -34232,8 +34232,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@clochhousing.org.uk",
-        "UCFSEmail": "universal.credit@clochhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_clochhousing.org.uk",
+        "UCFSEmail": "universal.credit_+_clochhousing.org.uk",
         "1st Contact email": ""
     },
     {
@@ -34251,8 +34251,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@cvha.org.uk",
-        "UCFSEmail": "universal.credit@cvha.org.uk",
+        "UCLSEmail": "universal.credit_+_cvha.org.uk",
+        "UCFSEmail": "universal.credit_+_cvha.org.uk",
         "1st Contact email": ""
     },
     {
@@ -34270,7 +34270,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@clydebank-ha.org.uk ",
+        "UCLSEmail": "universal.credit_+_clydebank-ha.org.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34289,7 +34289,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.credit@clydesdale-housing.org.uk",
+        "UCLSEmail": "Universal.credit_+_clydesdale-housing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34308,7 +34308,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": " universal.credit@colnehousing.co.uk",
+        "UCLSEmail": " universal.credit_+_colnehousing.co.uk",
         "UCFSEmail": "No email gathered",
         "1st Contact email": ""
     },
@@ -34327,7 +34327,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.credit@spireview.org.uk",
+        "UCLSEmail": "Universal.credit_+_spireview.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34346,7 +34346,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.credit@cordalehousing.org.uk",
+        "UCLSEmail": "Universal.credit_+_cordalehousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34365,7 +34365,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "welfare@craigdaleha.co.uk",
+        "UCLSEmail": "welfare_+_craigdaleha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34384,8 +34384,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "uc.wheatley@wheatley-group.com ",
-        "UCFSEmail": "uc.wheatley@wheatley-group.com",
+        "UCLSEmail": "uc.wheatley_+_wheatley-group.com ",
+        "UCFSEmail": "uc.wheatley_+_wheatley-group.com",
         "1st Contact email": ""
     },
     {
@@ -34422,7 +34422,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "kagnew@chaltd.org",
+        "UCLSEmail": "kagnew_+_chaltd.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34441,7 +34441,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.Credit@dpha.org.uk",
+        "UCLSEmail": "Universal.Credit_+_dpha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34479,7 +34479,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universalcredit@dumgal.gcsx.gov.uk",
+        "UCLSEmail": "universalcredit_+_dumgal.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34498,7 +34498,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@dghp.org.uk",
+        "UCLSEmail": "universal.credit_+_dghp.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34517,7 +34517,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universalcredit@dunbritton.org.uk",
+        "UCLSEmail": "universalcredit_+_dunbritton.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34555,8 +34555,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "ucfullservice@dunedincanmore.org.uk",
-        "UCFSEmail": "ucfullservice@dunedincanmore.org.uk",
+        "UCLSEmail": "ucfullservice_+_dunedincanmore.org.uk",
+        "UCFSEmail": "ucfullservice_+_dunedincanmore.org.uk",
         "1st Contact email": ""
     },
     {
@@ -34574,7 +34574,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Housing@east-ayrshire.gov.uk",
+        "UCLSEmail": "Housing_+_east-ayrshire.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34593,8 +34593,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.Credit@eastdunbarton.gcsx.gov.uk ",
-        "UCFSEmail": "housinguc@eastdunbarton.gcsx.gov.uk",
+        "UCLSEmail": "Universal.Credit_+_eastdunbarton.gcsx.gov.uk ",
+        "UCFSEmail": "housinguc_+_eastdunbarton.gcsx.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -34612,7 +34612,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@ekdha.co.uk",
+        "UCLSEmail": "universal.credit_+_ekdha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34631,8 +34631,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universalcredit@eastlothian.gov.uk",
-        "UCFSEmail": "universalcredit@eastlothian.gov.uk",
+        "UCLSEmail": "universalcredit_+_eastlothian.gov.uk",
+        "UCFSEmail": "universalcredit_+_eastlothian.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -34650,8 +34650,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.credit@ELHA.com",
-        "UCFSEmail": "Universal.credit@ELHA.com",
+        "UCLSEmail": "Universal.credit_+_ELHA.com",
+        "UCFSEmail": "Universal.credit_+_ELHA.com",
         "1st Contact email": ""
     },
     {
@@ -34669,7 +34669,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@eastrenfrewshire.gov.uk",
+        "UCLSEmail": "universal.credit_+_eastrenfrewshire.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34688,7 +34688,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@easthallpark.org.uk",
+        "UCLSEmail": "universal.credit_+_easthallpark.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34707,7 +34707,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@eildon.org.uk",
+        "UCLSEmail": "universal.credit_+_eildon.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34726,7 +34726,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@elderpark.org",
+        "UCLSEmail": "universal.credit_+_elderpark.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34745,7 +34745,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@faifleyha.co.uk",
+        "UCLSEmail": "universal.credit_+_faifleyha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34764,7 +34764,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@fairfield-ha.org.uk ",
+        "UCLSEmail": "universal.credit_+_fairfield-ha.org.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34783,8 +34783,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@falkirk.gcsx.gov.uk",
-        "UCFSEmail": "universal.credit@falkirk.gcsx.gov.uk",
+        "UCLSEmail": "universal.credit_+_falkirk.gcsx.gov.uk",
+        "UCFSEmail": "universal.credit_+_falkirk.gcsx.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -34802,7 +34802,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@fpha.org.uk",
+        "UCLSEmail": "universal.credit_+_fpha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34821,8 +34821,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "UC.benefits@fife.gov.uk",
-        "UCFSEmail": "Uc.benefits@fife.gov.uk",
+        "UCLSEmail": "UC.benefits_+_fife.gov.uk",
+        "UCFSEmail": "Uc.benefits_+_fife.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -34840,7 +34840,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@fifeha.org.uk",
+        "UCLSEmail": "universal.credit_+_fifeha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34859,7 +34859,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "susan@forgewoodcoop.org.uk",
+        "UCLSEmail": "susan_+_forgewoodcoop.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34878,7 +34878,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@forthha.org.uk",
+        "UCLSEmail": "universal.credit_+_forthha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34897,8 +34897,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.Credit@fynehomes.co.uk",
-        "UCFSEmail": "Universal.Credit@fynehomes.co.uk",
+        "UCLSEmail": "Universal.Credit_+_fynehomes.co.uk",
+        "UCFSEmail": "Universal.Credit_+_fynehomes.co.uk",
         "1st Contact email": ""
     },
     {
@@ -34916,7 +34916,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@gardeen.org.uk",
+        "UCLSEmail": "universal.credit_+_gardeen.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34935,7 +34935,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Elaine@gphc.org.uk",
+        "UCLSEmail": "Elaine_+_gphc.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34954,7 +34954,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@glasgow.gov.uk",
+        "UCLSEmail": "universal.credit_+_glasgow.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34973,7 +34973,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "uc.wheatley@wheatley-group.com ",
+        "UCLSEmail": "uc.wheatley_+_wheatley-group.com ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -34992,7 +34992,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universalcredit@glasgowwestha.co.uk",
+        "UCLSEmail": "universalcredit_+_glasgowwestha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35011,7 +35011,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@glenhousing.co.uk",
+        "UCLSEmail": "universal.credit_+_glenhousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35030,7 +35030,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@glenoaks.org.uk",
+        "UCLSEmail": "universal.credit_+_glenoaks.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35049,7 +35049,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "general@govanha.org.uk",
+        "UCLSEmail": "general_+_govanha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35068,7 +35068,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universalcredit@govanhillha.org",
+        "UCLSEmail": "universalcredit_+_govanhillha.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35087,7 +35087,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@grampianhousing.co.uk",
+        "UCLSEmail": "universal.credit_+_grampianhousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35107,7 +35107,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "Scotland",
         "UCLSEmail": "Do Not Want To Set up E-mail.  No UC Customers",
-        "UCFSEmail": "universal.credit@hanover.scot",
+        "UCFSEmail": "universal.credit_+_hanover.scot",
         "1st Contact email": ""
     },
     {
@@ -35125,7 +35125,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universalcredit@hawhousing.co.uk ",
+        "UCLSEmail": "universalcredit_+_hawhousing.co.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35144,7 +35144,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.credit@hebrideanhousing.co.uk ",
+        "UCLSEmail": "Universal.credit_+_hebrideanhousing.co.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35163,8 +35163,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.CreditHousing@highland.gcsx.gov.uk",
-        "UCFSEmail": "universal.credithousing@highland.gcsx.gov.uk",
+        "UCLSEmail": "Universal.CreditHousing_+_highland.gcsx.gov.uk",
+        "UCFSEmail": "universal.credithousing_+_highland.gcsx.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -35182,8 +35182,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@hillcrestha.org.uk",
-        "UCFSEmail": "universal.credit@hillcrestha.org.uk.",
+        "UCLSEmail": "universal.credit_+_hillcrestha.org.uk",
+        "UCFSEmail": "universal.credit_+_hillcrestha.org.uk.",
         "1st Contact email": ""
     },
     {
@@ -35201,8 +35201,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.credit@hillheadhousing.org",
-        "UCFSEmail": "universal.credit@hillheadhousing.org",
+        "UCLSEmail": "Universal.credit_+_hillheadhousing.org",
+        "UCFSEmail": "universal.credit_+_hillheadhousing.org",
         "1st Contact email": ""
     },
     {
@@ -35220,7 +35220,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.credit@hjaltland.org",
+        "UCLSEmail": "Universal.credit_+_hjaltland.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35258,8 +35258,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universalcredit@homesforlife.co.uk",
-        "UCFSEmail": "Universalcredit@homesforlife.co.uk",
+        "UCLSEmail": "Universalcredit_+_homesforlife.co.uk",
+        "UCFSEmail": "Universalcredit_+_homesforlife.co.uk",
         "1st Contact email": ""
     },
     {
@@ -35277,7 +35277,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@horizonhousing.org",
+        "UCLSEmail": "universal.credit_+_horizonhousing.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35296,7 +35296,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "sclyde@huntershall.org.uk",
+        "UCLSEmail": "sclyde_+_huntershall.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35315,8 +35315,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "invateam@inverclyde.gov.uk",
-        "UCFSEmail": "invateam@inverclyde.gov.uk",
+        "UCLSEmail": "invateam_+_inverclyde.gov.uk",
+        "UCFSEmail": "invateam_+_inverclyde.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -35334,7 +35334,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.CreditIrvine@riverside.org.uk",
+        "UCLSEmail": "Universal.CreditIrvine_+_riverside.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35353,7 +35353,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@kendoon.org.uk",
+        "UCLSEmail": "universal.credit_+_kendoon.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35372,8 +35372,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universalcredit@key.org.uk",
-        "UCFSEmail": "universalcredit@key.org.uk",
+        "UCLSEmail": "universalcredit_+_key.org.uk",
+        "UCFSEmail": "universalcredit_+_key.org.uk",
         "1st Contact email": ""
     },
     {
@@ -35391,7 +35391,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "DWPUCKHC@ospreyhousing.org.uk",
+        "UCLSEmail": "DWPUCKHC_+_ospreyhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35410,7 +35410,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@kingdomhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_kingdomhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35429,7 +35429,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "admin@kc-ha.com",
+        "UCLSEmail": "admin_+_kc-ha.com",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35448,8 +35448,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@knowes.org",
-        "UCFSEmail": "universal.credit@knowes.org.uk",
+        "UCLSEmail": "universal.credit_+_knowes.org",
+        "UCFSEmail": "universal.credit_+_knowes.org.uk",
         "1st Contact email": ""
     },
     {
@@ -35486,7 +35486,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@langstane-ha.co.uk",
+        "UCLSEmail": "universal.credit_+_langstane-ha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35505,8 +35505,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "info@larkfieldha.org.uk",
-        "UCFSEmail": "universalcredit@larkfieldha.org.uk",
+        "UCLSEmail": "info_+_larkfieldha.org.uk",
+        "UCFSEmail": "universalcredit_+_larkfieldha.org.uk",
         "1st Contact email": ""
     },
     {
@@ -35524,8 +35524,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "UniversalCredit@linkhaltd.co.uk",
-        "UCFSEmail": "UniversalCredit@linkhaltd.co.uk",
+        "UCLSEmail": "UniversalCredit_+_linkhaltd.co.uk",
+        "UCFSEmail": "UniversalCredit_+_linkhaltd.co.uk",
         "1st Contact email": ""
     },
     {
@@ -35543,7 +35543,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.credit@linstone.co.uk",
+        "UCLSEmail": "Universal.credit_+_linstone.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35562,7 +35562,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@linthouseha.com",
+        "UCLSEmail": "universal.credit_+_linthouseha.com",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35581,7 +35581,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@lister.coop",
+        "UCLSEmail": "universal.credit_+_lister.coop",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35600,7 +35600,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@lochaberhousing.org.uk",
+        "UCLSEmail": "universal.credit_+_lochaberhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35619,7 +35619,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@lsha.co.uk",
+        "UCLSEmail": "universal.credit_+_lsha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35657,7 +35657,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.Credit@loreburn.org.uk",
+        "UCLSEmail": "Universal.Credit_+_loreburn.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35676,7 +35676,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "uc.wheatley@wheatley-group.com ",
+        "UCLSEmail": "uc.wheatley_+_wheatley-group.com ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35695,8 +35695,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@manorestates.org.uk",
-        "UCFSEmail": "universal.credit@manorestates.org.uk",
+        "UCLSEmail": "universal.credit_+_manorestates.org.uk",
+        "UCFSEmail": "universal.credit_+_manorestates.org.uk",
         "1st Contact email": ""
     },
     {
@@ -35714,7 +35714,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "UC@maryhill.org.uk",
+        "UCLSEmail": "UC_+_maryhill.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35733,8 +35733,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@melville.org.uk",
-        "UCFSEmail": "universal.credit@melville.org.uk",
+        "UCLSEmail": "universal.credit_+_melville.org.uk",
+        "UCFSEmail": "universal.credit_+_melville.org.uk",
         "1st Contact email": ""
     },
     {
@@ -35752,8 +35752,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.Credit@midlothian.gov.uk",
-        "UCFSEmail": "universalcredit@midlandheart.org.uk ",
+        "UCLSEmail": "Universal.Credit_+_midlothian.gov.uk",
+        "UCFSEmail": "universalcredit_+_midlandheart.org.uk ",
         "1st Contact email": ""
     },
     {
@@ -35790,7 +35790,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@molendinar.org.uk",
+        "UCLSEmail": "universal.credit_+_molendinar.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35828,7 +35828,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "DWPUCOHM@ospreyhousing.org.uk",
+        "UCLSEmail": "DWPUCOHM_+_ospreyhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35847,7 +35847,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@muirhouseha.org.uk",
+        "UCLSEmail": "universal.credit_+_muirhouseha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35866,7 +35866,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@newgorbalsha.org.uk",
+        "UCLSEmail": "universal.credit_+_newgorbalsha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35904,7 +35904,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "WelfareReformTeam@north-ayrshire.gov.uk",
+        "UCLSEmail": "WelfareReformTeam_+_north-ayrshire.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35923,7 +35923,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.credit@nghomes.net",
+        "UCLSEmail": "Universal.credit_+_nghomes.net",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35942,7 +35942,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "housinguc@northlan.gcsx.gov.uk",
+        "UCLSEmail": "housinguc_+_northlan.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -35980,8 +35980,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@oaktreeha.org.uk",
-        "UCFSEmail": "universal.credit@oaktreeha.org.uk",
+        "UCLSEmail": "universal.credit_+_oaktreeha.org.uk",
+        "UCFSEmail": "universal.credit_+_oaktreeha.org.uk",
         "1st Contact email": ""
     },
     {
@@ -35999,7 +35999,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "customer.services@ochilviewha.cjsm.net",
+        "UCLSEmail": "customer.services_+_ochilviewha.cjsm.net",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36018,7 +36018,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@orevalleyha.org.uk",
+        "UCLSEmail": "universal.credit_+_orevalleyha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36037,7 +36037,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universalcredit@ohal.org.uk",
+        "UCLSEmail": "universalcredit_+_ohal.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36056,7 +36056,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "benefits@orkney.gcsx.gov.uk",
+        "UCLSEmail": "benefits_+_orkney.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36075,7 +36075,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "DWPUCOH@ospreyhousing.org.uk",
+        "UCLSEmail": "DWPUCOH_+_ospreyhousing.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36094,7 +36094,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@psha.org.uk",
+        "UCLSEmail": "universal.credit_+_psha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36113,7 +36113,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.Credit@paragonha.org.uk",
+        "UCLSEmail": "Universal.Credit_+_paragonha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36132,7 +36132,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.Credit@PARKHEADHA.ORG.UK",
+        "UCLSEmail": "Universal.Credit_+_PARKHEADHA.ORG.UK",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36151,7 +36151,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universalcredit@partickha.org.uk",
+        "UCLSEmail": "universalcredit_+_partickha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36170,7 +36170,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@pentlandhousing.co.uk",
+        "UCLSEmail": "universal.credit_+_pentlandhousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36189,7 +36189,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@pkc.gcsx.gov.uk",
+        "UCLSEmail": "universal.credit_+_pkc.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36208,7 +36208,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "mail@pineview.org.uk",
+        "UCLSEmail": "mail_+_pineview.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36227,7 +36227,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.credit@polha.co.uk",
+        "UCLSEmail": "Universal.credit_+_polha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36246,7 +36246,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@prospectch.org.uk",
+        "UCLSEmail": "universal.credit_+_prospectch.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36303,7 +36303,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@reidvale.org.uk",
+        "UCLSEmail": "universal.credit_+_reidvale.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36322,8 +36322,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "housingservices@renfrewshire.gcsx.gov.uk ",
-        "UCFSEmail": "universal.credit@renfrewshire.gcsx.gov.uk",
+        "UCLSEmail": "housingservices_+_renfrewshire.gcsx.gov.uk ",
+        "UCFSEmail": "universal.credit_+_renfrewshire.gcsx.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -36341,8 +36341,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Welfare.Benefits@riverclydehomes.org.uk",
-        "UCFSEmail": "Universal.Credit@riverclydehomes.org.uk",
+        "UCLSEmail": "Welfare.Benefits_+_riverclydehomes.org.uk",
+        "UCFSEmail": "Universal.Credit_+_riverclydehomes.org.uk",
         "1st Contact email": ""
     },
     {
@@ -36360,7 +36360,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universalcredit@rosehillhousing.co.uk",
+        "UCLSEmail": "universalcredit_+_rosehillhousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36379,7 +36379,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@ruchazieha.co.uk",
+        "UCLSEmail": "universal.credit_+_ruchazieha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36398,7 +36398,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@rsha.org.uk",
+        "UCLSEmail": "universal.credit_+_rsha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36417,7 +36417,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@southlanarkshire.gsx.gov.uk",
+        "UCLSEmail": "universal.credit_+_southlanarkshire.gsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36436,8 +36436,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.Credit@sanctuary-housing.co.uk",
-        "UCFSEmail": "Universal.Credit@sanctuary-housing.co.uk",
+        "UCLSEmail": "Universal.Credit_+_sanctuary-housing.co.uk",
+        "UCFSEmail": "Universal.Credit_+_sanctuary-housing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -36455,8 +36455,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.Credit@sanctuary-housing.co.uk",
-        "UCFSEmail": "Universal.Credit@sanctuary-housing.co.uk",
+        "UCLSEmail": "Universal.Credit_+_sanctuary-housing.co.uk",
+        "UCFSEmail": "Universal.Credit_+_sanctuary-housing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -36493,7 +36493,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@svroline.org",
+        "UCLSEmail": "universal.credit_+_svroline.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36531,7 +36531,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universalcredit@shettleston.co.uk",
+        "UCLSEmail": "universalcredit_+_shettleston.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36550,7 +36550,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@shirehousing.com",
+        "UCLSEmail": "universal.credit_+_shirehousing.com",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36569,7 +36569,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universalcredit@south-ayrshire.gcsx.gov.uk",
+        "UCLSEmail": "universalcredit_+_south-ayrshire.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36588,7 +36588,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universalcredit@southlanarkshire.gcsx.gov.uk",
+        "UCLSEmail": "universalcredit_+_southlanarkshire.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36607,7 +36607,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.credit@southside-ha.co.uk",
+        "UCLSEmail": "Universal.credit_+_southside-ha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36626,7 +36626,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.credit@spireview.org.uk",
+        "UCLSEmail": "Universal.credit_+_spireview.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36683,8 +36683,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.Credit@sanctuary-housing.co.uk",
-        "UCFSEmail": "Universal.Credit@sanctuary-housing.co.uk",
+        "UCLSEmail": "Universal.Credit_+_sanctuary-housing.co.uk",
+        "UCFSEmail": "Universal.Credit_+_sanctuary-housing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -36702,8 +36702,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.Credit@thenuehousing.co.uk",
-        "UCFSEmail": "Universal.credit@thenuehousing.co.uk",
+        "UCLSEmail": "Universal.Credit_+_thenuehousing.co.uk",
+        "UCFSEmail": "Universal.credit_+_thenuehousing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -36740,7 +36740,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "info@tollcross-ha.org.uk",
+        "UCLSEmail": "info_+_tollcross-ha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36759,7 +36759,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "hm@trafalgarha.co.uk",
+        "UCLSEmail": "hm_+_trafalgarha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36778,8 +36778,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universalcredit@trustha.org.uk",
-        "UCFSEmail": "universalcredit@trustha.org.uk",
+        "UCLSEmail": "universalcredit_+_trustha.org.uk",
+        "UCFSEmail": "universalcredit_+_trustha.org.uk",
         "1st Contact email": ""
     },
     {
@@ -36797,8 +36797,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@viewpoint.org.uk",
-        "UCFSEmail": "universal.credit@viewpoint.org.uk",
+        "UCLSEmail": "universal.credit_+_viewpoint.org.uk",
+        "UCFSEmail": "universal.credit_+_viewpoint.org.uk",
         "1st Contact email": ""
     },
     {
@@ -36816,7 +36816,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@waverley-housing.co.uk",
+        "UCLSEmail": "universal.credit_+_waverley-housing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36835,7 +36835,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.Credit@wellhouseha.org.uk",
+        "UCLSEmail": "Universal.Credit_+_wellhouseha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36854,7 +36854,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "Universal.credit@weslohm.co.uk",
+        "UCLSEmail": "Universal.credit_+_weslohm.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36873,7 +36873,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "wdcucredit@wdc.gcsx.gov.uk",
+        "UCLSEmail": "wdcucredit_+_wdc.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36892,7 +36892,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "hm@westgrantonhc.co.uk",
+        "UCLSEmail": "hm_+_westgrantonhc.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36911,8 +36911,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universalcredit@westhighlandha.co.uk",
-        "UCFSEmail": "universalcredit@westhighlandha.co.uk",
+        "UCLSEmail": "universalcredit_+_westhighlandha.co.uk",
+        "UCFSEmail": "universalcredit_+_westhighlandha.co.uk",
         "1st Contact email": ""
     },
     {
@@ -36930,7 +36930,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universalcredithcbs@westlothian.gcsx.gov.uk",
+        "UCLSEmail": "universalcredithcbs_+_westlothian.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36949,7 +36949,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "uc.wheatley@wheatley-group.com ",
+        "UCLSEmail": "uc.wheatley_+_wheatley-group.com ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -36968,8 +36968,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@westscot.co.uk",
-        "UCFSEmail": "universal.credit@westscot.co.uk",
+        "UCLSEmail": "universal.credit_+_westscot.co.uk",
+        "UCFSEmail": "universal.credit_+_westscot.co.uk",
         "1st Contact email": ""
     },
     {
@@ -36987,7 +36987,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@wwhc.org.uk",
+        "UCLSEmail": "universal.credit_+_wwhc.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37006,7 +37006,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "uc.wheatley@wheatley-group.com ",
+        "UCLSEmail": "uc.wheatley_+_wheatley-group.com ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37025,7 +37025,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@wsha.org.uk",
+        "UCLSEmail": "universal.credit_+_wsha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37044,7 +37044,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@williamsburghha.co.uk",
+        "UCLSEmail": "universal.credit_+_williamsburghha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37063,7 +37063,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "universal.credit@wishawdha.org.uk",
+        "UCLSEmail": "universal.credit_+_wishawdha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37082,7 +37082,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "housing@yokerha.org.uk",
+        "UCLSEmail": "housing_+_yokerha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37101,7 +37101,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Scotland",
-        "UCLSEmail": "HousingMan@yorkhillha.org",
+        "UCLSEmail": "HousingMan_+_yorkhillha.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37310,7 +37310,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "DWPUC@aelwyd.co.uk",
+        "UCLSEmail": "DWPUC_+_aelwyd.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37386,7 +37386,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universal.credit@bromyrddin.co.uk",
+        "UCLSEmail": "universal.credit_+_bromyrddin.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37405,7 +37405,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "Universal.credit@bronafon.org.uk",
+        "UCLSEmail": "Universal.credit_+_bronafon.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37443,7 +37443,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universal.credit@cadwyn.co.uk",
+        "UCLSEmail": "universal.credit_+_cadwyn.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37462,7 +37462,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "unicredit@caerphilly.gov.uk",
+        "UCLSEmail": "unicredit_+_caerphilly.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37481,7 +37481,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "UC@ccha.org.uk",
+        "UCLSEmail": "UC_+_ccha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37500,7 +37500,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "HousingRents@carmarthenshire.gov.uk",
+        "UCLSEmail": "HousingRents_+_carmarthenshire.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37519,7 +37519,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "Universal.Credit@cartreficonwy.org",
+        "UCLSEmail": "Universal.Credit_+_cartreficonwy.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37538,7 +37538,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universal.credit@ccgwynedd.org.uk",
+        "UCLSEmail": "universal.credit_+_ccgwynedd.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37558,7 +37558,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "Wales",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "Validate email - tenantservices@castlehousing.co.uk",
+        "UCFSEmail": "Validate email - tenantservices_+_castlehousing.co.uk",
         "1st Contact email": ""
     },
     {
@@ -37576,7 +37576,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "rentteam@charterhousing.co.uk",
+        "UCLSEmail": "rentteam_+_charterhousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37595,7 +37595,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "housingrents@cardiff.gcsx.gov.uk",
+        "UCLSEmail": "housingrents_+_cardiff.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37614,8 +37614,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "Universal.Credit@clwydalyn.co.uk",
-        "UCFSEmail": "Universal.Credit@clwydalyn.co.uk",
+        "UCLSEmail": "Universal.Credit_+_clwydalyn.co.uk",
+        "UCFSEmail": "Universal.Credit_+_clwydalyn.co.uk",
         "1st Contact email": ""
     },
     {
@@ -37633,7 +37633,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universal.credit@cantref.co.uk",
+        "UCLSEmail": "universal.credit_+_cantref.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37652,7 +37652,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universal.credit@cynon-taf.org.uk ",
+        "UCLSEmail": "universal.credit_+_cynon-taf.org.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37690,7 +37690,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universal.credit@derwencymru.co.uk ",
+        "UCLSEmail": "universal.credit_+_derwencymru.co.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37709,7 +37709,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "rents@fha-wales.com",
+        "UCLSEmail": "rents_+_fha-wales.com",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37748,7 +37748,7 @@ var la_landlords = [{
         "Legal Entity": "",
         "Country": "Wales",
         "UCLSEmail": "No email gathered",
-        "UCFSEmail": "universalcreditrv@flintshire.gov.uk",
+        "UCFSEmail": "universalcreditrv_+_flintshire.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -37785,8 +37785,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universalcredit@grwpcynefin.org",
-        "UCFSEmail": "universalcredit@grwpcynefin.org",
+        "UCLSEmail": "universalcredit_+_grwpcynefin.org",
+        "UCFSEmail": "universalcredit_+_grwpcynefin.org",
         "1st Contact email": ""
     },
     {
@@ -37804,7 +37804,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universal.credit@gwalia.com",
+        "UCLSEmail": "universal.credit_+_gwalia.com",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37842,7 +37842,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universal.credit@hafod.org.uk",
+        "UCLSEmail": "universal.credit_+_hafod.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37899,7 +37899,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universal.credit@linc-cymru.co.uk",
+        "UCLSEmail": "universal.credit_+_linc-cymru.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37937,7 +37937,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universal.credit@melinhomes.co.uk",
+        "UCLSEmail": "universal.credit_+_melinhomes.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37956,7 +37956,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universal.credit@mtha.org.uk",
+        "UCLSEmail": "universal.credit_+_mtha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37975,7 +37975,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universal.credit@mvhomes.org.uk ",
+        "UCLSEmail": "universal.credit_+_mvhomes.org.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -37994,8 +37994,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "mhurley@mid-walesha.co.uk",
-        "UCFSEmail": "Universal.Credit@midlothian.gov.uk",
+        "UCLSEmail": "mhurley_+_mid-walesha.co.uk",
+        "UCFSEmail": "Universal.Credit_+_midlothian.gov.uk",
         "1st Contact email": ""
     },
     {
@@ -38032,7 +38032,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "ucnotifications@monmouthshirehousing.co.uk",
+        "UCLSEmail": "ucnotifications_+_monmouthshirehousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -38051,7 +38051,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "Universal.credit@newportcityhomes.com",
+        "UCLSEmail": "Universal.credit_+_newportcityhomes.com",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -38070,7 +38070,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "rent.team@newydd.cjsm.net",
+        "UCLSEmail": "rent.team_+_newydd.cjsm.net",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -38089,7 +38089,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universalcreditrents@nwha.org.uk",
+        "UCLSEmail": "universalcreditrents_+_nwha.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -38108,7 +38108,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universalcredit@npthomes.co.uk",
+        "UCLSEmail": "universalcredit_+_npthomes.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -38127,7 +38127,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "Benefits@pembrokeshire.gcsx.gov.uk",
+        "UCLSEmail": "Benefits_+_pembrokeshire.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -38146,7 +38146,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universalcredit.pembrokeshirehousing@pembs-ha.co.uk",
+        "UCLSEmail": "universalcredit.pembrokeshirehousing_+_pembs-ha.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -38203,7 +38203,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universal.credit@powys.gov.uk",
+        "UCLSEmail": "universal.credit_+_powys.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -38222,7 +38222,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "UniversalCredit@rcthomes.co.uk ",
+        "UCLSEmail": "UniversalCredit_+_rcthomes.co.uk ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -38241,7 +38241,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universal.credit@Rhondda.org ",
+        "UCLSEmail": "universal.credit_+_Rhondda.org ",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -38374,7 +38374,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "Housing.rents@swansea.gcsx.gov.uk",
+        "UCLSEmail": "Housing.rents_+_swansea.gcsx.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -38393,7 +38393,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "Universal.credit@taffhousing.co.uk",
+        "UCLSEmail": "Universal.credit_+_taffhousing.co.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -38412,7 +38412,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "Universal.Credit@taicalon.org",
+        "UCLSEmail": "Universal.Credit_+_taicalon.org",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -38431,7 +38431,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "post@taiceredigion.org.uk",
+        "UCLSEmail": "post_+_taiceredigion.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -38469,7 +38469,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universal.credit@gwalia.com",
+        "UCLSEmail": "universal.credit_+_gwalia.com",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     },
@@ -38488,7 +38488,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universalcredit@valeofglamorgan.gov.uk",
+        "UCLSEmail": "universalcredit_+_valeofglamorgan.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     }, {
@@ -38506,8 +38506,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "Universal.Credit@TyGlas.co.uk",
-        "UCFSEmail": "Universal.Credit@TyGlas.co.uk",
+        "UCLSEmail": "Universal.Credit_+_TyGlas.co.uk",
+        "UCFSEmail": "Universal.Credit_+_TyGlas.co.uk",
         "1st Contact email": ""
     }, {
         "ID": 2028,
@@ -38524,7 +38524,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universal.credit@unitedwelsh.com",
+        "UCLSEmail": "universal.credit_+_unitedwelsh.com",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     }, {
@@ -38542,7 +38542,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universalcredit@valeofglamorgan.gov.uk",
+        "UCLSEmail": "universalcredit_+_valeofglamorgan.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     }, {
@@ -38560,7 +38560,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "universal.credit@v2c.org.uk",
+        "UCLSEmail": "universal.credit_+_v2c.org.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     }, {
@@ -38578,8 +38578,8 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "Universal.Credit@wwha.co.uk",
-        "UCFSEmail": "Universal.Credit@wwha.co.uk",
+        "UCLSEmail": "Universal.Credit_+_wwha.co.uk",
+        "UCFSEmail": "Universal.Credit_+_wwha.co.uk",
         "1st Contact email": ""
     }, {
         "ID": 2032,
@@ -38596,7 +38596,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "HEsupport@wrexham.gov.uk",
+        "UCLSEmail": "HEsupport_+_wrexham.gov.uk",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     }, {
@@ -38614,7 +38614,7 @@ var la_landlords = [{
         "Registration Date": null,
         "Legal Entity": "",
         "Country": "Wales",
-        "UCLSEmail": "enquiries@ymcacardiff.wales",
+        "UCLSEmail": "enquiries_+_ymcacardiff.wales",
         "UCFSEmail": "UCLS email gathered",
         "1st Contact email": ""
     }
