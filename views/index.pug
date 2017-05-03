@@ -1,0 +1,76 @@
+html
+  head
+    script(src="https://code.jquery.com/jquery-3.2.1.min.js")
+    link(rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css")
+    script(src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js")
+
+    link(rel="stylesheet" href="mycss.css")
+
+    title=  title
+
+  body
+    nav.navbar.navbar-default
+      .col-lg-2
+        .navbar-header
+          img.navbar-text(src='logo.png' width="90")
+      .col-lg-6
+      .col-lg-4
+        .btn-group
+          button.btn.btn-primary(type="button") About
+          button.btn.btn-primary(type="button") Contact us
+          button.btn.btn-primary(type="button") Help
+
+  .container-fluid
+    .col-lg-12
+      ul.nav.nav-tabs
+        li.active(name="tab_postcode")
+          a(data-toggle="tab" href="#tab_postcode") Postcode
+        li
+          a(data-toggle="tab" href="#tab_landlords") Landlords
+        li
+          a(data-toggle="tab" href="#tab_las") Local authorities
+        li
+          a(data-toggle="tab" href="#tab_tools") Tools
+
+  .container-fluid
+    .tab-content
+      .tab-pane.fade.in.active#tab_postcode
+        .container-fluid
+          .row
+            .col-lg-12
+              form#myform
+                fieldset(name="searchbox")
+
+                  Enter the customer's home postcode
+                  input#dataentry(type="text")
+                  button(type="button" onclick="yy()") Search
+                    span.glyphicon.glyphicon-search
+
+          .row
+            .col-lg-8
+              .panel-group#landlordlist
+                .panel.panel-primary
+                  .panel-heading
+                    h3.panel-title Search results
+                  .panel-body
+
+            .col-lg-4
+              .panel.panel-primary
+                .panel-heading
+                  h3.panel-title Customer details
+                .panel-body
+
+      .tab-pane.fade#tab_landlords
+      .tab-pane.fade#tab_tools
+        p fuck!
+
+      .tab-pane.fade#tab_las
+        .row
+          .col-lg-12
+            table.table.table-striped.table-condensed
+            thead
+              tr
+                th name
+            tbody#latable
+
+    script(src="storecode.js")

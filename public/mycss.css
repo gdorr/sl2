@@ -1,0 +1,38 @@
+#landlordbox {
+    border: 1px dashed;
+    background-color: white;
+    width: 50%;
+    height: 500px;
+    float: left;
+    overflow: scroll;
+}
+
+#infobox {
+    border: 1px dashed;
+    background-color: lightblue;
+    width: 30%;
+    height: 500px;
+    float: left;
+    overflow: scroll;
+}
+
+dl {
+    width: 50%;
+}
+
+dd {
+    display: block;
+    background-color: lightgrey;
+    border: 1px solid;
+}
+
+dt {
+    display: block;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+#myform {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
